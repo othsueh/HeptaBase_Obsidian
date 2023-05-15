@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/質疑這個世界.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 400,
-                  "y": 189.84615384615384,
-                  "zoom": -1.174029399775049
+                  "x": 822.6081612373696,
+                  "y": 483.3087617352779,
+                  "zoom": -0.5694354932997208
                 }
               }
             }
@@ -88,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🌎Maps/質疑這個世界.canvas",
+            "file": "🌎Maps/JS Learning.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🌎Maps/質疑這個世界.canvas",
+            "file": "🌎Maps/JS Learning.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🌎Maps/質疑這個世界.canvas"
+            "file": "🌎Maps/JS Learning.canvas"
           }
         }
       }
@@ -136,8 +136,12 @@
   },
   "active": "e55cca40d144fb85",
   "lastOpenFiles": [
-    "🥏Permanent Note/Question About the World.md",
     "🌎Maps/質疑這個世界.canvas",
+    "🌎Maps/JS Learning.canvas",
+    "🥏Permanent Note/JS Learned.md",
+    "/🥏Permanent Note/JS Learned.md",
+    "/🌎Maps/JS Learning.canvas",
+    "🥏Permanent Note/Question About the World.md",
     "🗺️Map.canvas",
     "💡Journal/2023-05-15.md",
     "🌎Maps/Discrete Mathmatics.canvas"
