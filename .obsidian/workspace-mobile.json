@@ -72,7 +72,8 @@
           "state": {}
         }
       }
-    ]
+    ],
+    "currentTab": 0
   },
   "right": {
     "id": "db7dc064a8e94e4f",
@@ -130,10 +131,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89436147c6e8421f",
+  "active": "e55cca40d144fb85",
   "lastOpenFiles": [
     "🌎Maps/質疑這個世界.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
-    "🗺️Map.canvas"
+    "🗺️Map.canvas",
+    "💡Journal/2023-05-15.md",
+    "🌎Maps/Discrete Mathmatics.canvas"
   ]
 }
