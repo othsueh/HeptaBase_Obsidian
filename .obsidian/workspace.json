@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": -0.51875
+                  "x": 527.2997187282466,
+                  "y": 255.78321804686036,
+                  "zoom": 0.51875
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🥏Permanent Note/JS Learned.md",
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🥏Permanent Note/JS Learned.md",
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🥏Permanent Note/JS Learned.md"
+                "file": "🌎Maps/JS Learning.canvas"
               }
             }
           }
@@ -149,7 +150,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6dfbe2f8f379d3e",
+  "active": "13350fb58d554658",
   "lastOpenFiles": [
     "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-05-15.md",
