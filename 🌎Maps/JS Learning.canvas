@@ -1,8 +1,9 @@
 {
 	"nodes":[
 		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":0,"y":0,"width":400,"height":400},
-		{"id":"72d1fe2d5e17759e","x":600,"y":313,"width":480,"height":298,"type":"text","text":"# IIFE\n> Immediately Invoked Function Expression\n\n**Differnce**: When declare the function, the function also works.(Work once)\n```js \n(function hello(){\n\tconsole.log('Hello');\n})()\n```"},
-		{"id":"a884f4db1b953a12","x":580,"y":80,"width":500,"height":216,"type":"text","text":"# this\n> `this` keyword works depends on how function are called.\n\n**In Function** : undefined \n**In Method** : object\n\n"}
+		{"id":"a884f4db1b953a12","x":580,"y":40,"width":500,"height":216,"type":"text","text":"# this\n> `this` keyword works depends on how function are called.\n\n**In Function** : undefined \n**In Method** : object\n\n"},
+		{"id":"72d1fe2d5e17759e","x":580,"y":300,"width":480,"height":298,"type":"text","text":"# IIFE\n> Immediately Invoked Function Expression\n\n**Differnce**: When declare the function, the function also works.(Work once)\n```js \n(function hello(){\n\tconsole.log('Hello');\n})()\n```"},
+		{"id":"7c397cc3e8f8735e","x":560,"y":258,"width":250,"height":60,"type":"text","text":"# .call()\n> We use `call()` method to "}
 	],
 	"edges":[]
 }
