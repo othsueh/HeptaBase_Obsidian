@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/質疑這個世界.canvas",
                 "viewState": {
-                  "x": 650.2466301994641,
-                  "y": 364.0295277493453,
-                  "zoom": -0.04126399991099478
+                  "x": 400,
+                  "y": 189.84615384615384,
+                  "zoom": -1.174029399775049
                 }
               }
             }
@@ -136,9 +136,10 @@
   },
   "active": "e55cca40d144fb85",
   "lastOpenFiles": [
+    "🥏Permanent Note/Question About the World.md",
+    "🌎Maps/質疑這個世界.canvas",
     "🗺️Map.canvas",
     "💡Journal/2023-05-15.md",
-    "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/Discrete Mathmatics.canvas"
   ]
 }
