@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":0,"y":0,"width":400,"height":400},
-		{"id":"72d1fe2d5e17759e","x":600,"y":313,"width":417,"height":287,"type":"text","text":"# IIFE\n> Immediately Invoked Function Expression\n\n**Differnce**: When declare the function, the function also works.(Work once)\n```js \n(function hello(){\n\tconsole.log('Hello');\n})()\n```"}
+		{"id":"72d1fe2d5e17759e","x":600,"y":313,"width":417,"height":287,"type":"text","text":"# IIFE\n> Immediately Invoked Function Expression\n\n**Differnce**: When declare the function, the function also works.(Work once)\n```js \n(function hello(){\n\tconsole.log('Hello');\n})()\n```"},
+		{"id":"a884f4db1b953a12","x":560,"y":258,"width":250,"height":60,"type":"text","text":"# this\n"}
 	],
 	"edges":[]
 }
