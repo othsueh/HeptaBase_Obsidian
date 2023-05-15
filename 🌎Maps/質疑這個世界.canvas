@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"","id":"cf89152a7fd7ba6e","x":75,"y":170,"width":250,"height":60},
+		{"type":"file","file":"🥏Permanent Note/Question About the World.md","id":"3428685cc2045309","x":0,"y":0,"width":400,"height":400},
+		{"type":"text","text":"## 輸入與輸出","id":"addc90b9d8d0848c","x":520,"y":110,"width":250,"height":60,"color":"#2fe44d"},
+		{"id":"d5bce3f7bdd67777","x":520,"y":230,"width":280,"height":130,"color":"3","type":"text","text":"## 數學家心裡想甚麼\n- 發明/發現一個通用的模式/方法"}
+	],
+	"edges":[]
+}
