@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "983aae24e332232f",
+    "id": "8b6c665643324078",
     "type": "split",
     "children": [
       {
-        "id": "4f194a2c603631e7",
+        "id": "f549e1cc86b5cc32",
         "type": "tabs",
         "children": [
           {
-            "id": "13350fb58d554658",
+            "id": "b1dd8073220076a6",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/技術面.canvas",
                 "viewState": {
-                  "x": 1325.668286132812,
-                  "y": 1186.0028173828107,
-                  "zoom": 0
+                  "x": 2126.139404858445,
+                  "y": 1986.818006380153,
+                  "zoom": -2.3442568213087926
                 }
               }
             }
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "02d1f285ee7b5159",
+    "id": "8f503a59cd8e0fbc",
     "type": "split",
     "children": [
       {
-        "id": "37a698a41abe09a0",
+        "id": "0fa38c23515d5e61",
         "type": "tabs",
         "children": [
           {
-            "id": "e6dfbe2f8f379d3e",
+            "id": "1860b9fbac76cf6b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "aaff2d0f10df9ffd",
+            "id": "f935cb06cb81127d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "2944e25468118ab7",
+            "id": "aff7d9f97aa8eb7f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -75,44 +75,44 @@
     "width": 300
   },
   "right": {
-    "id": "a620f084a5a46883",
+    "id": "2b1f0b8f41eeb8aa",
     "type": "split",
     "children": [
       {
-        "id": "04ccd180de9359a8",
+        "id": "6b53a0464394260b",
         "type": "tabs",
         "children": [
           {
-            "id": "481d1e5770fba5d4",
+            "id": "784abd878d9fae17",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/技術面.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": false
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5daf5207aa89e233",
+            "id": "0e46b20d33f24227",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/技術面.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "a1edbd0d2ddd0b3d",
+            "id": "01e3943cf77882bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,12 +123,12 @@
             }
           },
           {
-            "id": "474ba00a68844134",
+            "id": "53bca9c151679a67",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "🌎Maps/技術面.canvas"
               }
             }
           }
@@ -149,33 +149,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13350fb58d554658",
+  "active": "b1dd8073220076a6",
   "lastOpenFiles": [
-    "🌎Maps/質疑這個世界.canvas",
-    "🌎Maps/技術面.canvas",
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
-    "🥏Permanent Note/技術分析.md",
-    "📱Media Collected/Pasted image 20230516104356.png",
-    "📱Media Collected/Pasted image 20230516103424.png",
-    "📱Media Collected/Pasted image 20230516103158.png",
-    "📱Media Collected",
-    "🥏Permanent Note/JS Learned.md",
-    "💡Journal/2023-05-15.md",
-    "🥏Permanent Note/Question About the World.md",
-    "🗺️Map.canvas",
-    "🦄Templates/01 - Journal.md",
-    "💡Journal",
-    "[Question About the World.md",
-    "🥏Permanent Note",
-    "Untitled.md",
-    "2023-05-15.md",
-    "🦄Templates",
-    "測試.canvas",
-    "🌎Maps",
-    "💡Journal/輸入與輸出.md",
-    "💡Fleet note/Untitled.md",
-    "🥏Permanent note",
-    "💻Literature note"
+    "conflict-files-obsidian-git.md",
+    "🌎Maps/技術面.canvas"
   ]
 }
