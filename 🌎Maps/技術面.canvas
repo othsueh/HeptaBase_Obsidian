@@ -5,16 +5,22 @@
 		{"type":"text","text":"# 型態與結構\n> 透過觀察型態與結構, 判斷目前市場趨勢反轉或延續\n","id":"cfce34bf8c9e8efd","x":529,"y":44,"width":408,"height":156},
 		{"type":"text","text":"# 市場數據\n> 期貨與現貨市場數據, 比如期貨市場作多與做空的比例、各個交易標的的市占率","id":"75ebb276713d9f11","x":529,"y":240,"width":417,"height":125},
 		{"type":"text","text":"# 技術指標\n> 透過計算歷史數據發展成的數學模型或架構。數據相對遲緩, 很容易導致在行情中、末後段進場,造成虧損。","id":"2b72d7831784d121","x":529,"y":400,"width":417,"height":155},
-		{"type":"text","text":"# K線\n> 一定時間區段下所對應的價格波動\n\n![[Pasted image 20230516103158.png]]","id":"b405f48c6fa4912d","x":1998,"y":-164,"width":379,"height":246},
-		{"type":"text","text":"# 運用不同時間級別分析\n> 小時間級別比大時間級別更能呈現市場樣貌\n\n![[Pasted image 20230516103424.png]]\n","id":"cc4591931b522652","x":1998,"y":82,"width":488,"height":355},
-		{"type":"text","text":"# 分析本質\n**時間** : 分析週期\n**空間** : 分析目標價格\n**波動** : 能量, 在時間與空間內k線與交易量之間的關係","id":"527cd77a81df130b","x":1998,"y":478,"width":365,"height":215},
-		{"type":"text","text":"# 常見K線型態\n- **大陽/陰線** : 漲勢/跌勢猛烈\n- **垂型線** : 市場趨勢反轉(下跌趨勢中由賣轉買)\n- **射擊之星** : 市場趨勢反轉(上漲趨勢中由買轉賣)\n- **紡錘線, 十字星** : 盤整, 價格小幅波動\n![[Pasted image 20230516104356.png]]","id":"af5e2f662efd2756","x":1998,"y":758,"width":396,"height":418},
-		{"type":"text","text":"# 基本架構\n1. k 線\n2. 不同時間級別\n3. k 線型態\n4. 分析本質\n","id":"acc6ed1f23bae2cd","x":1200,"y":161,"width":317,"height":198},
-		{"type":"text","text":"# 價格的上漲與下跌\n**需求>供給** ： 供不應求 -> 價格上漲\n**供給>需求** ： 供過於求 -> 價格下跌\n![[Pasted image 20230516143943.png]]","id":"a5804ced75a75779","x":2014,"y":1240,"width":364,"height":332},
-		{"type":"text","text":"# 趨勢反轉的本質\n1. 關鍵價格\n2. 交易策略買入、賣出點\n3. 整數價格\n4. 回撤價格\n5. 供給、需求區間","id":"3d45450bc888d7f4","x":1998,"y":1640,"width":314,"height":211},
-		{"type":"text","text":"# 關鍵價格\n> 市場所關注的價格，歷史新高/低、今年新高、期待高點等等","id":"cb3e8fdd0afc3652","x":2420,"y":1572,"width":365,"height":142},
-		{"id":"eb1133b3f89b9352","x":2420,"y":1746,"width":368,"height":128,"type":"text","text":"# 交易策略買入/賣出點\n> 專業交易戶、機構、莊家藉由技術分析工具來判斷的買入/賣出點"},
-		{"id":"514e1c3dab77f23d","x":2420,"y":1920,"width":341,"height":104,"type":"text","text":"# 整數價格\n> 通常是5的倍數，ex: 39500, 2350..."}
+		{"type":"text","text":"# 基本架構\n1. k 線\n2. 不同時間級別\n3. k 線型態\n4. 分析本質\n","id":"acc6ed1f23bae2cd","x":1040,"y":-480,"width":317,"height":198},
+		{"type":"text","text":"# K線\n> 一定時間區段下所對應的價格波動\n\n![[Pasted image 20230516103158.png]]","id":"b405f48c6fa4912d","x":1600,"y":-1139,"width":379,"height":246},
+		{"type":"text","text":"# 運用不同時間級別分析\n> 小時間級別比大時間級別更能呈現市場樣貌\n\n![[Pasted image 20230516103424.png]]\n","id":"cc4591931b522652","x":1600,"y":-893,"width":488,"height":355},
+		{"type":"text","text":"# 分析本質\n**時間** : 分析週期\n**空間** : 分析目標價格\n**波動** : 能量, 在時間與空間內k線與交易量之間的關係","id":"527cd77a81df130b","x":1600,"y":-497,"width":365,"height":215},
+		{"type":"text","text":"# 常見K線型態\n- **大陽/陰線** : 漲勢/跌勢猛烈\n- **垂型線** : 市場趨勢反轉(下跌趨勢中由賣轉買)\n- **射擊之星** : 市場趨勢反轉(上漲趨勢中由買轉賣)\n- **紡錘線, 十字星** : 盤整, 價格小幅波動\n![[Pasted image 20230516104356.png]]","id":"af5e2f662efd2756","x":1600,"y":-217,"width":396,"height":418},
+		{"type":"text","text":"# 價格的上漲與下跌\n**需求>供給** ： 供不應求 -> 價格上漲\n**供給>需求** ： 供過於求 -> 價格下跌\n![[Pasted image 20230516143943.png]]","id":"a5804ced75a75779","x":2397,"y":-715,"width":436,"height":430},
+		{"type":"text","text":"# 趨勢反轉的本質\n1. 關鍵價格\n2. 交易策略買入、賣出點\n3. 整數價格\n4. 回撤價格\n5. 供給、需求區間","id":"3d45450bc888d7f4","x":2458,"y":-79,"width":314,"height":211},
+		{"type":"text","text":"# 關鍵價格\n> 市場所關注的價格，歷史新高/低、今年新高、期待高點等等","id":"cb3e8fdd0afc3652","x":2900,"y":-260,"width":365,"height":142},
+		{"type":"text","text":"# 交易策略買入/賣出點\n> 專業交易戶、機構、莊家藉由技術分析工具來判斷的買入/賣出點","id":"eb1133b3f89b9352","x":2900,"y":-79,"width":368,"height":128},
+		{"type":"text","text":"# 整數價格\n> 通常是5的倍數，ex: 39500, 2350...等","id":"514e1c3dab77f23d","x":2900,"y":80,"width":341,"height":104},
+		{"id":"ba04ceb75fa25516","x":2900,"y":200,"width":382,"height":120,"type":"text","text":"# 供給, 需求區間的本質\n- **供給** : 賣出 -> 壓力(下跌)\n- **需求** : 買入 -> 支撐(上漲)"},
+		{"id":"2a53fa8d6f5c1368","x":3440,"y":177,"width":440,"height":286,"type":"text","text":"# 價格區間繪製\n>價格區間(供給與需求區間之間)為未來的震盪範圍\n\n1. 最高, 最低點\n2. 兩/三明顯引線可以形成一區間\n3. 越多點越好\n4. 越極端越好(引線部分)\n\n"},
+		{"id":"f851e0383caae7f7","x":3960,"y":-26,"width":479,"height":138,"type":"text","text":"# 回踩\n>價格突破後通常會再次測試該價格區間, 來測試供需平衡\n(通常會維持原結果)\n"},
+		{"id":"896bc1ffa977b04b","x":3960,"y":132,"width":459,"height":218,"type":"text","text":"# 上帝視角\n>大趨勢為**主**\n\n**趨勢** : 上升\n**時間線** : 週、日線\n**動作** : 低點買入"},
+		{"id":"239a362b802fd956","x":4280,"y":380,"width":520,"height":412,"type":"text","text":"# 趨勢分析自我問答\n1. 現在甚麼趨勢 (大/小)\n2. 根據現在趨勢,我可以分別做甚麼動作\n3. 檢視自己策略是否正確\n4. 目前趨勢不能反轉的條件有那些=>判斷風險\n5. 透過可承受的風險來做交易\n![[Pasted image 20230516190743.png]]"},
+		{"id":"9090cb10bad9b995","x":3960,"y":380,"width":276,"height":205,"type":"text","text":"# 凡人視角\n>小趨勢為輔\n\n**趨勢** : 下降\n**時間線** : 4H, 1H\n**動作** : 合約, 衍生品, 做空\n"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
@@ -27,6 +33,8 @@
 		{"id":"859be9178a137e40","fromNode":"acc6ed1f23bae2cd","fromSide":"right","toNode":"af5e2f662efd2756","toSide":"left"},
 		{"id":"d6bbc06e1c32457e","fromNode":"cb3e8fdd0afc3652","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"},
 		{"id":"271d45a249946a7b","fromNode":"eb1133b3f89b9352","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"},
-		{"id":"9277f71eb433c3d3","fromNode":"514e1c3dab77f23d","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"}
+		{"id":"9277f71eb433c3d3","fromNode":"514e1c3dab77f23d","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"},
+		{"id":"a65afcbe4a638d69","fromNode":"ba04ceb75fa25516","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"},
+		{"id":"1eec2bb731c03bc6","fromNode":"acc6ed1f23bae2cd","fromSide":"left","toNode":"45fc0ed38c884e1b","toSide":"right"}
 	]
 }
