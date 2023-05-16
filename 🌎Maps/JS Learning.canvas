@@ -10,7 +10,7 @@
 		{"type":"text","text":"# Closure\n> A function backpack, which give you access to use all things in the function with independent variables environment.\n\n```js\nfunction howDogs(){\n\tlet count = 0;\n\treturn function(){\n\t\tcount++;\n\t\tconsole.log(`You have ${count} dogs now!`);\n\t}\n}\nconst dog2 = howDogs();\ndog2(); //1\ndog2(); //2\n```","id":"af7554afd4f253d4","x":480,"y":580,"width":520,"height":450},
 		{"id":"9087ca9f860b541d","x":1061,"y":863,"width":499,"height":217,"type":"text","text":"# ... (Spread Operator)\n> Devide elements in string/array to independent value\n\n```js\nconst disney = ['d','i','s','n','e','y'];\nconsole.log(disney);//array type\nconsole.log(...disney);//char type\n```"},
 		{"id":"5bf6d29914be736c","x":1061,"y":1100,"width":398,"height":405,"type":"text","text":"# ... (rest Operator)\n> Parameter for function to use unknown number of paramters.\n\n```js\nfunction sum(…numbers) { \n\tconst result = 0; \n\tnumbers.forEach(function (number) { \n\tresult += number; \n\t}) \n\treturn result \n\t} \nsum(1) // 1 \nsum(1, 2, 3, 4, 5) // 15\n```"},
-		{"id":"96e3a8f97fd00a09","x":1201,"y":1156,"width":419,"height":124,"type":"text","text":"# Destructuring\n"}
+		{"id":"96e3a8f97fd00a09","x":1201,"y":1156,"width":419,"height":124,"type":"text","text":"# Destructuring\n>Use multiple variables to store multiple values with array or object\n\n```js\nconst magic = [0,1,1,0];\nconst [m1,m2,...m3] = magic; //m1 : 0 ; m2 : 1 ; m3 :[]\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
