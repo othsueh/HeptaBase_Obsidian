@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-05-15.md",
+                "file": "💡Journal/2023-05-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -72,8 +72,7 @@
           "state": {}
         }
       }
-    ],
-    "currentTab": 0
+    ]
   },
   "right": {
     "id": "db7dc064a8e94e4f",
@@ -85,7 +84,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "💡Journal/2023-05-15.md",
+            "file": "💡Journal/2023-05-16.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "💡Journal/2023-05-15.md",
+            "file": "💡Journal/2023-05-16.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +113,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "💡Journal/2023-05-15.md"
+            "file": "💡Journal/2023-05-16.md"
           }
         }
       }
@@ -133,14 +132,27 @@
   },
   "active": "e55cca40d144fb85",
   "lastOpenFiles": [
+    "💡Journal/2023-05-15.md",
+    "💡Journal/2023-05-16.md",
+    "🌎Maps/技術面.canvas",
     "🌎Maps/JS Learning.canvas",
+    "🥏Permanent Note/技術分析.md",
+    "📱Media Collected/Pasted image 20230516103424.png",
+    "📱Media Collected/Pasted image 20230516104356.png",
+    "📱Media Collected/Pasted image 20230516103158.png",
+    "📱Media Collected",
+    "/🥏Permanent Note/技術分析.md",
+    "/📱Media Collected/Pasted image 20230516104356.png",
+    "/📱Media Collected/Pasted image 20230516103424.png",
+    "/📱Media Collected/Pasted image 20230516103158.png",
+    "/🌎Maps/技術面.canvas",
+    "/📱Media Collected",
     "/🌎Maps/JS Learning.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "🥏Permanent Note/JS Learned.md",
     "/🥏Permanent Note/JS Learned.md",
     "🥏Permanent Note/Question About the World.md",
     "🗺️Map.canvas",
-    "💡Journal/2023-05-15.md",
     "🌎Maps/Discrete Mathmatics.canvas"
   ]
 }
