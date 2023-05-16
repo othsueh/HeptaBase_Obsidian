@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 1346.1741840215382,
-                  "y": 544.8153220900514,
-                  "zoom": -2.092933558183679
+                  "x": 1325.668286132812,
+                  "y": 1186.0028173828107,
+                  "zoom": 0
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/技術面.canvas"
+                "file": "🌎Maps/JS Learning.canvas"
               }
             }
           }
@@ -151,33 +151,28 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
-    "📱Media Collected/Pasted image 20230516104356.png",
-    "🥏Permanent Note/技術分析.md",
+    "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/技術面.canvas",
-    "技術面.canvas",
-    "技術分析.md",
+    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🥏Permanent Note/技術分析.md",
+    "📱Media Collected/Pasted image 20230516104356.png",
     "📱Media Collected/Pasted image 20230516103424.png",
     "📱Media Collected/Pasted image 20230516103158.png",
     "📱Media Collected",
-    "🦄Templates/01 - Journal.md",
-    "🦄Templates",
-    "🥏Permanent Note/Question About the World.md",
     "🥏Permanent Note/JS Learned.md",
-    "🥏Permanent Note",
-    "🗺️Map.canvas",
     "💡Journal/2023-05-15.md",
+    "🥏Permanent Note/Question About the World.md",
+    "🗺️Map.canvas",
+    "🦄Templates/01 - Journal.md",
     "💡Journal",
-    "🌎Maps/質疑這個世界.canvas",
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
-    "🌎Maps",
-    "ObsidianMockHeptabase - Shortcut.lnk",
-    "💡Journal/2023-05-16.md",
-    "Maps",
     "[Question About the World.md",
+    "🥏Permanent Note",
     "Untitled.md",
     "2023-05-15.md",
+    "🦄Templates",
     "測試.canvas",
+    "🌎Maps",
     "💡Journal/輸入與輸出.md",
     "💡Fleet note/Untitled.md",
     "🥏Permanent note",
