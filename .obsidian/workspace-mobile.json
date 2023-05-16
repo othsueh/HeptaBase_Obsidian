@@ -11,14 +11,11 @@
             "id": "e55cca40d144fb85",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
-                "viewState": {
-                  "x": 755.010481592038,
-                  "y": 527.0633337201699,
-                  "zoom": -0.6524288575685779
-                }
+                "file": "💡Journal/2023-05-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🌎Maps/JS Learning.canvas",
+            "file": "💡Journal/2023-05-15.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🌎Maps/JS Learning.canvas",
+            "file": "💡Journal/2023-05-15.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🌎Maps/JS Learning.canvas"
+            "file": "💡Journal/2023-05-15.md"
           }
         }
       }
@@ -134,13 +131,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "89436147c6e8421f",
+  "active": "e55cca40d144fb85",
   "lastOpenFiles": [
-    "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/JS Learning.canvas",
+    "/🌎Maps/JS Learning.canvas",
+    "🌎Maps/質疑這個世界.canvas",
     "🥏Permanent Note/JS Learned.md",
     "/🥏Permanent Note/JS Learned.md",
-    "/🌎Maps/JS Learning.canvas",
     "🥏Permanent Note/Question About the World.md",
     "🗺️Map.canvas",
     "💡Journal/2023-05-15.md",

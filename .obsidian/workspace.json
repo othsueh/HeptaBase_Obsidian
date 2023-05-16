@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 1563.6746016944062,
-                  "y": 631.2560865137058,
-                  "zoom": -2.075342710056961
+                  "x": 1248.59245896332,
+                  "y": 143.48455784142322,
+                  "zoom": -0.5562500000000001
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/技術面.canvas"
+                "file": "🌎Maps/JS Learning.canvas"
               }
             }
           }
@@ -152,24 +152,16 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
-    "📱Media Collected/Pasted image 20230516104356.png",
-    "📱Media Collected/Pasted image 20230516103424.png",
-    "📱Media Collected/Pasted image 20230516103158.png",
-    "📱Media Collected",
-    "💡Journal/2023-05-15.md",
-    "💡Journal/2023-05-16.md",
-    "🌎Maps/技術面.canvas",
-    "🥏Permanent Note/技術分析.md",
-    "🦄Templates/01 - Journal.md",
-    "Maps",
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/質疑這個世界.canvas",
     "🥏Permanent Note/JS Learned.md",
-    "🌎Maps/Discrete Mathmatics.canvas",
-    "💡Journal",
-    "🗺️Map.canvas",
-    "[Question About the World.md",
+    "💡Journal/2023-05-15.md",
+    "🌎Maps/JS Learning.canvas",
     "🥏Permanent Note/Question About the World.md",
+    "🌎Maps/質疑這個世界.canvas",
+    "🗺️Map.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🦄Templates/01 - Journal.md",
+    "💡Journal",
+    "[Question About the World.md",
     "🥏Permanent Note",
     "Untitled.md",
     "2023-05-15.md",

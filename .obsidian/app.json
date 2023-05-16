@@ -23,6 +23,5 @@
     "editor:undo",
     "editor:redo",
     "editor:configure-toolbar"
-  ],
-  "attachmentFolderPath": "📱Media Collected"
+  ]
 }
