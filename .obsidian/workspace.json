@@ -11,11 +11,14 @@
             "id": "13350fb58d554658",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "💡Journal/2023-05-15.md",
-                "mode": "source",
-                "source": false
+                "file": "🌎Maps/技術面.canvas",
+                "viewState": {
+                  "x": 848.1066288728997,
+                  "y": 494.57802071581756,
+                  "zoom": -0.6713039722587663
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-05-15.md",
+                "file": "🌎Maps/技術面.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-05-15.md",
+                "file": "🌎Maps/技術面.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-05-15.md"
+                "file": "🌎Maps/技術面.canvas"
               }
             }
           }
@@ -148,8 +151,8 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
-    "💡Journal/2023-05-16.md",
     "💡Journal/2023-05-15.md",
+    "💡Journal/2023-05-16.md",
     "🌎Maps/技術面.canvas",
     "🥏Permanent Note/技術分析.md",
     "🦄Templates/01 - Journal.md",
