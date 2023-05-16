@@ -6,12 +6,14 @@
 		{"id":"75ebb276713d9f11","x":529,"y":240,"width":417,"height":125,"type":"text","text":"# 市場數據\n> 期貨與現貨市場數據, 比如期貨市場作多與做空的比例、各個交易標的的市占率"},
 		{"id":"2b72d7831784d121","x":529,"y":400,"width":417,"height":155,"type":"text","text":"# 技術指標\n> 透過計算歷史數據發展成的數學模型或架構。數據相對遲緩, 很容易導致在行情中、末後段進場,造成虧損。"},
 		{"id":"acc6ed1f23bae2cd","x":529,"y":600,"width":317,"height":198,"type":"text","text":"# 基本架構\n1. k 線\n2. 不同時間級別\n3. k 線型態\n4. 分析本質\n"},
-		{"id":"b405f48c6fa4912d","x":781,"y":674,"width":220,"height":125,"type":"text","text":"# K線\n> 一定時間區段下所對應的價格波動\n\n"}
+		{"id":"b405f48c6fa4912d","x":1040,"y":478,"width":379,"height":246,"type":"text","text":"# K線\n> 一定時間區段下所對應的價格波動\n\n![[Pasted image 20230516103158.png]]"},
+		{"id":"cc4591931b522652","x":672,"y":585,"width":488,"height":235,"type":"text","text":"# 運用不同時間級別分析\n> 小時間級別比大時間級別更能呈現市場樣貌\n\n![[Pasted image 20230516103424.png]]\n"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
 		{"id":"eb51588f80473fe6","fromNode":"cfce34bf8c9e8efd","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
 		{"id":"291688071d6fd471","fromNode":"75ebb276713d9f11","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
-		{"id":"c6807e127a661106","fromNode":"2b72d7831784d121","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"}
+		{"id":"c6807e127a661106","fromNode":"2b72d7831784d121","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
+		{"id":"e5e2c81396328c23","fromNode":"b405f48c6fa4912d","fromSide":"left","toNode":"acc6ed1f23bae2cd","toSide":"right"}
 	]
 }
