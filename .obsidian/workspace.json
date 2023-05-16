@@ -11,14 +11,11 @@
             "id": "13350fb58d554658",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
-                "viewState": {
-                  "x": 323.3179986917972,
-                  "y": 200,
-                  "zoom": -0.12493167972813655
-                }
+                "file": "💡Journal/2023-05-15.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "💡Journal/2023-05-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "💡Journal/2023-05-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/技術面.canvas"
+                "file": "💡Journal/2023-05-15.md"
               }
             }
           }
@@ -151,13 +148,14 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
+    "💡Journal/2023-05-16.md",
+    "💡Journal/2023-05-15.md",
+    "🌎Maps/技術面.canvas",
     "🥏Permanent Note/技術分析.md",
     "🦄Templates/01 - Journal.md",
-    "🌎Maps/技術面.canvas",
     "Maps",
     "🌎Maps/JS Learning.canvas",
     "🌎Maps/質疑這個世界.canvas",
-    "💡Journal/2023-05-15.md",
     "🥏Permanent Note/JS Learned.md",
     "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal",

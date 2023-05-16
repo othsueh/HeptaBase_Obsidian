@@ -1,6 +1,11 @@
 {
 	"nodes":[
-		{"id":"77974e63f1a903e0","x":0,"y":0,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/技術分析.md"}
+		{"type":"file","file":"🥏Permanent Note/技術分析.md","id":"77974e63f1a903e0","x":0,"y":0,"width":400,"height":400},
+		{"id":"45fc0ed38c884e1b","x":520,"y":0,"width":373,"height":141,"type":"text","text":"# 趨勢\n> 透過價格的動作與結構, 去判斷市場的趨勢方向, 並跟隨市場的趨勢方向做交易(供需面)"},
+		{"id":"cfce34bf8c9e8efd","x":520,"y":160,"width":408,"height":156,"type":"text","text":"# 型態與結構\n> 透過觀察型態與結構, 判斷目前市場趨勢反轉或延續\n"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
+		{"id":"eb51588f80473fe6","fromNode":"cfce34bf8c9e8efd","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"}
+	]
 }
