@@ -15,7 +15,7 @@
 		{"type":"text","text":"# 關鍵價格\n> 市場所關注的價格，歷史新高/低、今年新高、期待高點等等","id":"cb3e8fdd0afc3652","x":2420,"y":1572,"width":365,"height":142},
 		{"type":"text","text":"# 交易策略買入/賣出點\n> 專業交易戶、機構、莊家藉由技術分析工具來判斷的買入/賣出點","id":"eb1133b3f89b9352","x":2420,"y":1746,"width":368,"height":128},
 		{"type":"text","text":"# 整數價格\n> 通常是5的倍數，ex: 39500, 2350...等","id":"514e1c3dab77f23d","x":2420,"y":1920,"width":341,"height":104},
-		{"id":"ba04ceb75fa25516","x":2298,"y":1998,"width":342,"height":60,"type":"text","text":"# 供給, 需求區間的本質\n"}
+		{"id":"ba04ceb75fa25516","x":2298,"y":1998,"width":382,"height":162,"type":"text","text":"# 供給, 需求區間的本質\n- **供給** : 賣出 -> 壓力(下跌)\n- **需求** : 買入 -> 支撐(上漲)"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
