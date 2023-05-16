@@ -12,7 +12,9 @@
 		{"type":"text","text":"# 基本架構\n1. k 線\n2. 不同時間級別\n3. k 線型態\n4. 分析本質\n","id":"acc6ed1f23bae2cd","x":1200,"y":161,"width":317,"height":198},
 		{"type":"text","text":"# 價格的上漲與下跌\n**需求>供給** ： 供不應求 -> 價格上漲\n**供給>需求** ： 供過於求 -> 價格下跌\n![[Pasted image 20230516143943.png]]","id":"a5804ced75a75779","x":2014,"y":1240,"width":364,"height":332},
 		{"type":"text","text":"# 趨勢反轉的本質\n1. 關鍵價格\n2. 交易策略買入、賣出點\n3. 整數價格\n4. 回撤價格\n5. 供給、需求區間","id":"3d45450bc888d7f4","x":1998,"y":1640,"width":314,"height":211},
-		{"type":"text","text":"# 關鍵價格\n> 市場所關注的價格，歷史新高/低、今年新高、期待高點","id":"cb3e8fdd0afc3652","x":2360,"y":1677,"width":389,"height":138}
+		{"type":"text","text":"# 關鍵價格\n> 市場所關注的價格，歷史新高/低、今年新高、期待高點等等","id":"cb3e8fdd0afc3652","x":2420,"y":1572,"width":365,"height":142},
+		{"id":"eb1133b3f89b9352","x":2420,"y":1746,"width":368,"height":128,"type":"text","text":"# 交易策略買入/賣出點\n> 專業交易戶、機構、莊家藉由技術分析工具來判斷的買入/賣出點"},
+		{"id":"514e1c3dab77f23d","x":2571,"y":2324,"width":250,"height":60,"type":"text","text":"# 整數價格\n> 通常是"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
@@ -23,6 +25,7 @@
 		{"id":"7655fc32b286e33b","fromNode":"cc4591931b522652","fromSide":"left","toNode":"acc6ed1f23bae2cd","toSide":"right"},
 		{"id":"aeefb1ecdcfe3459","fromNode":"acc6ed1f23bae2cd","fromSide":"right","toNode":"527cd77a81df130b","toSide":"left"},
 		{"id":"859be9178a137e40","fromNode":"acc6ed1f23bae2cd","fromSide":"right","toNode":"af5e2f662efd2756","toSide":"left"},
-		{"id":"7c6df4b0e67b012c","fromNode":"3d45450bc888d7f4","fromSide":"right","toNode":"cb3e8fdd0afc3652","toSide":"left"}
+		{"id":"d6bbc06e1c32457e","fromNode":"cb3e8fdd0afc3652","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"},
+		{"id":"271d45a249946a7b","fromNode":"eb1133b3f89b9352","fromSide":"left","toNode":"3d45450bc888d7f4","toSide":"right"}
 	]
 }
