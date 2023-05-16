@@ -8,7 +8,7 @@
 		{"id":"acc6ed1f23bae2cd","x":529,"y":600,"width":317,"height":198,"type":"text","text":"# 基本架構\n1. k 線\n2. 不同時間級別\n3. k 線型態\n4. 分析本質\n"},
 		{"id":"b405f48c6fa4912d","x":1040,"y":478,"width":379,"height":246,"type":"text","text":"# K線\n> 一定時間區段下所對應的價格波動\n\n![[Pasted image 20230516103158.png]]"},
 		{"id":"cc4591931b522652","x":1040,"y":724,"width":488,"height":355,"type":"text","text":"# 運用不同時間級別分析\n> 小時間級別比大時間級別更能呈現市場樣貌\n\n![[Pasted image 20230516103424.png]]\n"},
-		{"id":"527cd77a81df130b","x":1095,"y":1082,"width":365,"height":215,"type":"text","text":"# 分析本質\n**時間** : 分析週期\n**空間** : 分析目標價格\n**波動** : 能量, 在時間與空間內k線與交易量之間的關係"}
+		{"id":"527cd77a81df130b","x":1040,"y":1120,"width":365,"height":215,"type":"text","text":"# 分析本質\n**時間** : 分析週期\n**空間** : 分析目標價格\n**波動** : 能量, 在時間與空間內k線與交易量之間的關係"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
@@ -16,6 +16,7 @@
 		{"id":"291688071d6fd471","fromNode":"75ebb276713d9f11","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
 		{"id":"c6807e127a661106","fromNode":"2b72d7831784d121","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
 		{"id":"e5e2c81396328c23","fromNode":"b405f48c6fa4912d","fromSide":"left","toNode":"acc6ed1f23bae2cd","toSide":"right"},
-		{"id":"7655fc32b286e33b","fromNode":"cc4591931b522652","fromSide":"left","toNode":"acc6ed1f23bae2cd","toSide":"right"}
+		{"id":"7655fc32b286e33b","fromNode":"cc4591931b522652","fromSide":"left","toNode":"acc6ed1f23bae2cd","toSide":"right"},
+		{"id":"aeefb1ecdcfe3459","fromNode":"acc6ed1f23bae2cd","fromSide":"right","toNode":"527cd77a81df130b","toSide":"left"}
 	]
 }
