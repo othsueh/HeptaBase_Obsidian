@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "viewState": {
-                  "x": 1248.59245896332,
-                  "y": 143.48455784142322,
-                  "zoom": -0.5562500000000001
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "🌎Maps/Discrete Mathmatics.canvas"
               }
             }
           }
@@ -152,13 +151,13 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
+    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/質疑這個世界.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-05-15.md",
-    "🌎Maps/JS Learning.canvas",
     "🥏Permanent Note/Question About the World.md",
-    "🌎Maps/質疑這個世界.canvas",
     "🗺️Map.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🦄Templates/01 - Journal.md",
     "💡Journal",
     "[Question About the World.md",
