@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"e7fcbfd110759e20","x":20,"y":21,"width":303,"height":139,"type":"text","text":"# 資料元素\n> 組成資料的，有一定意義的基本單位"},
+		{"id":"967baf299200541c","x":200,"y":361,"width":250,"height":60,"type":"text","text":"# ㄗㄌㄧㄠ"}
+	],
+	"edges":[]
+}

@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
+                "file": "🌎Maps/DS.canvas",
                 "viewState": {
-                  "x": 4190.518373309375,
-                  "y": -882.1288700124112,
-                  "zoom": -1.6132210679988082
+                  "x": 277.5267304101676,
+                  "y": 257.903633287621,
+                  "zoom": 0.018816023662985026
                 }
               }
             }
@@ -88,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "🌎Maps/技術面.canvas",
+            "file": "🌎Maps/DS.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "🌎Maps/技術面.canvas",
+            "file": "🌎Maps/DS.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -117,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "🌎Maps/技術面.canvas"
+            "file": "🌎Maps/DS.canvas"
           }
         }
       }
@@ -136,6 +136,8 @@
   },
   "active": "e55cca40d144fb85",
   "lastOpenFiles": [
+    "🌎Maps/技術面.canvas",
+    "🌎Maps/DS.canvas",
     "📱Media Collected/Pasted image 20230517020848.png",
     "📱Media Collected/Pasted image 20230517020304.png",
     "/📱Media Collected/Pasted image 20230517020848.png",
@@ -150,7 +152,6 @@
     "/🌎Maps/Multi Calculus.canvas",
     "/Permanent Note",
     "📱Media Collected/Pasted image 20230516143943.png",
-    "🌎Maps/技術面.canvas",
     "conflict-files-obsidian-git.md",
     "/conflict-files-obsidian-git.md",
     "🌎Maps/JS Learning.canvas",
@@ -164,7 +165,6 @@
     "📱Media Collected/Pasted image 20230516103158.png",
     "📱Media Collected",
     "/🥏Permanent Note/技術分析.md",
-    "/📱Media Collected/Pasted image 20230516104356.png",
     "/📱Media Collected",
     "🥏Permanent Note/JS Learned.md",
     "/🥏Permanent Note/JS Learned.md",
