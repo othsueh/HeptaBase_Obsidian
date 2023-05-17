@@ -21,8 +21,20 @@
                 }
               }
             }
+          },
+          {
+            "id": "b05833747263f5d4",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -72,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -88,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🌎Maps/JS Learning.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -157,15 +166,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d6be91cebce9cc",
+  "active": "b05833747263f5d4",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "🌎Maps/JS Learning.canvas",
     "🌎Maps/技術面.canvas",
     "📱Media Collected/Pasted image 20230517195708.png",
     "📱Media Collected/Pasted image 20230517190516.png",
     "📱Media Collected/Pasted image 20230517185621.png",
     "📱Media Collected/Pasted image 20230517184722.png",
-    "conflict-files-obsidian-git.md",
     "📱Media Collected/Pasted image 20230517154114.png",
     "📱Media Collected/Pasted image 20230517153319.png",
     "📱Media Collected/Pasted image 20230517151933.png",

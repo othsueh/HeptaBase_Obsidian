@@ -10,11 +10,31 @@
 		{"type":"text","text":"# Closure\n> A function backpack, which give you access to use all things in the function with independent variables environment.\n\n```js\nfunction howDogs(){\n\tlet count = 0;\n\treturn function(){\n\t\tcount++;\n\t\tconsole.log(`You have ${count} dogs now!`);\n\t}\n}\nconst dog2 = howDogs();\ndog2(); //1\ndog2(); //2\n```","id":"af7554afd4f253d4","x":480,"y":580,"width":520,"height":450},
 		{"type":"text","text":"# ... (Spread Operator)\n> Devide elements in string/array to independent value\n\n```js\nconst disney = ['d','i','s','n','e','y'];\nconsole.log(disney);//array type\nconsole.log(...disney);//char type\n```","id":"9087ca9f860b541d","x":1061,"y":863,"width":499,"height":217},
 		{"type":"text","text":"# ... (rest Operator)\n> Parameter for function to use unknown number of paramters.\n\n```js\nfunction sum(…numbers) { \n\tconst result = 0; \n\tnumbers.forEach(function (number) { \n\tresult += number; \n\t}) \n\treturn result \n\t} \nsum(1) // 1 \nsum(1, 2, 3, 4, 5) // 15\n```","id":"5bf6d29914be736c","x":1061,"y":1100,"width":560,"height":360},
-		{"type":"text","text":"# Destructuring\n>Use multiple variables to store multiple values with array or object\n\n```js\nconst magic = [0,1,1,0];\nconst [m1,m2,...m3] = magic; //m1 : 0 ; m2 : 1 ; m3 :[]\n```","id":"96e3a8f97fd00a09","x":1061,"y":1540,"width":560,"height":180}
+		{"type":"text","text":"# Destructuring\n>Use multiple variables to store multiple values with array or object\n\n```js\nconst magic = [0,1,1,0];\nconst [m1,m2,...m3] = magic; //m1 : 0 ; m2 : 1 ; m3 :[]\n```","id":"96e3a8f97fd00a09","x":1061,"y":1540,"width":560,"height":229},
+		{"id":"7f2fd4381522f41a","x":1061,"y":2120,"width":469,"height":281,"type":"text","text":"# ?. Optional Chain \n>Check the exist of mother object before check deeper element\n\n**Unlike direct access, it will not report error, instead undefined**\n\n```js\nconst test = obj.first?.second\n```"},
+		{"id":"d75324ffd34ac72c","x":1600,"y":2190,"width":425,"height":141,"type":"text","text":"# set\n```js\nconst numset = new Set([1,2,3,4]);\n```"},
+		{"id":"c9d3e9b67fbc0bb7","x":2407,"y":2331,"width":266,"height":111,"type":"text","text":"# .has()\n```js\nnumset.has(0);//false\n```"},
+		{"id":"cab381b92ffb6828","x":2400,"y":2471,"width":407,"height":137,"type":"text","text":"# .delete()\n```js\nnumset.delete(3);\nconsole.log(numset)//1,2,4,5\n```"},
+		{"id":"f8bff971967f42ec","x":2407,"y":2675,"width":328,"height":111,"type":"text","text":"# .get()\n```js\nmmap.get('hello');//world\n```"},
+		{"id":"526090bea8024616","x":1640,"y":2510,"width":419,"height":331,"type":"text","text":"# map\n```js\nconst mmap = new Map();\nmmap.set(3,5);\nmmap.set('hello','world');\n//==============\nconst mmap = new Map(\n['hello','world'],\n[3,5],\n[[1,2],true],\n[true,'nice']\n)\n```"},
+		{"id":"5ede50255234a3e9","x":2407,"y":2090,"width":425,"height":131,"type":"text","text":"# .add()\n```js\nnumset.add(5);\nconsole.log(numset)//1,2,3,4,5\n```"},
+		{"id":"598acdb79c34dc2e","x":3019,"y":2880,"width":400,"height":103,"type":"text","text":"# .keys()\n>Get the keys of an array or object"},
+		{"id":"9e553aabf9bb5017","x":3019,"y":3013,"width":346,"height":137,"type":"text","text":"# .values()\n>Get the values of an array or object"},
+		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2320,"y":2900,"width":599,"height":225},
+		{"id":"16a08ca3cf7c680c","x":1640,"y":3150,"width":250,"height":566,"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
 		{"id":"cbfac21deb60f6ef","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"a2002a446c0aeced","toSide":"left"},
-		{"id":"c5cc719810f5f030","fromNode":"6f36f9389a07cc25","fromSide":"left","toNode":"a884f4db1b953a12","toSide":"right"}
+		{"id":"c5cc719810f5f030","fromNode":"6f36f9389a07cc25","fromSide":"left","toNode":"a884f4db1b953a12","toSide":"right"},
+		{"id":"e7d8670238e7058b","fromNode":"db293a2db2e21d23","fromSide":"right","toNode":"598acdb79c34dc2e","toSide":"left"},
+		{"id":"d3bbe6b452b80201","fromNode":"db293a2db2e21d23","fromSide":"right","toNode":"9e553aabf9bb5017","toSide":"left"},
+		{"id":"d2b15e3dcef05e2c","fromNode":"d75324ffd34ac72c","fromSide":"right","toNode":"5ede50255234a3e9","toSide":"left"},
+		{"id":"baad42e20cf30fe4","fromNode":"d75324ffd34ac72c","fromSide":"right","toNode":"c9d3e9b67fbc0bb7","toSide":"left"},
+		{"id":"1183b7fc6383d488","fromNode":"d75324ffd34ac72c","fromSide":"right","toNode":"cab381b92ffb6828","toSide":"left"},
+		{"id":"ae679fe03392f593","fromNode":"526090bea8024616","fromSide":"right","toNode":"f8bff971967f42ec","toSide":"left"},
+		{"id":"734c818f8da4217b","fromNode":"526090bea8024616","fromSide":"right","toNode":"cab381b92ffb6828","toSide":"left"},
+		{"id":"48365857e5504ce3","fromNode":"c9d3e9b67fbc0bb7","fromSide":"left","toNode":"526090bea8024616","toSide":"right"},
+		{"id":"5ad31fdabb86cb71","fromNode":"526090bea8024616","fromSide":"right","toNode":"db293a2db2e21d23","toSide":"left"}
 	]
 }
