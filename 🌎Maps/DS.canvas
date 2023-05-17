@@ -13,7 +13,8 @@
 		{"id":"967baf299200541c","x":20,"y":185,"width":310,"height":139,"type":"text","text":"# 資料物件（資料）\n> 性質相同資料元素的集合，資料的子集"},
 		{"id":"50032639b13e9772","x":-460,"y":174,"width":380,"height":150,"type":"text","text":"# 資料類型\n- 原子類型：不可再分割的基本類型\n- 結構類型：可再進行分割的資料元素集合"},
 		{"id":"4325eda2aa527a4d","x":580,"y":1040,"width":300,"height":120,"type":"text","text":"# 演算法\n> 解決特定問題的求解步驟與方法"},
-		{"id":"1df558545160644b","x":729,"y":1261,"width":250,"height":60,"type":"text","text":"# 演算法的特性\n- 輸入\n- 輸出\n- 有限性\n- 確定性\n- 可行性"}
+		{"id":"1df558545160644b","x":580,"y":1200,"width":260,"height":239,"type":"text","text":"# 演算法的特性\n- 輸入\n- 輸出\n- 有限性\n- 確定性\n- 可行性"},
+		{"id":"60652b8a79ffd330","x":940,"y":1160,"width":337,"height":167,"type":"text","text":"# 有限性\n> 演算法在執行有限的步驟後會自動停止，不進入無窮迴圈。且每個步驟都在可接受時間內完成。"}
 	],
 	"edges":[
 		{"id":"c76f581c3c10f47e","fromNode":"2d7e7d2d305d2470","fromSide":"left","toNode":"63aa6b8a3c715c04","toSide":"right"},
@@ -27,6 +28,8 @@
 		{"id":"d1a5848a768cf197","fromNode":"967baf299200541c","fromSide":"top","toNode":"e7fcbfd110759e20","toSide":"bottom"},
 		{"id":"3cae864cb256359b","fromNode":"967baf299200541c","fromSide":"bottom","toNode":"63aa6b8a3c715c04","toSide":"top"},
 		{"id":"773958f4faa7c82a","fromNode":"50032639b13e9772","fromSide":"right","toNode":"e7fcbfd110759e20","toSide":"left"},
-		{"id":"3087f09cda82b42c","fromNode":"50032639b13e9772","fromSide":"right","toNode":"63aa6b8a3c715c04","toSide":"left"}
+		{"id":"3087f09cda82b42c","fromNode":"50032639b13e9772","fromSide":"right","toNode":"63aa6b8a3c715c04","toSide":"left"},
+		{"id":"00546dca22eac9c5","fromNode":"4325eda2aa527a4d","fromSide":"bottom","toNode":"1df558545160644b","toSide":"top"},
+		{"id":"c418677b4f4aa257","fromNode":"1df558545160644b","fromSide":"right","toNode":"60652b8a79ffd330","toSide":"left"}
 	]
 }
