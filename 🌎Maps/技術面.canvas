@@ -31,12 +31,13 @@
 		{"type":"text","text":"# 時間範圍\n>大時間範圍重要性大於小時間範圍重要性","id":"68f6445008cc9827","x":4703,"y":-735,"width":337,"height":165},
 		{"type":"text","text":"# 傾斜度\n> 越斜, 行情越急, 離目標價格越近, 修正幅度較大\n\n**須留意風險, 但也不要放棄直接了結**\n![[Pasted image 20230517153319.png]]","id":"0da461798a6f34a6","x":4643,"y":-543,"width":458,"height":324},
 		{"type":"text","text":"# 趨勢交易的重點\n> 重點不在範圍內的波段，而是接近壓力或支撐線的突破交易\n\n![[Pasted image 20230517154114.png]]","id":"6b91df375122e960","x":5242,"y":-614,"width":441,"height":431},
-		{"id":"47c09d1b83ff6e22","x":6020,"y":-1240,"width":355,"height":440,"type":"text","text":"# 突破交易的步驟\n1. 突破壓力線\n2. 底部托高\n3. 突破 1 的最高價\n![[Pasted image 20230517190516.png]]\n"},
+		{"id":"47c09d1b83ff6e22","x":6020,"y":-1240,"width":355,"height":440,"type":"text","text":"# 突破交易的步驟(12\n1. 突破壓力線\n2. 底部托高\n3. 突破 1 的最高價\n![[Pasted image 20230517190516.png]]\n"},
 		{"id":"6d725ddb700e58a2","x":6020,"y":-573,"width":422,"height":349,"type":"text","text":"# 錯誤的突破\n1. 圖沒畫好\n2. 有更大的整理結構\n3. 技術不好\n![[Pasted image 20230517184722.png]]\n"},
 		{"id":"13bb5bd1652baf34","x":6560,"y":-1280,"width":366,"height":168,"type":"text","text":"# 突破交易狀況的風險\n**(1)突破交易** : 風險大\n**(2)趨勢交易** : 有可能回踩(不一定)風險較小\n**(3)趨勢確立的交易** : 風險小且勝率高"},
 		{"id":"bd08bd76b03995c5","x":6545,"y":-1080,"width":397,"height":185,"type":"text","text":"# 好的操作位置\n**(2)趨勢交易** : 有滿足回踩壓力線(測試供需平衡)時操作, 沒回踩不操作\n**(3)趨勢確立的交易** : 肯定交易(打破下降趨勢)\n**最佳停損位置** : P點, 因其將會成為上升結構"},
 		{"id":"2c5098c2f589ecbb","x":6660,"y":-575,"width":500,"height":460,"type":"text","text":"# 2B法則 : 假突破\n> 價格突破前高/低後, 有可能成為假突破, 成為2B(Breakout)。前線長(1)與假突破線長(2)比大約1.13~1.27(參考值)\n\n![[Pasted image 20230517195708.png]]"},
-		{"id":"25dfc84cc8749be6","x":6928,"y":-312,"width":352,"height":172,"type":"text","text":"# 關於壓力支撐\n>只能當輔助工具\n\n- 用來了解趨勢"}
+		{"id":"25dfc84cc8749be6","x":7200,"y":-575,"width":392,"height":230,"type":"text","text":"# 關於壓力支撐\n>只能當輔助工具\n\n- 用來了解趨勢\n- 修正幅度較大\n- 需要123法則, 2B, 斜率, 時間來過濾突破"},
+		{"id":"9a2054cbbc420d14","x":7200,"y":-300,"width":372,"height":132,"type":"text","text":"# 壓力支撐 vs 供需區間\n>供需區間 > 趨勢線, 人類對水平價格較敏感"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
@@ -64,6 +65,7 @@
 		{"id":"71f10b0cb7eec89d","fromNode":"6b91df375122e960","fromSide":"right","toNode":"47c09d1b83ff6e22","toSide":"left"},
 		{"id":"702d927a521ae031","fromNode":"6b91df375122e960","fromSide":"right","toNode":"6d725ddb700e58a2","toSide":"left"},
 		{"id":"444f28d0aa63f408","fromNode":"47c09d1b83ff6e22","fromSide":"right","toNode":"13bb5bd1652baf34","toSide":"left"},
-		{"id":"6e00c3330c21b721","fromNode":"13bb5bd1652baf34","fromSide":"bottom","toNode":"bd08bd76b03995c5","toSide":"top"}
+		{"id":"6e00c3330c21b721","fromNode":"13bb5bd1652baf34","fromSide":"bottom","toNode":"bd08bd76b03995c5","toSide":"top"},
+		{"id":"906a361d08f0f2fc","fromNode":"25dfc84cc8749be6","fromSide":"bottom","toNode":"9a2054cbbc420d14","toSide":"top"}
 	]
 }
