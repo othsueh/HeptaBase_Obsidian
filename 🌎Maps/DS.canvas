@@ -1,7 +1,6 @@
 {
 	"nodes":[
 		{"id":"e7fcbfd110759e20","x":20,"y":21,"width":303,"height":139,"type":"text","text":"# 資料元素\n> 組成資料的，有一定意義的基本單位"},
-		{"id":"967baf299200541c","x":20,"y":200,"width":310,"height":139,"type":"text","text":"# 資料物件（資料）\n> 性質相同資料元素的集合，資料的子集"},
 		{"id":"63aa6b8a3c715c04","x":20,"y":380,"width":332,"height":149,"type":"text","text":"# 資料結構\n> 資料元素間相互存在的一種或多種特定關係的集合"},
 		{"id":"2d7e7d2d305d2470","x":460,"y":192,"width":367,"height":263,"type":"text","text":"# 邏輯結構\n> 資料中資料元素間的關係\n\n- 集合\n- 線性結構\n- 樹狀結構\n- 圖形結構"},
 		{"id":"9ee6dceb11279792","x":460,"y":500,"width":367,"height":180,"type":"text","text":"# 物理結構\n> 資料的邏輯結構在電腦中的儲存形式\n\n- 循序儲存\n- 鏈式儲存"},
@@ -11,7 +10,8 @@
 		{"id":"93fdee4cab32de39","x":960,"y":455,"width":300,"height":97,"type":"text","text":"# 圖形結構\n> 資料元素間具有多對多的關係"},
 		{"id":"cda110c80e25704a","x":972,"y":583,"width":288,"height":194,"type":"text","text":"# 循序儲存結構\n> 把資料元素儲存在位址連續的儲存單元裡\n\n**物理結構與邏輯結構一致**"},
 		{"id":"82fea4bbc823eae0","x":972,"y":800,"width":380,"height":175,"type":"text","text":"# 鏈式儲存結構\n> 資料元素不一定要儲存在位址連續的儲存單元裡，可以分散。\n\n**指標** ： 儲存有關聯資料元素的位址"},
-		{"id":"50032639b13e9772","x":200,"y":679,"width":264,"height":141,"type":"text","text":"# 資料類型\n- 原子類型：不可再分割的基本類型\n- 結構類型：可"}
+		{"id":"967baf299200541c","x":20,"y":185,"width":310,"height":139,"type":"text","text":"# 資料物件（資料）\n> 性質相同資料元素的集合，資料的子集"},
+		{"id":"50032639b13e9772","x":-460,"y":174,"width":380,"height":150,"type":"text","text":"# 資料類型\n- 原子類型：不可再分割的基本類型\n- 結構類型：可再進行分割的資料元素集合"}
 	],
 	"edges":[
 		{"id":"c76f581c3c10f47e","fromNode":"2d7e7d2d305d2470","fromSide":"left","toNode":"63aa6b8a3c715c04","toSide":"right"},
@@ -21,6 +21,10 @@
 		{"id":"4b22dbc222bf03f1","fromNode":"058b4fe8515d182e","fromSide":"left","toNode":"2d7e7d2d305d2470","toSide":"right"},
 		{"id":"686f0af635d251e4","fromNode":"93fdee4cab32de39","fromSide":"left","toNode":"2d7e7d2d305d2470","toSide":"right"},
 		{"id":"92004dcc85a779eb","fromNode":"9ee6dceb11279792","fromSide":"right","toNode":"cda110c80e25704a","toSide":"left"},
-		{"id":"e866d04451d99e32","fromNode":"9ee6dceb11279792","fromSide":"right","toNode":"82fea4bbc823eae0","toSide":"left"}
+		{"id":"e866d04451d99e32","fromNode":"9ee6dceb11279792","fromSide":"right","toNode":"82fea4bbc823eae0","toSide":"left"},
+		{"id":"d1a5848a768cf197","fromNode":"967baf299200541c","fromSide":"top","toNode":"e7fcbfd110759e20","toSide":"bottom"},
+		{"id":"3cae864cb256359b","fromNode":"967baf299200541c","fromSide":"bottom","toNode":"63aa6b8a3c715c04","toSide":"top"},
+		{"id":"773958f4faa7c82a","fromNode":"50032639b13e9772","fromSide":"right","toNode":"e7fcbfd110759e20","toSide":"left"},
+		{"id":"3087f09cda82b42c","fromNode":"50032639b13e9772","fromSide":"right","toNode":"63aa6b8a3c715c04","toSide":"left"}
 	]
 }
