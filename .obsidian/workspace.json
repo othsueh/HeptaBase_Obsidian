@@ -11,14 +11,10 @@
             "id": "03d6be91cebce9cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "diff-view",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
-                "viewState": {
-                  "x": 5402.8425454644685,
-                  "y": -2292.377981243882,
-                  "zoom": -2.7
-                }
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -72,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -89,7 +84,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +100,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/技術面.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +121,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "🌎Maps/技術面.canvas"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "facab8267ae9255f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,12 +151,13 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/技術面.canvas",
     "📱Media Collected/Pasted image 20230517195708.png",
     "📱Media Collected/Pasted image 20230517190516.png",
     "📱Media Collected/Pasted image 20230517185621.png",
     "📱Media Collected/Pasted image 20230517184722.png",
     "conflict-files-obsidian-git.md",
-    "🌎Maps/技術面.canvas",
     "📱Media Collected/Pasted image 20230517154114.png",
     "📱Media Collected/Pasted image 20230517153319.png",
     "📱Media Collected/Pasted image 20230517151933.png",
@@ -167,7 +167,6 @@
     "🌎Maps/DS.canvas",
     "📱Media Collected/Pasted image 20230517020848.png",
     "📱Media Collected/Pasted image 20230517020304.png",
-    "📱Media Collected/Pasted image 20230516190743.png",
     "Permanent Note/Multi Calculus.md",
     "Permanent Note"
   ]
