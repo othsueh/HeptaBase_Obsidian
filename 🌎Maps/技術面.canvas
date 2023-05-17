@@ -29,7 +29,7 @@
 		{"type":"text","text":"# 緩衝區間\n>繪製多條壓力, 支撐線後, 會呈現緩衝區間, 讓分析更全面\n\n![[Pasted image 20230517151933.png]]","id":"0f26a62bab322e0c","x":4579,"y":-983,"width":478,"height":354},
 		{"id":"aaa4d395b69502d4","x":3880,"y":-708,"width":250,"height":228,"type":"text","text":"# 強度\n1. 經過多點的\n2. 引線比例較長的(明顯)\n3. 碰到線有較大成交量的\n4. 線越接近水平強度越強\n"},
 		{"id":"0da461798a6f34a6","x":3823,"y":-447,"width":458,"height":324,"type":"text","text":"# 傾斜度\n> 越斜, 行情越急, 離目標價格越近, 修正幅度較大\n\n**須留意風險, 但也不要放棄直接了結**\n![[Pasted image 20230517153319.png]]"},
-		{"id":"68f6445008cc9827","x":4074,"y":-521,"width":250,"height":60,"type":"text","text":"# 時間範圍\n>大時間ㄈ"}
+		{"id":"68f6445008cc9827","x":3440,"y":-68,"width":365,"height":121,"type":"text","text":"# 時間範圍\n>大時間範圍的重要性比小時間範圍的重要性還要大"}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
@@ -52,6 +52,7 @@
 		{"id":"359419a595c7a7d5","fromNode":"8f1cbee578890da5","fromSide":"left","toNode":"7e637e8dfde4e619","toSide":"right"},
 		{"id":"36c1372ac1a97bd7","fromNode":"0f26a62bab322e0c","fromSide":"left","toNode":"7e637e8dfde4e619","toSide":"right"},
 		{"id":"a927061b0f364f78","fromNode":"7e637e8dfde4e619","fromSide":"right","toNode":"aaa4d395b69502d4","toSide":"left"},
-		{"id":"192be0ef9fd650bf","fromNode":"7e637e8dfde4e619","fromSide":"right","toNode":"0da461798a6f34a6","toSide":"left"}
+		{"id":"192be0ef9fd650bf","fromNode":"7e637e8dfde4e619","fromSide":"right","toNode":"0da461798a6f34a6","toSide":"left"},
+		{"id":"9a5c1c5bb96bd9e1","fromNode":"7e637e8dfde4e619","fromSide":"right","toNode":"68f6445008cc9827","toSide":"left"}
 	]
 }
