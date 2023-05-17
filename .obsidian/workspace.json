@@ -11,10 +11,14 @@
             "id": "03d6be91cebce9cc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "canvas",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "🌎Maps/JS Learning.canvas",
+                "viewState": {
+                  "x": 863.0018000882693,
+                  "y": 1187.9518932541944,
+                  "zoom": -3.036543970243304
+                }
               }
             }
           }
@@ -84,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌎Maps/JS Learning.canvas"
+              }
             }
           },
           {
