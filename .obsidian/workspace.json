@@ -13,28 +13,16 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/Multi Calculus.canvas",
                 "viewState": {
-                  "x": 863.0018000882693,
-                  "y": 1187.9518932541944,
-                  "zoom": -3.036543970243304
+                  "x": 158.3239677873391,
+                  "y": 701.5127282790392,
+                  "zoom": -2.508400029066135
                 }
               }
             }
-          },
-          {
-            "id": "b05833747263f5d4",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -84,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -101,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌎Maps/Multi Calculus.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌎Maps/Multi Calculus.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌎Maps/Multi Calculus.canvas"
+              }
             }
           },
           {
@@ -154,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b05833747263f5d4",
+  "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "🌎Maps/JS Learning.canvas",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/技術面.canvas",
     "📱Media Collected/Pasted image 20230517195708.png",
     "📱Media Collected/Pasted image 20230517190516.png",
