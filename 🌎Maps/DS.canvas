@@ -3,7 +3,11 @@
 		{"id":"e7fcbfd110759e20","x":20,"y":21,"width":303,"height":139,"type":"text","text":"# 資料元素\n> 組成資料的，有一定意義的基本單位"},
 		{"id":"967baf299200541c","x":20,"y":200,"width":310,"height":139,"type":"text","text":"# 資料物件（資料）\n> 性質相同資料元素的集合，資料的子集"},
 		{"id":"63aa6b8a3c715c04","x":20,"y":380,"width":332,"height":149,"type":"text","text":"# 資料結構\n> 資料元素間相互存在的一種或多種特定關係的集合"},
-		{"id":"2d7e7d2d305d2470","x":333,"y":677,"width":250,"height":60,"type":"text","text":"# 邏輯結構\n> 資料中資料元素間的關係\n\n- 集合\n- ㄒㄧㄢㄓㄨㄤ"}
+		{"id":"2d7e7d2d305d2470","x":460,"y":192,"width":367,"height":263,"type":"text","text":"# 邏輯結構\n> 資料中資料元素間的關係\n\n- 集合\n- 線性結構\n- 樹狀結構\n- 圖形結構"},
+		{"id":"9ee6dceb11279792","x":460,"y":500,"width":367,"height":180,"type":"text","text":"# 物理結構\n> 資料的邏輯結構在電腦中的儲存形式\n\n- 循序儲存\n- 鏈式儲存"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"c76f581c3c10f47e","fromNode":"2d7e7d2d305d2470","fromSide":"left","toNode":"63aa6b8a3c715c04","toSide":"right"},
+		{"id":"b6c9574bc918ae4e","fromNode":"9ee6dceb11279792","fromSide":"left","toNode":"63aa6b8a3c715c04","toSide":"right"}
+	]
 }
