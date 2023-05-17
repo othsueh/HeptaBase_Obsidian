@@ -31,8 +31,9 @@
 		{"type":"text","text":"# 時間範圍\n>大時間範圍重要性大於小時間範圍重要性","id":"68f6445008cc9827","x":4703,"y":-735,"width":337,"height":165},
 		{"type":"text","text":"# 傾斜度\n> 越斜, 行情越急, 離目標價格越近, 修正幅度較大\n\n**須留意風險, 但也不要放棄直接了結**\n![[Pasted image 20230517153319.png]]","id":"0da461798a6f34a6","x":4643,"y":-543,"width":458,"height":324},
 		{"type":"text","text":"# 趨勢交易的重點\n> 重點不在範圍內的波段，而是接近壓力或支撐線的突破交易\n\n![[Pasted image 20230517154114.png]]","id":"6b91df375122e960","x":5242,"y":-614,"width":441,"height":431},
-		{"id":"6d725ddb700e58a2","x":6038,"y":-369,"width":422,"height":349,"type":"text","text":"# 錯誤的突破\n1. 圖沒畫好\n2. 有更大的整理結構\n3. 技術不好\n![[Pasted image 20230517184722.png]]\n"},
-		{"id":"47c09d1b83ff6e22","x":6020,"y":-1240,"width":355,"height":611,"type":"text","text":"# 突破交易的步驟\n1. 突破壓力線\n2. 底部托高\n3. 突破 1 的最高價\n![[Pasted image 20230517185621.png]]\n"}
+		{"id":"47c09d1b83ff6e22","x":6020,"y":-1240,"width":355,"height":611,"type":"text","text":"# 突破交易的步驟\n1. 突破壓力線\n2. 底部托高\n3. 突破 1 的最高價\n![[Pasted image 20230517185621.png]]\n"},
+		{"id":"6d725ddb700e58a2","x":6020,"y":-573,"width":422,"height":349,"type":"text","text":"# 錯誤的突破\n1. 圖沒畫好\n2. 有更大的整理結構\n3. 技術不好\n![[Pasted image 20230517184722.png]]\n"},
+		{"id":"13bb5bd1652baf34","x":6514,"y":-988,"width":326,"height":168,"type":"text","text":"# 突破交易步驟的風險\n**突破交易** : 風險ㄉ\n**趨勢交易** :\n**趨勢確立的交易** : "}
 	],
 	"edges":[
 		{"id":"01a83cd928b98b01","fromNode":"45fc0ed38c884e1b","fromSide":"left","toNode":"77974e63f1a903e0","toSide":"right"},
@@ -58,6 +59,7 @@
 		{"id":"192be0ef9fd650bf","fromNode":"7e637e8dfde4e619","fromSide":"right","toNode":"0da461798a6f34a6","toSide":"left"},
 		{"id":"9a5c1c5bb96bd9e1","fromNode":"7e637e8dfde4e619","fromSide":"right","toNode":"68f6445008cc9827","toSide":"left"},
 		{"id":"71f10b0cb7eec89d","fromNode":"6b91df375122e960","fromSide":"right","toNode":"47c09d1b83ff6e22","toSide":"left"},
-		{"id":"702d927a521ae031","fromNode":"6b91df375122e960","fromSide":"right","toNode":"6d725ddb700e58a2","toSide":"left"}
+		{"id":"702d927a521ae031","fromNode":"6b91df375122e960","fromSide":"right","toNode":"6d725ddb700e58a2","toSide":"left"},
+		{"id":"444f28d0aa63f408","fromNode":"47c09d1b83ff6e22","fromSide":"right","toNode":"13bb5bd1652baf34","toSide":"left"}
 	]
 }
