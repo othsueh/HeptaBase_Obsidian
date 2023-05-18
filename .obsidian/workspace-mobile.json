@@ -11,11 +11,14 @@
             "id": "e55cca40d144fb85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "💡Journal/2023-05-15.md",
-                "mode": "source",
-                "source": false
+                "file": "🌎Maps/技術面.canvas",
+                "viewState": {
+                  "x": 4553.577986165198,
+                  "y": -6.857300966401937,
+                  "zoom": -1.1366339739230025
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "💡Journal/2023-05-15.md",
+            "file": "🌎Maps/技術面.canvas",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "💡Journal/2023-05-15.md",
+            "file": "🌎Maps/技術面.canvas",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +117,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "💡Journal/2023-05-15.md"
+            "file": "🌎Maps/技術面.canvas"
           }
         }
       }
@@ -133,14 +136,41 @@
   },
   "active": "e55cca40d144fb85",
   "lastOpenFiles": [
+    "📱Media Collected/Pasted image 20230517154114.png",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🌎Maps/DS.canvas",
+    "📱Media Collected/Pasted image 20230517151933.png",
+    "📱Media Collected/Pasted image 20230517151550.png",
+    "📱Media Collected/Pasted image 20230517153319.png",
+    "/📱Media Collected/Pasted image 20230517153319.png",
+    "/📱Media Collected/Pasted image 20230517151933.png",
+    "/📱Media Collected/Pasted image 20230517151550.png",
+    "/🌎Maps/技術面.canvas",
+    "🌎Maps/技術面.canvas",
+    "📱Media Collected/Pasted image 20230517020848.png",
+    "📱Media Collected/Pasted image 20230517020304.png",
+    "/📱Media Collected/Pasted image 20230517020848.png",
+    "/📱Media Collected/Pasted image 20230517020304.png",
+    "🌎Maps/Multi Calculus.canvas",
+    "Permanent Note/Multi Calculus.md",
+    "Permanent Note",
+    "/Permanent Note/Multi Calculus.md",
+    "/🌎Maps/Multi Calculus.canvas",
+    "/Permanent Note",
+    "conflict-files-obsidian-git.md",
+    "/conflict-files-obsidian-git.md",
     "🌎Maps/JS Learning.canvas",
-    "/🌎Maps/JS Learning.canvas",
     "🌎Maps/質疑這個世界.canvas",
+    "💡Journal/2023-05-16.md",
+    "/🌎Maps/JS Learning.canvas",
+    "💡Journal/2023-05-15.md",
+    "🥏Permanent Note/技術分析.md",
+    "📱Media Collected",
+    "/🥏Permanent Note/技術分析.md",
+    "/📱Media Collected",
     "🥏Permanent Note/JS Learned.md",
     "/🥏Permanent Note/JS Learned.md",
     "🥏Permanent Note/Question About the World.md",
-    "🗺️Map.canvas",
-    "💡Journal/2023-05-15.md",
-    "🌎Maps/Discrete Mathmatics.canvas"
+    "🗺️Map.canvas"
   ]
 }

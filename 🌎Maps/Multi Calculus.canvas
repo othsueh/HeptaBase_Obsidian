@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"4eb2129b5dff639a","x":-1080,"y":-480,"width":640,"height":729,"type":"file","file":"Permanent Note/Multi Calculus.md"},
+		{"id":"3a7d88e4cd8eb6f0","x":-240,"y":-611,"width":440,"height":369,"type":"text","text":"# Local Exterme Value\n> Let f(x,y) be defined in a region R which contain the point(a,b)\n\n*$\\forall(x,y)$ in open disk centered at $(a,b)$*\n- $f(a,b)$ is a local maximum value if $$f(a,b) \\geq f(x,y)$$\n- $f(a,b)$ is a local minimum value if $$f(a,b) \\leq f(x,y)$$"},
+		{"id":"0633c0654fe9b60c","x":518,"y":-541,"width":455,"height":199,"type":"text","text":"# First Derivative Theoerm\n> If $f(x,y)$ has a local extreme value at $(a,b)$\n\nAnd if the first partial derivative exist there, then $$f_x(a,b)\\ and \\ f_y(a,b)=0$$\n"},
+		{"id":"426ca88e879ba816","x":518,"y":-242,"width":515,"height":185,"type":"text","text":"# Critical point of $f$\n> If a point in the domain of function $f(x,y)$, its $f_x\\ and f_y$ are **zero** or one or both of   $f_x\\ and \\ f_y$ **not exist**, the point is the critical point of $f$\n"},
+		{"id":"13f5cc1a90158424","x":518,"y":49,"width":515,"height":247,"type":"text","text":"# Saddle point \n> A differentiable function $f$ has saddle point if in the domain there are points which $f(x,y) > f(a,b)\\ and f(x,y) < f(a,b)$ at the critical point $f(a,b)$.\n\nThen there is a saddle point $f(a,b,f(a,b))$ on the surface $z=f(x,y)$ "},
+		{"id":"6d3e2b8cfb49c937","x":-240,"y":-6,"width":586,"height":357,"type":"text","text":"# Second Derivative Theoerm\n> Suppose $f(x,y)$ and its first, second derivative are continuous through out  a disk centered at $(a,b)$ so that $f_x(a,b) = f_y(a,b) = 0$ \n\nThen :\n*$f$ has a ... at $(a,b)$*\n- **local maximum** :  if $f_{xx} < 0$ and $f_{xx}f_{yy}-f_{xy}^2 > 0$ \n- **local minimum** : if $f_{xx} > 0$ and $f_{xx}f_{yy}-f_{xy}^2 > 0$\n- **saddle point** : $f_{xx}f_{yy}-f_{xy}^2 < 0$\n- **Unknown behavior of $f(a,b)$** : $f_{xx}f_{yy}-f_{xy}^2 = 0$"},
+		{"id":"998a52280e28a209","x":-71,"y":560,"width":417,"height":258,"type":"text","text":"# Lagrange Multipliers\n> $f(x,y,z)\\ and\\ g(x,y,z)$ are differentiable and $\\nabla g \\neq 0$ when $g(x,y,z) = 0$ \n\nIf we want to find the closet value of $f$ constraint to $g(x,y,z)=0$ , we can use the method below:\n$$\n\\nabla f = \\lambda \\nabla g\\\ng(x,y,z) = 0\n$$"}
+	],
+	"edges":[
+		{"id":"2c8c6c50b1dee0f5","fromNode":"3a7d88e4cd8eb6f0","fromSide":"right","toNode":"0633c0654fe9b60c","toSide":"left"},
+		{"id":"971693dab5bb9c52","fromNode":"0633c0654fe9b60c","fromSide":"bottom","toNode":"426ca88e879ba816","toSide":"top"},
+		{"id":"c24a2a869518b0f3","fromNode":"426ca88e879ba816","fromSide":"bottom","toNode":"13f5cc1a90158424","toSide":"top"},
+		{"id":"5302f1da3773c9b0","fromNode":"13f5cc1a90158424","fromSide":"left","toNode":"6d3e2b8cfb49c937","toSide":"right"},
+		{"id":"e919d3a1f2b040b3","fromNode":"3a7d88e4cd8eb6f0","fromSide":"bottom","toNode":"6d3e2b8cfb49c937","toSide":"top"}
+	]
+}

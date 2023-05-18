@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 1124.2506298828123,
                   "y": 535.9182861328104,
-                  "zoom": 0
+                  "zoom": -2.075
                 }
               }
             }
@@ -131,12 +131,21 @@
                 "file": "🌎Maps/JS Learning.canvas"
               }
             }
+          },
+          {
+            "id": "45ea0541bc9515b0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 439.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -149,20 +158,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13350fb58d554658",
+  "active": "45ea0541bc9515b0",
   "lastOpenFiles": [
-    "🌎Maps/質疑這個世界.canvas",
-    "🌎Maps/技術面.canvas",
     "🌎Maps/JS Learning.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
+    "conflict-files-obsidian-git.md",
     "🥏Permanent Note/技術分析.md",
-    "📱Media Collected/Pasted image 20230516104356.png",
-    "📱Media Collected/Pasted image 20230516103424.png",
-    "📱Media Collected/Pasted image 20230516103158.png",
-    "📱Media Collected",
+    "🥏Permanent Note/Question About the World.md",
     "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-05-15.md",
-    "🥏Permanent Note/Question About the World.md",
+    "💡Journal/2023-05-16.md",
+    "🌎Maps/質疑這個世界.canvas",
+    "🌎Maps/技術面.canvas",
+    "🌎Maps/Multi Calculus.canvas",
+    "🌎Maps/DS.canvas",
+    "📱Media Collected/Pasted image 20230517195708.png",
+    "📱Media Collected/Pasted image 20230517190516.png",
+    "📱Media Collected/Pasted image 20230517185621.png",
+    "📱Media Collected/Pasted image 20230517184722.png",
+    "📱Media Collected/Pasted image 20230517154114.png",
+    "📱Media Collected/Pasted image 20230517153319.png",
+    "📱Media Collected/Pasted image 20230517151933.png",
+    "📱Media Collected/Pasted image 20230517151550.png",
+    "📱Media Collected/Pasted image 20230517020848.png",
+    "📱Media Collected/Pasted image 20230517020304.png",
+    "Permanent Note/Multi Calculus.md",
+    "Permanent Note",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "📱Media Collected",
     "🗺️Map.canvas",
     "🦄Templates/01 - Journal.md",
     "💡Journal",
