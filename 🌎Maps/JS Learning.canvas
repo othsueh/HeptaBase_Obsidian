@@ -11,11 +11,15 @@
 		{"type":"text","text":"# ... (Spread Operator)\n> Devide elements in string/array to independent value\n\n```js\nconst disney = ['d','i','s','n','e','y'];\nconsole.log(disney);//array type\nconsole.log(...disney);//char type\n```","id":"9087ca9f860b541d","x":1061,"y":863,"width":499,"height":217},
 		{"type":"text","text":"# ... (rest Operator)\n> Parameter for function to use unknown number of paramters.\n\n```js\nfunction sum(…numbers) { \n\tconst result = 0; \n\tnumbers.forEach(function (number) { \n\tresult += number; \n\t}) \n\treturn result \n\t} \nsum(1) // 1 \nsum(1, 2, 3, 4, 5) // 15\n```","id":"5bf6d29914be736c","x":1061,"y":1100,"width":560,"height":360},
 		{"type":"text","text":"# Destructuring\n>Use multiple variables to store multiple values with array or object\n\n```js\nconst magic = [0,1,1,0];\nconst [m1,m2,...m3] = magic; //m1 : 0 ; m2 : 1 ; m3 :[]\n```","id":"96e3a8f97fd00a09","x":1061,"y":1540,"width":560,"height":229},
-		{"id":"db293a2db2e21d23","x":1061,"y":1840,"width":642,"height":225,"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```"}
+		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":1061,"y":1840,"width":599,"height":225},
+		{"id":"598acdb79c34dc2e","x":1780,"y":1850,"width":400,"height":103,"type":"text","text":"# .keys()\n>Get the keys of an array or object"},
+		{"id":"9e553aabf9bb5017","x":1787,"y":2008,"width":250,"height":60,"type":"text","text":"# .values()\n>Get the values "}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
 		{"id":"cbfac21deb60f6ef","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"a2002a446c0aeced","toSide":"left"},
-		{"id":"c5cc719810f5f030","fromNode":"6f36f9389a07cc25","fromSide":"left","toNode":"a884f4db1b953a12","toSide":"right"}
+		{"id":"c5cc719810f5f030","fromNode":"6f36f9389a07cc25","fromSide":"left","toNode":"a884f4db1b953a12","toSide":"right"},
+		{"id":"e7d8670238e7058b","fromNode":"db293a2db2e21d23","fromSide":"right","toNode":"598acdb79c34dc2e","toSide":"left"},
+		{"id":"d3bbe6b452b80201","fromNode":"db293a2db2e21d23","fromSide":"right","toNode":"9e553aabf9bb5017","toSide":"left"}
 	]
 }
