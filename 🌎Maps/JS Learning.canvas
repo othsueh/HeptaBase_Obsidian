@@ -14,7 +14,8 @@
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":1061,"y":1840,"width":599,"height":225},
 		{"id":"598acdb79c34dc2e","x":1760,"y":1820,"width":400,"height":103,"type":"text","text":"# .keys()\n>Get the keys of an array or object"},
 		{"id":"9e553aabf9bb5017","x":1760,"y":1953,"width":346,"height":137,"type":"text","text":"# .values()\n>Get the values of an array or object"},
-		{"id":"7f2fd4381522f41a","x":1061,"y":2120,"width":469,"height":281,"type":"text","text":"# ?. Optional Chain \n>Check the exist of mother object before check deeper element\n\n**Unlike direct access, it will not report error, instead undefined**\n\n```js\nconst test = obj.first?.second\n```"}
+		{"id":"7f2fd4381522f41a","x":1061,"y":2120,"width":469,"height":281,"type":"text","text":"# ?. Optional Chain \n>Check the exist of mother object before check deeper element\n\n**Unlike direct access, it will not report error, instead undefined**\n\n```js\nconst test = obj.first?.second\n```"},
+		{"id":"d75324ffd34ac72c","x":1535,"y":2120,"width":425,"height":141,"type":"text","text":"# set\n```js\nconst numset = new Set([1,2,3,4]);\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
