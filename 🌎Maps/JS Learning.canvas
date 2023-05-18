@@ -21,7 +21,7 @@
 		{"id":"598acdb79c34dc2e","x":3019,"y":2880,"width":400,"height":103,"type":"text","text":"# .keys()\n>Get the keys of an array or object"},
 		{"id":"9e553aabf9bb5017","x":3019,"y":3013,"width":346,"height":137,"type":"text","text":"# .values()\n>Get the values of an array or object"},
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2320,"y":2900,"width":599,"height":225},
-		{"id":"16a08ca3cf7c680c","x":2105,"y":3162,"width":250,"height":60,"type":"text","text":"# string method\n- `indexof()`\n- "}
+		{"id":"16a08ca3cf7c680c","x":2105,"y":3162,"width":250,"height":60,"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
