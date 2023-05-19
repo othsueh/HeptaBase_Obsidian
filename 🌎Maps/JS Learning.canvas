@@ -21,8 +21,10 @@
 		{"type":"text","text":"# .keys()\n>Get the keys of an array or object","id":"598acdb79c34dc2e","x":3019,"y":2880,"width":400,"height":103},
 		{"type":"text","text":"# .values()\n>Get the values of an array or object","id":"9e553aabf9bb5017","x":3019,"y":3013,"width":346,"height":137},
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2320,"y":2900,"width":599,"height":225},
-		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":1640,"y":3150,"width":250,"height":566},
-		{"id":"bbedff883f744e22","x":1980,"y":3180,"width":460,"height":301,"type":"text","text":"# slice()\n>slice part from the string\n\n**First parameter** : start index\n**Second parameter** : end index(not included)\n=> default is the end of the string\n```js\nconst us = \"The United States of America\";\nconsole.log(us.slice(4,10));\n```"}
+		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":1640,"y":3400,"width":250,"height":566},
+		{"id":"bbedff883f744e22","x":2059,"y":3150,"width":460,"height":301,"type":"text","text":"# slice()\n>slice part from the string\n\n**First parameter** : start index\n**Second parameter** : end index(not included)\n=> default is the end of the string\n```js\nconst us = \"The United States of America\";\nconsole.log(us.slice(4,10)); //United\n```"},
+		{"id":"69c7f4b2f9015f7c","x":2059,"y":3510,"width":452,"height":223,"type":"text","text":"# trim()\n>clean whitespace of the start and the end of the string\n\n```js\nconst us = \" USA \";\nconsole.log(us.trim()); //USA\n```"},
+		{"id":"3b26f13817622e8b","x":2084,"y":3820,"width":396,"height":146,"type":"text","text":"# replace()\n>replace existing part in a string with new char or string\n\n"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -37,6 +39,8 @@
 		{"id":"734c818f8da4217b","fromNode":"526090bea8024616","fromSide":"right","toNode":"cab381b92ffb6828","toSide":"left"},
 		{"id":"48365857e5504ce3","fromNode":"c9d3e9b67fbc0bb7","fromSide":"left","toNode":"526090bea8024616","toSide":"right"},
 		{"id":"5ad31fdabb86cb71","fromNode":"526090bea8024616","fromSide":"right","toNode":"db293a2db2e21d23","toSide":"left"},
-		{"id":"745a0ffb22e6192a","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"bbedff883f744e22","toSide":"left"}
+		{"id":"745a0ffb22e6192a","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"bbedff883f744e22","toSide":"left"},
+		{"id":"8c98cecf8805a054","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"69c7f4b2f9015f7c","toSide":"left"},
+		{"id":"3dfbe960d9754e58","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"3b26f13817622e8b","toSide":"left"}
 	]
 }
