@@ -24,7 +24,8 @@
 		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":1640,"y":3400,"width":250,"height":566},
 		{"id":"bbedff883f744e22","x":2059,"y":3150,"width":460,"height":301,"type":"text","text":"# slice()\n>slice part from the string\n\n**First parameter** : start index\n**Second parameter** : end index(not included)\n=> default is the end of the string\n```js\nconst us = \"The United States of America\";\nconsole.log(us.slice(4,10)); //United\n```"},
 		{"id":"69c7f4b2f9015f7c","x":2059,"y":3510,"width":452,"height":223,"type":"text","text":"# trim()\n>clean whitespace of the start and the end of the string\n\n```js\nconst us = \" USA \";\nconsole.log(us.trim()); //USA\n```"},
-		{"id":"3b26f13817622e8b","x":2084,"y":3820,"width":396,"height":146,"type":"text","text":"# replace()\n>replace existing part in a string with new char or string\n\n"}
+		{"id":"3b26f13817622e8b","x":2059,"y":3767,"width":496,"height":199,"type":"text","text":"# replace()\n>replace existing part in a string with new char or string\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.replace('I','E'));//E LIKE YOU\n```"},
+		{"id":"ac024de93f46222e","x":2055,"y":4036,"width":500,"height":279,"type":"text","text":"# replaceAll()\n>replace all same existing part in a string with new char or string\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.replaceAll('I','E'));//E LEKE YOU\n//===regex way\nconsole.log(us.replace(/I/g,'E'));\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -41,6 +42,7 @@
 		{"id":"5ad31fdabb86cb71","fromNode":"526090bea8024616","fromSide":"right","toNode":"db293a2db2e21d23","toSide":"left"},
 		{"id":"745a0ffb22e6192a","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"bbedff883f744e22","toSide":"left"},
 		{"id":"8c98cecf8805a054","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"69c7f4b2f9015f7c","toSide":"left"},
-		{"id":"3dfbe960d9754e58","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"3b26f13817622e8b","toSide":"left"}
+		{"id":"3dfbe960d9754e58","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"3b26f13817622e8b","toSide":"left"},
+		{"id":"7ec3dde37c4c8c50","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"ac024de93f46222e","toSide":"left"}
 	]
 }
