@@ -22,7 +22,7 @@
 		{"type":"text","text":"# .values()\n>Get the values of an array or object","id":"9e553aabf9bb5017","x":3019,"y":3013,"width":346,"height":137},
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2320,"y":2900,"width":599,"height":225},
 		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":1640,"y":3150,"width":250,"height":566},
-		{"id":"bbedff883f744e22","x":2160,"y":3267,"width":250,"height":60,"type":"text","text":"# slice()\n>slice part from the string"}
+		{"id":"bbedff883f744e22","x":1980,"y":3180,"width":460,"height":301,"type":"text","text":"# slice()\n>slice part from the string\n\n**First parameter** : start index\n**Second parameter** : end index(not included)\n=> default is the end of the string\n```js\nconst us = \"The United States of America\";\nconsole.log(us.slice(4,10));\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
