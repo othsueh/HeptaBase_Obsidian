@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "8b6c665643324078",
+    "id": "983aae24e332232f",
     "type": "split",
     "children": [
       {
-        "id": "ea46f89dc299c750",
+        "id": "4f194a2c603631e7",
         "type": "tabs",
         "children": [
           {
-            "id": "03d6be91cebce9cc",
+            "id": "13350fb58d554658",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 158.3239677873391,
-                  "y": 701.5127282790392,
-                  "zoom": -2.508400029066135
+                  "x": 1987.5124026184162,
+                  "y": 3369.6231102917336,
+                  "zoom": 0
                 }
               }
             }
@@ -28,15 +28,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8f503a59cd8e0fbc",
+    "id": "02d1f285ee7b5159",
     "type": "split",
     "children": [
       {
-        "id": "0fa38c23515d5e61",
+        "id": "37a698a41abe09a0",
         "type": "tabs",
         "children": [
           {
-            "id": "1860b9fbac76cf6b",
+            "id": "e6dfbe2f8f379d3e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -46,7 +46,7 @@
             }
           },
           {
-            "id": "f935cb06cb81127d",
+            "id": "aaff2d0f10df9ffd",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +61,7 @@
             }
           },
           {
-            "id": "aff7d9f97aa8eb7f",
+            "id": "2944e25468118ab7",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,47 +72,48 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "2b1f0b8f41eeb8aa",
+    "id": "a620f084a5a46883",
     "type": "split",
     "children": [
       {
-        "id": "6b53a0464394260b",
+        "id": "04ccd180de9359a8",
         "type": "tabs",
         "children": [
           {
-            "id": "784abd878d9fae17",
+            "id": "481d1e5770fba5d4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
               }
             }
           },
           {
-            "id": "0e46b20d33f24227",
+            "id": "5daf5207aa89e233",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "01e3943cf77882bc",
+            "id": "a1edbd0d2ddd0b3d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -123,17 +124,17 @@
             }
           },
           {
-            "id": "53bca9c151679a67",
+            "id": "474ba00a68844134",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas"
+                "file": "🌎Maps/JS Learning.canvas"
               }
             }
           },
           {
-            "id": "facab8267ae9255f",
+            "id": "45ea0541bc9515b0",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -145,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 439.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,11 +159,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d6be91cebce9cc",
+  "active": "13350fb58d554658",
   "lastOpenFiles": [
     "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
+    "🥏Permanent Note/技術分析.md",
+    "🥏Permanent Note/Question About the World.md",
+    "🥏Permanent Note/JS Learned.md",
+    "💡Journal/2023-05-15.md",
+    "💡Journal/2023-05-16.md",
+    "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/技術面.canvas",
+    "🌎Maps/Multi Calculus.canvas",
+    "🌎Maps/DS.canvas",
     "📱Media Collected/Pasted image 20230517195708.png",
     "📱Media Collected/Pasted image 20230517190516.png",
     "📱Media Collected/Pasted image 20230517185621.png",
@@ -171,12 +180,25 @@
     "📱Media Collected/Pasted image 20230517153319.png",
     "📱Media Collected/Pasted image 20230517151933.png",
     "📱Media Collected/Pasted image 20230517151550.png",
-    "Untitled.canvas",
-    "🌎Maps/Multi Calculus.canvas",
-    "🌎Maps/DS.canvas",
     "📱Media Collected/Pasted image 20230517020848.png",
     "📱Media Collected/Pasted image 20230517020304.png",
     "Permanent Note/Multi Calculus.md",
-    "Permanent Note"
+    "Permanent Note",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "📱Media Collected",
+    "🗺️Map.canvas",
+    "🦄Templates/01 - Journal.md",
+    "💡Journal",
+    "[Question About the World.md",
+    "🥏Permanent Note",
+    "Untitled.md",
+    "2023-05-15.md",
+    "🦄Templates",
+    "測試.canvas",
+    "🌎Maps",
+    "💡Journal/輸入與輸出.md",
+    "💡Fleet note/Untitled.md",
+    "🥏Permanent note",
+    "💻Literature note"
   ]
 }
