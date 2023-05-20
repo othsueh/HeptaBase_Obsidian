@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"02caf38f08076b87","x":-480,"y":-220,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/Discrete Mathmatics.md"},
 		{"id":"23c0409b1dbb8d6c","x":-20,"y":-220,"width":340,"height":108,"type":"text","text":"# Binary Relation\n>a pair of two values\n"},
-		{"id":"075a2ea05807de75","x":-20,"y":-80,"width":405,"height":150,"type":"text","text":"# Relationship of two sets\n>Suppose that there are set A and set B, the relationship of two set is the subset of AXB"}
+		{"id":"075a2ea05807de75","x":-20,"y":-80,"width":405,"height":150,"type":"text","text":"# Relationship of two sets\n>Suppose that there are set A and set B, the relationship of two set is the subset of AXB\n\n$$\na \n$$"}
 	],
 	"edges":[]
 }
