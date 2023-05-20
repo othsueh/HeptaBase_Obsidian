@@ -11,15 +11,34 @@
             "id": "03d6be91cebce9cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "💡Journal/2023-05-20.md",
-                "mode": "preview",
-                "source": false
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "1d819a6e9967fa84",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-05-20.md",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-05-20.md",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-05-20.md"
+                "file": "🌎Maps/Discrete Mathmatics.canvas"
               }
             }
           },
@@ -155,10 +174,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d6be91cebce9cc",
+  "active": "1d819a6e9967fa84",
   "lastOpenFiles": [
-    "🌎Maps/Multi Calculus.canvas",
+    "🌎Maps/DS.canvas",
+    "🥏Permanent Note/Discrete Mathmatics.md",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal/2023-05-20.md",
+    "🌎Maps/Multi Calculus.canvas",
     "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/技術面.canvas",
@@ -171,7 +193,6 @@
     "📱Media Collected/Pasted image 20230517151933.png",
     "📱Media Collected/Pasted image 20230517151550.png",
     "Untitled.canvas",
-    "🌎Maps/DS.canvas",
     "📱Media Collected/Pasted image 20230517020848.png",
     "📱Media Collected/Pasted image 20230517020304.png",
     "Permanent Note/Multi Calculus.md",

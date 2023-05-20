@@ -1,1 +1,7 @@
-{}
+{
+	"nodes":[
+		{"id":"02caf38f08076b87","x":-440,"y":-200,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/Discrete Mathmatics.md"},
+		{"id":"23c0409b1dbb8d6c","x":0,"y":-80,"width":340,"height":140,"type":"text","text":"# Binary Relation\n"}
+	],
+	"edges":[]
+}
