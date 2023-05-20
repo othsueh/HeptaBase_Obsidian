@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"02caf38f08076b87","x":-480,"y":-220,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/Discrete Mathmatics.md"},
 		{"id":"075a2ea05807de75","x":-20,"y":-60,"width":480,"height":216,"type":"text","text":"# Relationship of two sets\n>Suppose that there are set A and set B, the relationship of two set is the subset of AXB\n\n$$\na \\in A,\\ b \\in B\n$$\n$$aRb = (a,b) \\in R= a\\ is\\ related\\ to\\ b\\ by\\ R$$"},
-		{"id":"23c0409b1dbb8d6c","x":50,"y":-328,"width":340,"height":108,"type":"text","text":"# Binary Relation\n>a pair of two values\n"}
+		{"id":"23c0409b1dbb8d6c","x":50,"y":-328,"width":340,"height":108,"type":"text","text":"# Binary Relation\n>a pair of two values\n"},
+		{"id":"654d4c9956d4c817","x":362,"y":-70,"width":398,"height":226,"type":"text","text":"# graph of function\n>relation is the expansion of graph of function\n\n$$\nd \\in domain\\ D, c \\in codomain\\ C,f(d)=c\n$$\n$$\nThe\\ relationship\\ is\\ \n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"}
