@@ -7,10 +7,10 @@
 		{"id":"6c9f2018648d5dc6","x":112,"y":-220,"width":435,"height":180,"type":"text","text":"# Relationship on one set A\n>binary relationship is always one to one, so the relationship of set itself is the subset of AXA\n\n$$\nR \\subseteq AXA\n$$\n"},
 		{"id":"693e1042da2a0559","x":733,"y":-269,"width":525,"height":278,"type":"text","text":"# How many relationship on a set of n elements?\n>we know that the relationship is always the subset of AXA\n\n$$\nThere\\ are\\ 2^n\\ subset\\ of\\ set\\ with\\ n\\ elements\\\n$$\n$$\nThen\\ the\\ relationship\\ R \\subseteq AXA\n$$\n$$\nR\\ has\\ (2^n)\\cdot(2^n)=2^{n^2} elements\\ at\\ most\n$$"},
 		{"id":"481ef18260a57c58","x":40,"y":80,"width":579,"height":325,"type":"text","text":"# Four relationship on a set A\n>We define 4 basic relationship of elements on a set A.\n\n**If an element in a set R not followed the relationship, then we said R is not followed the relationship**\n- Reflexsive relationship\n- Symmetric relationship\n- Antisymmetric relationship\n- transitive relationship"},
-		{"id":"0de0f9a7948a0daa","x":804,"y":50,"width":250,"height":60,"type":"text","text":"# Reflexsive\n>elem"},
-		{"id":"146b3476d910b787","x":804,"y":213,"width":250,"height":60,"type":"text","text":"# Symmetric"},
-		{"id":"91a8921a16368eb7","x":804,"y":345,"width":325,"height":60,"type":"text","text":"# Anti Symmetric"},
-		{"id":"aaa6cae523cd9a10","x":804,"y":480,"width":250,"height":60,"type":"text","text":"# Transitive "}
+		{"id":"0de0f9a7948a0daa","x":804,"y":50,"width":396,"height":216,"type":"text","text":"# Reflexsive\n>element a is in the set A, and the relationship is to itself\n\n$$\nA = {1,2,3,4}\n$$\n$$\nR = {(1,1),(2,2),(3,3),(4,4)}\n$$"},
+		{"id":"146b3476d910b787","x":804,"y":285,"width":376,"height":60,"type":"text","text":"# Symmetric\n>element a and b is in the set A, if the pair (a,b) exist, then pair (b,a) exist"},
+		{"id":"aaa6cae523cd9a10","x":804,"y":640,"width":250,"height":60,"type":"text","text":"# Transitive "},
+		{"id":"91a8921a16368eb7","x":804,"y":460,"width":325,"height":60,"type":"text","text":"# Anti Symmetric"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
