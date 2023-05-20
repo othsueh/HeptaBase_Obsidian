@@ -11,14 +11,11 @@
             "id": "03d6be91cebce9cc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas",
-                "viewState": {
-                  "x": -32.61144713952443,
-                  "y": 335.03035802433067,
-                  "zoom": -1.6417333623994683
-                }
+                "file": "💡Journal/2023-05-20.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas",
+                "file": "💡Journal/2023-05-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas",
+                "file": "💡Journal/2023-05-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Multi Calculus.canvas"
+                "file": "💡Journal/2023-05-20.md"
               }
             }
           },
@@ -160,6 +157,8 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "🌎Maps/Multi Calculus.canvas",
+    "💡Journal/2023-05-20.md",
     "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/技術面.canvas",
@@ -172,7 +171,6 @@
     "📱Media Collected/Pasted image 20230517151933.png",
     "📱Media Collected/Pasted image 20230517151550.png",
     "Untitled.canvas",
-    "🌎Maps/Multi Calculus.canvas",
     "🌎Maps/DS.canvas",
     "📱Media Collected/Pasted image 20230517020848.png",
     "📱Media Collected/Pasted image 20230517020304.png",
