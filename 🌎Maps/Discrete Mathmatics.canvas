@@ -5,7 +5,7 @@
 		{"id":"23c0409b1dbb8d6c","x":160,"y":-800,"width":340,"height":108,"type":"text","text":"# Binary Relation\n>a pair of two values\n"},
 		{"id":"654d4c9956d4c817","x":760,"y":-518,"width":498,"height":188,"type":"text","text":"# graph of function\n>relation is the expansion of graph of function\n\n$$\nd \\in domain\\ D, c \\in codomain\\ C,f(d)=c\n$$\n$$\nThe\\ binary\\ relationship\\ is\\ always\\ (d,c), d\\ is\\ the\\ first\\ element\n$$"},
 		{"id":"6c9f2018648d5dc6","x":112,"y":-220,"width":435,"height":180,"type":"text","text":"# Relationship on one set A\n>binary relationship is always one to one, so the relationship of set itself is the subset of AXA\n\n$$\nR \\subseteq AXA\n$$\n"},
-		{"id":"693e1042da2a0559","x":733,"y":-158,"width":607,"height":118,"type":"text","text":"# How many relationship on a set of n elements?\n>we know that b"}
+		{"id":"693e1042da2a0559","x":733,"y":-158,"width":525,"height":198,"type":"text","text":"# How many relationship on a set of n elements?\n>we know that the relationship is always the subset of AXA\n\n$$\nThere\\ are\\ 2^n\\ subset\\ of\\ set\\ with\\ n\\ elements\\\n$$\n$$\nThen\\ the\\ relationship\\ R \\\n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
