@@ -31,10 +31,11 @@
 		{"type":"text","text":"# .keys()\n>Get the keys of an array or object","id":"598acdb79c34dc2e","x":3367,"y":-560,"width":400,"height":103},
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2668,"y":-540,"width":599,"height":225},
 		{"type":"text","text":"# .values()\n>Get the values of an array or object","id":"9e553aabf9bb5017","x":3367,"y":-427,"width":346,"height":137},
-		{"id":"26133fafd5d185d7","x":2229,"y":1621,"width":431,"height":222,"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reverse()`\n- `concat()`\n- `at()`\n"},
 		{"id":"86654fc261e2b550","x":2865,"y":1522,"width":351,"height":199,"type":"text","text":"# reverse()\n>reverse the array\n\n```js\nconst num4 = num3.reverse();\nconsole.log(num4)//[4,3,2,1]\n```"},
 		{"id":"ba817365d97b0857","x":2865,"y":1732,"width":415,"height":297,"type":"text","text":"# concat()\n>connect two array\n\n```js\nconst num1 = [1,2];\nconst num2 = [3,4];\nconst num3 = num1.concat(num2);\nconsole.log(num3);//[1,2,3,4]\n//===same as\nconst num3 = [...num1,...num2];\n```"},
-		{"id":"a1ebd96e10a61238","x":2865,"y":2080,"width":423,"height":276,"type":"text","text":"# at()\n>find the value of the index in the array\n\n```js\nconst arr = ['a', 'b', 'c', 'd', 'e'];\nconst none = arr.at(0);\nconsole.log(none); //a\n//===same as\nconst one = arr[0];\n```"}
+		{"id":"a1ebd96e10a61238","x":2865,"y":2080,"width":423,"height":276,"type":"text","text":"# at()\n>find the value of the index in the array\n\n```js\nconst arr = ['a', 'b', 'c', 'd', 'e'];\nconst none = arr.at(0);\nconsole.log(none); //a\n//===same as\nconst one = arr[0];\n```"},
+		{"id":"26133fafd5d185d7","x":2200,"y":1770,"width":431,"height":222,"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reverse()`\n- `concat()`\n- `at()`\n- `forEach()`\n"},
+		{"id":"8bb3a068429fd496","x":2859,"y":2446,"width":429,"height":94,"type":"text","text":"# forEach()\n>loop the array "}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -61,6 +62,7 @@
 		{"id":"fcba8251470aad6b","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"86654fc261e2b550","toSide":"left"},
 		{"id":"ad46a8690ced65b0","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"ba817365d97b0857","toSide":"left"},
 		{"id":"b909ad06a3c8fe13","fromNode":"9087ca9f860b541d","fromSide":"right","toNode":"ba817365d97b0857","toSide":"left"},
-		{"id":"2fc8d2bb6425be46","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"a1ebd96e10a61238","toSide":"left"}
+		{"id":"2fc8d2bb6425be46","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"a1ebd96e10a61238","toSide":"left"},
+		{"id":"ee299e22406302fb","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"8bb3a068429fd496","toSide":"left"}
 	]
 }
