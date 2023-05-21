@@ -28,7 +28,8 @@
 		{"type":"text","text":"# replaceAll()\n>replace all same existing part in a string with new char or string\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.replaceAll('I','E'));//E LEKE YOU\n//===regex way\nconsole.log(us.replace(/I/g,'E'));\n```","id":"ac024de93f46222e","x":2048,"y":4000,"width":500,"height":279},
 		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":1520,"y":3450,"width":250,"height":566},
 		{"id":"5cda663012af5684","x":2048,"y":4560,"width":491,"height":200,"type":"text","text":"# startsWith()\n>Check if the parameter is the start of the string.\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.startsWith('I')); //true\n```"},
-		{"id":"8eb6ff522fc0d69b","x":2056,"y":4879,"width":483,"height":255,"type":"text","text":"# split()\n>split part of the string by paramter, if parameter exist in the string.\n\n```js\nconst us = \"I LIKE YOU\";\nconst [first,second,third] = us.split(\" \");\nconsole.log(first,second,third);//I LIKE YOU\n```"}
+		{"id":"8eb6ff522fc0d69b","x":2048,"y":4800,"width":483,"height":255,"type":"text","text":"# split()\n>split part of the string by paramter, if parameter exist in the string.\n\n```js\nconst us = \"I LIKE YOU\";\nconst [first,second,third] = us.split(\" \");\nconsole.log(first,second,third);//I LIKE YOU\n```"},
+		{"id":"1c2ecd28f892131f","x":2048,"y":5080,"width":450,"height":205,"type":"text","text":"# join()\n>connect multiple string with the parameter\n\n```js\nconst nus = [first,second,third].join(\"+\");\nconsole.log(nus);\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -49,6 +50,7 @@
 		{"id":"7ec3dde37c4c8c50","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"ac024de93f46222e","toSide":"left"},
 		{"id":"fb963f429c3368c9","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"06e339737c318edb","toSide":"left"},
 		{"id":"f0600b8d28a1ad7e","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"5cda663012af5684","toSide":"left"},
-		{"id":"c4ab3067e90bbdb1","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"8eb6ff522fc0d69b","toSide":"left"}
+		{"id":"c4ab3067e90bbdb1","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"8eb6ff522fc0d69b","toSide":"left"},
+		{"id":"87396cdb34b55566","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"1c2ecd28f892131f","toSide":"left"}
 	]
 }
