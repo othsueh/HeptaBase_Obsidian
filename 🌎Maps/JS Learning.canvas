@@ -26,10 +26,11 @@
 		{"type":"text","text":"# replace()\n>replace existing part in a string with new char or string\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.replace('I','E'));//E LIKE YOU\n```","id":"3b26f13817622e8b","x":2059,"y":3767,"width":496,"height":199},
 		{"type":"text","text":"# includes() \n>check the part is existing or not existing in the string\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.includes(\"I\"));\n```","id":"06e339737c318edb","x":2059,"y":4315,"width":477,"height":205},
 		{"type":"text","text":"# replaceAll()\n>replace all same existing part in a string with new char or string\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.replaceAll('I','E'));//E LEKE YOU\n//===regex way\nconsole.log(us.replace(/I/g,'E'));\n```","id":"ac024de93f46222e","x":2048,"y":4000,"width":500,"height":279},
-		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":1520,"y":3450,"width":250,"height":566},
 		{"id":"5cda663012af5684","x":2048,"y":4560,"width":491,"height":200,"type":"text","text":"# startsWith()\n>Check if the parameter is the start of the string.\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.startsWith('I')); //true\n```"},
 		{"id":"8eb6ff522fc0d69b","x":2048,"y":4800,"width":483,"height":255,"type":"text","text":"# split()\n>split part of the string by paramter, if parameter exist in the string.\n\n```js\nconst us = \"I LIKE YOU\";\nconst [first,second,third] = us.split(\" \");\nconsole.log(first,second,third);//I LIKE YOU\n```"},
-		{"id":"1c2ecd28f892131f","x":2048,"y":5080,"width":450,"height":205,"type":"text","text":"# join()\n>connect multiple string with the parameter\n\n```js\nconst nus = [first,second,third].join(\"+\");\nconsole.log(nus);\n```"}
+		{"id":"1c2ecd28f892131f","x":2048,"y":5080,"width":450,"height":205,"type":"text","text":"# join()\n>connect multiple string with the parameter\n\n```js\nconst nus = [first,second,third].join(\"+\");\nconsole.log(nus);\n```"},
+		{"type":"text","text":"# string method\n- `indexOf()`\n- `lastIndexOf()`\n- `slice()`\n- `trim()`\n- `replace()`\n- `replaceAll()`\n- `toUpperCase()`\n- `toLowerCase()`\n- `includes()`\n- `startsWith()`\n- `endsWith()`\n- `split()`\n- `join()`\n- `padStart()`\n- `padEnd()`\n- `repeat()`","id":"16a08ca3cf7c680c","x":920,"y":3954,"width":280,"height":566},
+		{"id":"d9061e01e4a7c29e","x":2048,"y":5320,"width":420,"height":259,"type":"text","text":"# padStart()\n>If string length is smaller than first parameter, then filled second parameter at the start of the string.\n\n```js\nconst us = \"I LIKE YOU\";\nconsole.log(us.padStart(12,\"I\"));\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -51,6 +52,7 @@
 		{"id":"fb963f429c3368c9","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"06e339737c318edb","toSide":"left"},
 		{"id":"f0600b8d28a1ad7e","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"5cda663012af5684","toSide":"left"},
 		{"id":"c4ab3067e90bbdb1","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"8eb6ff522fc0d69b","toSide":"left"},
-		{"id":"87396cdb34b55566","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"1c2ecd28f892131f","toSide":"left"}
+		{"id":"87396cdb34b55566","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"1c2ecd28f892131f","toSide":"left"},
+		{"id":"9ddf599e86b62641","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"d9061e01e4a7c29e","toSide":"left"}
 	]
 }
