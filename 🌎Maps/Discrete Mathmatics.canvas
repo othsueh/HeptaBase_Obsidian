@@ -1,1 +1,26 @@
-{}
+{
+	"nodes":[
+		{"id":"02caf38f08076b87","x":-480,"y":-220,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/Discrete Mathmatics.md"},
+		{"id":"075a2ea05807de75","x":90,"y":-532,"width":480,"height":216,"type":"text","text":"# Relationship of two sets\n>Suppose that there are set A and set B, the relationship of two set is the subset of AXB\n\n$$\na \\in A,\\ b \\in B\n$$\n$$aRb = (a,b) \\in R= a\\ is\\ related\\ to\\ b\\ by\\ R$$"},
+		{"id":"23c0409b1dbb8d6c","x":160,"y":-800,"width":340,"height":108,"type":"text","text":"# Binary Relation\n>a pair of two values\n"},
+		{"id":"654d4c9956d4c817","x":760,"y":-518,"width":498,"height":188,"type":"text","text":"# graph of function\n>relation is the expansion of graph of function\n\n$$\nd \\in domain\\ D, c \\in codomain\\ C,f(d)=c\n$$\n$$\nThe\\ binary\\ relationship\\ is\\ always\\ (d,c), d\\ is\\ the\\ first\\ element\n$$"},
+		{"id":"6c9f2018648d5dc6","x":112,"y":-220,"width":435,"height":180,"type":"text","text":"# Relationship on one set A\n>binary relationship is always one to one, so the relationship of set itself is the subset of AXA\n\n$$\nR \\subseteq AXA\n$$\n"},
+		{"id":"693e1042da2a0559","x":733,"y":-269,"width":525,"height":278,"type":"text","text":"# How many relationship on a set of n elements?\n>we know that the relationship is always the subset of AXA\n\n$$\nThere\\ are\\ 2^n\\ subset\\ of\\ set\\ with\\ n\\ elements\\\n$$\n$$\nThen\\ the\\ relationship\\ R \\subseteq AXA\n$$\n$$\nR\\ has\\ (2^n)\\cdot(2^n)=2^{n^2} elements\\ at\\ most\n$$"},
+		{"id":"0de0f9a7948a0daa","x":804,"y":50,"width":396,"height":216,"type":"text","text":"# Reflexsive\n>element a is in the set A, and the relationship is to itself\n\n$$\nA = {1,2,3,4}\n$$\n$$\nR = {(1,1),(2,2),(3,3),(4,4)}\n$$"},
+		{"id":"146b3476d910b787","x":804,"y":285,"width":416,"height":205,"type":"text","text":"# Symmetric\n>element a and b is in the set A, a not equal to b. if the pair (a,b) exist, then pair (b,a) exist.\n\n$$\nA = 1,2,3\n$$\n$$\nR = (1,2),(2,1),(1,3),(3,1)\n$$"},
+		{"id":"91a8921a16368eb7","x":804,"y":520,"width":325,"height":108,"type":"text","text":"# Anti Symmetric\n>Not symmetric relationship"},
+		{"id":"aaa6cae523cd9a10","x":804,"y":660,"width":436,"height":246,"type":"text","text":"# Transitive \n>element a and b and c are in the set A, a not equal to b, b not equal to c. If (a,b), (b,c) exist, then (a,c) exist.\n\n$$\nA = 1,2,3,4\n$$\n$$\nR = (1,2),(2,3),(3,1),(1,3),(3,3)\n$$\n\n"},
+		{"id":"481ef18260a57c58","x":40,"y":249,"width":579,"height":325,"type":"text","text":"# Four relationship on a set A\n>We define 4 basic relationship of elements on a set A.\n\n**If an element in a set R not followed the relationship, then we said R is not followed the relationship**\n- Reflexsive relationship\n- Symmetric relationship\n- Antisymmetric relationship\n- transitive relationship"}
+	],
+	"edges":[
+		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
+		{"id":"d9f8b020f9f0ff8c","fromNode":"075a2ea05807de75","fromSide":"right","toNode":"654d4c9956d4c817","toSide":"left"},
+		{"id":"da030d3092379cbc","fromNode":"075a2ea05807de75","fromSide":"bottom","toNode":"6c9f2018648d5dc6","toSide":"top"},
+		{"id":"43db9c85a4fac2c6","fromNode":"6c9f2018648d5dc6","fromSide":"right","toNode":"693e1042da2a0559","toSide":"left"},
+		{"id":"4e4d86c50e6cee92","fromNode":"6c9f2018648d5dc6","fromSide":"bottom","toNode":"481ef18260a57c58","toSide":"top"},
+		{"id":"319110a527b0a93a","fromNode":"481ef18260a57c58","fromSide":"right","toNode":"0de0f9a7948a0daa","toSide":"left"},
+		{"id":"61844659d0b5efae","fromNode":"481ef18260a57c58","fromSide":"right","toNode":"146b3476d910b787","toSide":"left"},
+		{"id":"a78fa9d7744ca6b7","fromNode":"481ef18260a57c58","fromSide":"right","toNode":"91a8921a16368eb7","toSide":"left"},
+		{"id":"73b528bd82e77a8f","fromNode":"481ef18260a57c58","fromSide":"right","toNode":"aaa6cae523cd9a10","toSide":"left"}
+	]
+}

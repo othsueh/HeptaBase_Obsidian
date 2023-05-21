@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -160,8 +159,10 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
-    "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
+    "🌎Maps/JS Learning.canvas",
+    "🥏Permanent Note/Discrete Mathmatics.md",
+    "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
     "🥏Permanent Note/Question About the World.md",
     "🥏Permanent Note/JS Learned.md",
