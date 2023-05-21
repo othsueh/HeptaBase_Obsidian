@@ -36,7 +36,7 @@
 		{"type":"text","text":"# at()\n>find the value of the index in the array\n\n```js\nconst arr = ['a', 'b', 'c', 'd', 'e'];\nconst none = arr.at(0);\nconsole.log(none); //a\n//===same as\nconst one = arr[0];\n```","id":"a1ebd96e10a61238","x":2865,"y":2080,"width":423,"height":276},
 		{"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reverse()`\n- `concat()`\n- `at()`\n- `forEach()`\n","id":"26133fafd5d185d7","x":2200,"y":1770,"width":431,"height":222},
 		{"type":"text","text":"# forEach()\n>loop the array, get the value, index in it.\n\n**Parameters** :\n- value\n- index\n- array(itself)\n```js\nconst movements = [200, 450, -400, 3000, -650, -130, 70, 1300];\nmovements.forEach(function(mov, i, arr){\n  console.log(`${i}: ${mov}`);//0: 200 1: 450\n});\n```","id":"8bb3a068429fd496","x":2865,"y":2420,"width":615,"height":391},
-		{"id":"a593af6554dbd5cc","x":560,"y":-1201,"width":552,"height":161,"type":"text","text":"# # Nullish coalescing operator\n>Only return right hand value if left hand value is `null` or `undefined`\n\n```js\n\n```"}
+		{"id":"a593af6554dbd5cc","x":680,"y":-1307,"width":552,"height":256,"type":"text","text":"# Nullish coalescing operator\n>Only return right hand value if left hand value is `null` or `undefined`\n\n```js\nconst toTest1  = 0 ?? 1;\nconst toTest2  = 0 || 1;\nconsole.log(toTest1,toTest2);//0,1\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
