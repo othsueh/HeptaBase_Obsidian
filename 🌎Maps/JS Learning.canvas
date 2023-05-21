@@ -31,7 +31,9 @@
 		{"type":"text","text":"# .keys()\n>Get the keys of an array or object","id":"598acdb79c34dc2e","x":3367,"y":-560,"width":400,"height":103},
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2668,"y":-540,"width":599,"height":225},
 		{"type":"text","text":"# .values()\n>Get the values of an array or object","id":"9e553aabf9bb5017","x":3367,"y":-427,"width":346,"height":137},
-		{"id":"26133fafd5d185d7","x":2229,"y":1621,"width":431,"height":148,"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reversed()`"}
+		{"id":"26133fafd5d185d7","x":2229,"y":1621,"width":431,"height":222,"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reverse()`\n- `concat()`\n"},
+		{"id":"86654fc261e2b550","x":2909,"y":1576,"width":250,"height":174,"type":"text","text":"# reverse()\n>reverse the array\n\n```js\n\n```"},
+		{"id":"ba817365d97b0857","x":2909,"y":1793,"width":250,"height":60,"type":"text","text":"# concat()\n>"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -54,6 +56,8 @@
 		{"id":"f0600b8d28a1ad7e","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"5cda663012af5684","toSide":"left"},
 		{"id":"c4ab3067e90bbdb1","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"8eb6ff522fc0d69b","toSide":"left"},
 		{"id":"87396cdb34b55566","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"1c2ecd28f892131f","toSide":"left"},
-		{"id":"9ddf599e86b62641","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"d9061e01e4a7c29e","toSide":"left"}
+		{"id":"9ddf599e86b62641","fromNode":"16a08ca3cf7c680c","fromSide":"right","toNode":"d9061e01e4a7c29e","toSide":"left"},
+		{"id":"fcba8251470aad6b","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"86654fc261e2b550","toSide":"left"},
+		{"id":"ad46a8690ced65b0","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"ba817365d97b0857","toSide":"left"}
 	]
 }
