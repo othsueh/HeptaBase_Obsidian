@@ -35,7 +35,7 @@
 		{"id":"ba817365d97b0857","x":2865,"y":1732,"width":415,"height":297,"type":"text","text":"# concat()\n>connect two array\n\n```js\nconst num1 = [1,2];\nconst num2 = [3,4];\nconst num3 = num1.concat(num2);\nconsole.log(num3);//[1,2,3,4]\n//===same as\nconst num3 = [...num1,...num2];\n```"},
 		{"id":"a1ebd96e10a61238","x":2865,"y":2080,"width":423,"height":276,"type":"text","text":"# at()\n>find the value of the index in the array\n\n```js\nconst arr = ['a', 'b', 'c', 'd', 'e'];\nconst none = arr.at(0);\nconsole.log(none); //a\n//===same as\nconst one = arr[0];\n```"},
 		{"id":"26133fafd5d185d7","x":2200,"y":1770,"width":431,"height":222,"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reverse()`\n- `concat()`\n- `at()`\n- `forEach()`\n"},
-		{"id":"8bb3a068429fd496","x":2859,"y":2446,"width":429,"height":94,"type":"text","text":"# forEach()\n>loop the array "}
+		{"id":"8bb3a068429fd496","x":2865,"y":2420,"width":429,"height":107,"type":"text","text":"# forEach()\n>loop the array, get the value, index in it.\n\n**Parameters** :\n- value\n- index\n- array(itself)\n```js\nmovements.forEach(function(mov, i, arr){\n  console.log(`${i}: ${mov}`);\n});\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
