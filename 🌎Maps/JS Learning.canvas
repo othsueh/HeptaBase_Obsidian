@@ -32,8 +32,8 @@
 		{"type":"text","text":"# .entries()\n>Get the entries of an array or object\n\n```js\nconst num = [1,2,3,4,5,6,7,8,9];\nfor(const [key,value] of num.entries()) \n\tconsole.log([key,value]);//[0,1],[1,2]...\n```","id":"db293a2db2e21d23","x":2668,"y":-540,"width":599,"height":225},
 		{"type":"text","text":"# .values()\n>Get the values of an array or object","id":"9e553aabf9bb5017","x":3367,"y":-427,"width":346,"height":137},
 		{"id":"26133fafd5d185d7","x":2229,"y":1621,"width":431,"height":222,"type":"text","text":"# Array method \n>some array method is same as string method, so the repeat one will not show again.\n\n- `reverse()`\n- `concat()`\n"},
-		{"id":"86654fc261e2b550","x":2909,"y":1576,"width":250,"height":174,"type":"text","text":"# reverse()\n>reverse the array\n\n```js\n\n```"},
-		{"id":"ba817365d97b0857","x":2909,"y":1793,"width":250,"height":60,"type":"text","text":"# concat()\n>"}
+		{"id":"86654fc261e2b550","x":2909,"y":1576,"width":250,"height":174,"type":"text","text":"# reverse()\n>reverse the array\n\n```js\nconst num4 = num3.reverse();\nconsole.log(num4)/\n```"},
+		{"id":"ba817365d97b0857","x":2909,"y":1793,"width":351,"height":252,"type":"text","text":"# concat()\n>connect two array\n\n```js\nconst num1 = [1,2];\nconst num2 = [3,4];\nconst num3 = num1.concat(num2);\nconsole.log(num3);//[1,2,3,4]\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
