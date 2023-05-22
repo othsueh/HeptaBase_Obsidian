@@ -18,7 +18,7 @@
 		{"id":"6c372c6d02b39947","x":62,"y":1736,"width":534,"height":84,"type":"text","text":"# Multiple Composite Relations\n$$\nR^{n+1} = R^n \\circ R\n$$"},
 		{"id":"f48c4c37b981f5d5","x":49,"y":1880,"width":560,"height":108,"type":"text","text":"# Composite Relations is transitive\n>Relation on a set A is transitive if and only if $R^n \\subseteq R$"},
 		{"id":"33be8fb8b9a538c9","x":56,"y":2080,"width":547,"height":194,"type":"text","text":"# More way to represent relation\n>There are more then one way to describe relation!\n\n- zero-one Matrices.\n- Directed Graph"},
-		{"id":"80f8e8625d79843b","x":844,"y":1880,"width":436,"height":190,"type":"text","text":"# Zero-One Matrices\n>Since we know that relation is the subset of two sets, so we represent them in a matrice with the entries of set.\n\n**0** : \n**1** : \n\n\n"}
+		{"id":"80f8e8625d79843b","x":844,"y":1880,"width":536,"height":286,"type":"text","text":"# Zero-One Matrices\n>Since we know that relation is the subset of two sets, so we represent them in a matrice with the entries of set.\n\n$$\nM_R = [m_{ij}],\\ i, set\\ A's\\ length.j,set\\ B's\\ length\n$$\n**0** :  $\\exists m_{ij}$\n**1** : \n\n\n"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
