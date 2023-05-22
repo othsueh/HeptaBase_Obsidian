@@ -17,7 +17,8 @@
 		{"id":"61e7814834c6514e","x":771,"y":1455,"width":537,"height":234,"type":"text","text":"# How we find the relation of grandparent\n>Now we have relation a is b's parent, R. \n\n$$\n(a,b) \\in R,\\ (b,c) \\in R\n$$\n$$\naR\\circ Rc =\\ grand \\ parent \\ relation,then\\ b\\ must\\ exist. \n$$"},
 		{"id":"6c372c6d02b39947","x":62,"y":1736,"width":534,"height":84,"type":"text","text":"# Multiple Composite Relations\n$$\nR^{n+1} = R^n \\circ R\n$$"},
 		{"id":"f48c4c37b981f5d5","x":49,"y":1880,"width":560,"height":108,"type":"text","text":"# Composite Relations is transitive\n>Relation on a set A is transitive if and only if $R^n \\subseteq R$"},
-		{"id":"33be8fb8b9a538c9","x":62,"y":2040,"width":547,"height":160,"type":"text","text":"# More way to represent relation\n>There are more then one way to describe relation!\n\n- zero-one Matrices.\n- "}
+		{"id":"33be8fb8b9a538c9","x":56,"y":2080,"width":547,"height":194,"type":"text","text":"# More way to represent relation\n>There are more then one way to describe relation!\n\n- zero-one Matrices.\n- Directed Graph"},
+		{"id":"80f8e8625d79843b","x":844,"y":1880,"width":436,"height":190,"type":"text","text":"# Zero-One Matrices\n>Since we know that relation is the subset of two sets, so we represent them in a matrice with the entries of set.\n\n**0** : \n**1** : \n\n\n"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -36,6 +37,7 @@
 		{"id":"63a8d9c6efad78f2","fromNode":"4a780fb0463a2895","fromSide":"right","toNode":"61e7814834c6514e","toSide":"left"},
 		{"id":"bde9130e34dba011","fromNode":"4a780fb0463a2895","fromSide":"bottom","toNode":"6c372c6d02b39947","toSide":"top"},
 		{"id":"5507031fe1d1e4da","fromNode":"6c372c6d02b39947","fromSide":"bottom","toNode":"f48c4c37b981f5d5","toSide":"top"},
-		{"id":"c896a3e024249de3","fromNode":"f48c4c37b981f5d5","fromSide":"bottom","toNode":"33be8fb8b9a538c9","toSide":"top"}
+		{"id":"c896a3e024249de3","fromNode":"f48c4c37b981f5d5","fromSide":"bottom","toNode":"33be8fb8b9a538c9","toSide":"top"},
+		{"id":"7903854f857bd609","fromNode":"33be8fb8b9a538c9","fromSide":"right","toNode":"80f8e8625d79843b","toSide":"left"}
 	]
 }
