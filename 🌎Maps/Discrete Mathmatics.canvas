@@ -13,7 +13,8 @@
 		{"type":"text","text":"# Four relationship on a set A\n>We define 4 basic relationship of elements on a set A.\n\n**If an element in a set R not followed the relationship, then we said R is not followed the relationship**\n- Reflexsive relationship\n- Symmetric relationship\n- Antisymmetric relationship\n- transitive relationship","id":"481ef18260a57c58","x":40,"y":249,"width":579,"height":325},
 		{"id":"5f2df3c845b1aeac","x":804,"y":960,"width":504,"height":455,"type":"text","text":"# XOR\n![[Pasted image 20230522143329.png]]"},
 		{"id":"649050db3f061a51","x":62,"y":1081,"width":534,"height":213,"type":"text","text":"# Combining Relations\n>Since relation of A and B is the subset of AXB, then two relations can be combined in any way A and B can be combined.\n\n$$\nR \\subseteq AXB\n$$\n$$\nR^n\\circ R \\subseteq AXB\n$$"},
-		{"id":"4a780fb0463a2895","x":62,"y":1468,"width":534,"height":207,"type":"text","text":"# Composite Relations\n>Now we have three sets, A, B and C, R is relation between A and B. S is the relation between B and C. Then what's the relation between A and C ?\n\n$$\nS \\circ R \\subseteq AXC ,\\ (a,c)\\in S \\circ R\n$$\n"}
+		{"id":"4a780fb0463a2895","x":62,"y":1468,"width":534,"height":207,"type":"text","text":"# Composite Relations\n>Now we have three sets, A, B and C, R is relation between A and B. S is the relation between B and C. Then what's the relation between A and C ?\n\n$$\nS \\circ R \\subseteq AXC ,\\ (a,c)\\in S \\circ R\n$$\n"},
+		{"id":"61e7814834c6514e","x":723,"y":1539,"width":537,"height":196,"type":"text","text":"# How we find the relation of grandparent\n>Now we have relation a is b's parent, R. \n\n$$\n(a,b) \\in R,\\ (b,c) \\in R\n$$\n$$\naR\\circ Rc = grand\n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -28,6 +29,7 @@
 		{"id":"0bf6b947854c741b","fromNode":"0de0f9a7948a0daa","fromSide":"right","toNode":"aaa6cae523cd9a10","toSide":"right","label":"must"},
 		{"id":"45f5680cb3180d9d","fromNode":"481ef18260a57c58","fromSide":"bottom","toNode":"649050db3f061a51","toSide":"top"},
 		{"id":"1e61201565d3ebf6","fromNode":"649050db3f061a51","fromSide":"right","toNode":"5f2df3c845b1aeac","toSide":"left"},
-		{"id":"70a0cb1fca2c3174","fromNode":"649050db3f061a51","fromSide":"bottom","toNode":"4a780fb0463a2895","toSide":"top"}
+		{"id":"70a0cb1fca2c3174","fromNode":"649050db3f061a51","fromSide":"bottom","toNode":"4a780fb0463a2895","toSide":"top"},
+		{"id":"63a8d9c6efad78f2","fromNode":"4a780fb0463a2895","fromSide":"right","toNode":"61e7814834c6514e","toSide":"left"}
 	]
 }
