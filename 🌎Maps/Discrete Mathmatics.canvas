@@ -11,7 +11,7 @@
 		{"type":"text","text":"# Anti Symmetric\n>Not symmetric relationship","id":"91a8921a16368eb7","x":804,"y":520,"width":325,"height":108},
 		{"type":"text","text":"# Transitive \n>element a and b and c are in the set A. If (a,b), (b,c) exist, then (a,c) exist.\n\n$$\nA = 1,2,3,4\n$$\n$$\nR = (1,2),(2,3),(3,1),(1,3),(3,3)\n$$\n\n","id":"aaa6cae523cd9a10","x":804,"y":660,"width":436,"height":246},
 		{"type":"text","text":"# Four relationship on a set A\n>We define 4 basic relationship of elements on a set A.\n\n**If an element in a set R not followed the relationship, then we said R is not followed the relationship**\n- Reflexsive relationship\n- Symmetric relationship\n- Antisymmetric relationship\n- transitive relationship","id":"481ef18260a57c58","x":40,"y":249,"width":579,"height":325},
-		{"id":"649050db3f061a51","x":206,"y":716,"width":413,"height":60,"type":"text","text":"# Combining Relations\n>S\n"}
+		{"id":"649050db3f061a51","x":63,"y":628,"width":534,"height":164,"type":"text","text":"# Combining Relations\n>Since relation of A and B is the subset of AXB, then two relations can be combined in any way A and B can be combined.\n\n$$\nR \\subseteq AXB\n$$\n$$\nR \\subseteq AXB\n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
