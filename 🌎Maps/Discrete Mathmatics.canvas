@@ -18,7 +18,9 @@
 		{"id":"6c372c6d02b39947","x":62,"y":1736,"width":534,"height":84,"type":"text","text":"# Multiple Composite Relations\n$$\nR^{n+1} = R^n \\circ R\n$$"},
 		{"id":"f48c4c37b981f5d5","x":49,"y":1880,"width":560,"height":108,"type":"text","text":"# Composite Relations is transitive\n>Relation on a set A is transitive if and only if $R^n \\subseteq R$"},
 		{"id":"33be8fb8b9a538c9","x":56,"y":2080,"width":547,"height":194,"type":"text","text":"# More way to represent relation\n>There are more then one way to describe relation!\n\n- zero-one Matrices.\n- Directed Graph"},
-		{"id":"80f8e8625d79843b","x":844,"y":1880,"width":536,"height":286,"type":"text","text":"# Zero-One Matrices\n>Since we know that relation is the subset of two sets, so we represent them in a matrice with the entries of set.\n\n$$\nM_R = [m_{ij}],\\ i, set\\ A's\\ length.j,set\\ B's\\ length\n$$\n**0** :  $\\exists m_{ij}$\n**1** : \n\n\n"}
+		{"id":"80f8e8625d79843b","x":772,"y":1750,"width":536,"height":260,"type":"text","text":"# Zero-One Matrices\n>Since we know that relation is the subset of two sets, so we represent them in a matrice with the entries of set.\n\n$$\nM_R = [m_{ij}],\\ i, set\\ A's\\ length.j,set\\ B's\\ length\n$$\n**0** :  $\\not\\exists m_{ij}$\n**1** : $\\exists m_{ij}$\n\n\n"},
+		{"id":"e2209c52bdda629c","x":1600,"y":1500,"width":400,"height":318,"type":"text","text":"# reflexsive relation\n>$m_{ij}$ i = j\n\n![[Pasted image 20230522155657.png]]"},
+		{"id":"f38a3c71a01aa350","x":1590,"y":1855,"width":410,"height":60,"type":"text","text":"# symmetric relation"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -38,6 +40,8 @@
 		{"id":"bde9130e34dba011","fromNode":"4a780fb0463a2895","fromSide":"bottom","toNode":"6c372c6d02b39947","toSide":"top"},
 		{"id":"5507031fe1d1e4da","fromNode":"6c372c6d02b39947","fromSide":"bottom","toNode":"f48c4c37b981f5d5","toSide":"top"},
 		{"id":"c896a3e024249de3","fromNode":"f48c4c37b981f5d5","fromSide":"bottom","toNode":"33be8fb8b9a538c9","toSide":"top"},
-		{"id":"7903854f857bd609","fromNode":"33be8fb8b9a538c9","fromSide":"right","toNode":"80f8e8625d79843b","toSide":"left"}
+		{"id":"7903854f857bd609","fromNode":"33be8fb8b9a538c9","fromSide":"right","toNode":"80f8e8625d79843b","toSide":"left"},
+		{"id":"ecf8dfa1e92fbd84","fromNode":"80f8e8625d79843b","fromSide":"right","toNode":"e2209c52bdda629c","toSide":"left"},
+		{"id":"5fdf79db52cd8fc4","fromNode":"80f8e8625d79843b","fromSide":"right","toNode":"f38a3c71a01aa350","toSide":"left"}
 	]
 }
