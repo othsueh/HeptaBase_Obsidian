@@ -27,7 +27,7 @@
 		{"id":"7cafc3585282413d","x":823,"y":2680,"width":427,"height":137,"type":"text","text":"# a~b\n>denote that a and b are equivalent elements of an equivalence relation."},
 		{"id":"e6cb274afd0452bc","x":133,"y":3080,"width":395,"height":178,"type":"text","text":"# equivalance class\n>set of all elements related to an element a of A.\n\n$$\n[a]_R = \\{s|(a,s)\\in R\\}\n$$"},
 		{"id":"9382f5f6ab95cc0f","x":115,"y":3400,"width":432,"height":256,"type":"text","text":"# equivalance statement\n>Let R be an equivalance relation of A. Then it follow the rule.\n\n- $aRb$\n- $[a]=[b]$\n- $[a]\\cap [b] \\not= \\varnothing$"},
-		{"id":"db9f625a012e4eb2","x":210,"y":3792,"width":337,"height":47,"type":"text","text":"# partition of a set\n>"}
+		{"id":"db9f625a012e4eb2","x":106,"y":3740,"width":450,"height":391,"type":"text","text":"# partition of a set\n>R is an equivalance set of S, the equivalance class of R form a partition of S.\n\n![[Pasted image 20230523162333.png]]"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
