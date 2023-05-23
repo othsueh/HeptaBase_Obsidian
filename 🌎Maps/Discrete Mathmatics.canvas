@@ -24,7 +24,7 @@
 		{"type":"text","text":"# comsposite of relations\n>$t_{ij}=r_{ik}=s_{kj}=1$\n\n![[Pasted image 20230522160058.png]]\n![[Pasted image 20230522160107.png]]\n","id":"c426e2866cfe41c8","x":1720,"y":2120,"width":419,"height":357},
 		{"type":"text","text":"# Directed graph\n>We can also use graph way to represent relation, and it's \"Directed\"\n\n### Components:\n- **Vertices**(nodes)\n- **Edges**(arcs)\n- **Initial Vertex**(a)\n- **Terminal Vertex(b)**","id":"92cad2c570d29ca7","x":766,"y":2177,"width":542,"height":331},
 		{"id":"a98fda6d9d1db439","x":60,"y":2680,"width":540,"height":256,"type":"text","text":"# equivalance relation\n>If a relation consists of below three points, then we said it's an equivalance relation.\n\n- **Reflexive**\n- **Symmetric**\n- **Transitive**"},
-		{"id":"7cafc3585282413d","x":713,"y":2680,"width":250,"height":60,"type":"text","text":"# a~b\n>denote that a and b are equivalent elements"}
+		{"id":"7cafc3585282413d","x":823,"y":2680,"width":427,"height":137,"type":"text","text":"# a~b\n>denote that a and b are equivalent elements of an equivalence relation."}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
