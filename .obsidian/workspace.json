@@ -30,8 +30,8 @@
               "state": {
                 "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "viewState": {
-                  "x": 1075.063441211422,
-                  "y": 2813.241187382721,
+                  "x": 786.8471879191375,
+                  "y": 2235.6206953306323,
                   "zoom": -1.3000000000000003
                 }
               }
@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
