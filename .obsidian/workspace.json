@@ -15,8 +15,8 @@
               "state": {
                 "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 3258.858281249999,
-                  "y": 4219.3101562500015,
+                  "x": 3429,
+                  "y": 4272,
                   "zoom": 0
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -145,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +161,9 @@
   },
   "active": "13350fb58d554658",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "💡Journal/2023-05-24.md",
     "🌎Maps/JS Learning.canvas",
+    "conflict-files-obsidian-git.md",
     "📱Media Collected/Pasted image 20230523162333.png",
     "📱Media Collected/Pasted image 20230522160107.png",
     "📱Media Collected/Pasted image 20230522160058.png",
