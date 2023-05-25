@@ -34,7 +34,8 @@
 		{"id":"867d1937b053fe99","x":102,"y":4571,"width":458,"height":279,"type":"text","text":"# comparable elements\n>If there are elements a and b in the set S\n\n**comparable**\n$$\neither\\ a\\succeq b \\ or\\ b\\succeq\n$$\n**incomparable**\n$$\nneither\\ a\\succeq b \\ nor\\ b\\succeq\n$$"},
 		{"id":"162826d9e5ac2d34","x":104,"y":4940,"width":455,"height":230,"type":"text","text":"# totally ordered set(chain)\n>If $(S,\\succeq)$ is a poset and every two elements are comparable, then we said.\n\n-  $S$ is a linearly ordered set(totally ordered), aka chain.\n- $\\succeq$ is a total order or a linear order."},
 		{"id":"e3184c0d25775a62","x":115,"y":5260,"width":433,"height":195,"type":"text","text":"# Well-ordered set\n>The set $S$ is a Well-ordered set if:\n\n1. $\\succeq$ is a total order\n2. subset of $S$ has a least element"},
-		{"id":"0fe4a7d83f371fa9","x":651,"y":5326,"width":369,"height":154,"type":"text","text":"# $Z\\ vs\\ Z^+$\n>except from z has negative element, z"}
+		{"id":"0fe4a7d83f371fa9","x":660,"y":5249,"width":369,"height":217,"type":"text","text":"# $Z\\ vs\\ Z^+$\n>except from z has negative element, Z has also a point different from $Z^+$\n\n$Z$ don't have least element.\n$Z^+$ has least element, which is 1."},
+		{"id":"6113347b359b36e5","x":107,"y":5520,"width":450,"height":137,"type":"text","text":"# Lexicographic ordering\n>The relation is a Lexicographic ordering if it has below property.\n\n- The first pair \n\n"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -70,6 +71,7 @@
 		{"id":"baf7a3f24d87e14f","fromNode":"867d1937b053fe99","fromSide":"right","toNode":"412f22ab09463b53","toSide":"left"},
 		{"id":"553ea118cbf64e75","fromNode":"867d1937b053fe99","fromSide":"bottom","toNode":"162826d9e5ac2d34","toSide":"top"},
 		{"id":"7ab7790f6cf2decf","fromNode":"162826d9e5ac2d34","fromSide":"bottom","toNode":"e3184c0d25775a62","toSide":"top"},
-		{"id":"b557068c30f42605","fromNode":"e3184c0d25775a62","fromSide":"right","toNode":"0fe4a7d83f371fa9","toSide":"left"}
+		{"id":"b557068c30f42605","fromNode":"e3184c0d25775a62","fromSide":"right","toNode":"0fe4a7d83f371fa9","toSide":"left"},
+		{"id":"25b4cd69479d21d3","fromNode":"e3184c0d25775a62","fromSide":"bottom","toNode":"6113347b359b36e5","toSide":"top"}
 	]
 }
