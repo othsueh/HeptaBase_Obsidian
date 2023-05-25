@@ -39,7 +39,9 @@
 		{"type":"file","file":"🥏Permanent Note/Discrete Mathmatics.md","id":"02caf38f08076b87","x":-1200,"y":-391,"width":400,"height":400},
 		{"id":"87c7935a152bf783","x":-561,"y":-651,"width":401,"height":336,"type":"text","text":"# Basic property of graph\n>In a basic graph, we have vertices, edges ...\n\n**adjacent** : vertice $u$ and $v$ is connected with edge $e$.\n**description** : \n1. $e$ is incident with $u$ and $v$.\n2. $e$ connects $u$ and $v$.\n\n"},
 		{"id":"9af0e7d1e518c385","x":-437,"y":-800,"width":153,"height":47,"type":"text","text":"# Graph"},
-		{"id":"36559bc36f52b12f","x":-561,"y":-220,"width":381,"height":141,"type":"text","text":"# $N(v)$\n>set of all neighbors of vertice $v$ of $G(V,E)$.\n\n$A$ -> subet of $V$\n"}
+		{"id":"36559bc36f52b12f","x":-551,"y":-216,"width":381,"height":225,"type":"text","text":"# $N(v)$\n>set of all neighbors of vertice $v$ of $G(V,E)$.\n\n$A$ -> subet of $V$\n$$\nN(A)=\\bigcup_{v\\in A}N(v) \n$$"},
+		{"id":"b05c1b0c36d9012b","x":-542,"y":60,"width":364,"height":171,"type":"text","text":"# $deg(v)$\n> number of edge incident with $v$. If is a loop, then degree +2."},
+		{"id":"b2c9e683041fe170","x":-58,"y":62,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -79,6 +81,8 @@
 		{"id":"25b4cd69479d21d3","fromNode":"e3184c0d25775a62","fromSide":"bottom","toNode":"6113347b359b36e5","toSide":"top"},
 		{"id":"8cf44a3359ead435","fromNode":"6113347b359b36e5","fromSide":"bottom","toNode":"a94df9c8a4c54995","toSide":"top"},
 		{"id":"3e14b5c66dd13eaa","fromNode":"9af0e7d1e518c385","fromSide":"bottom","toNode":"87c7935a152bf783","toSide":"top"},
-		{"id":"5ffd07ba0af9782b","fromNode":"87c7935a152bf783","fromSide":"bottom","toNode":"36559bc36f52b12f","toSide":"top"}
+		{"id":"5ffd07ba0af9782b","fromNode":"87c7935a152bf783","fromSide":"bottom","toNode":"36559bc36f52b12f","toSide":"top"},
+		{"id":"1317b24b9475b528","fromNode":"36559bc36f52b12f","fromSide":"bottom","toNode":"b05c1b0c36d9012b","toSide":"top"},
+		{"id":"1ca465abac665a38","fromNode":"b05c1b0c36d9012b","fromSide":"right","toNode":"b2c9e683041fe170","toSide":"left"}
 	]
 }
