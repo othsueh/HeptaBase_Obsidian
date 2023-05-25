@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 311.2972639452022,
+                  "y": 3993.97841909424,
+                  "zoom": -0.8666666666666669
                 }
               }
             }
@@ -34,8 +34,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-05-26.md",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-05-26.md",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-05-26.md"
+                "file": "🌎Maps/Discrete Mathmatics.canvas"
               }
             }
           },
@@ -171,10 +170,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d819a6e9967fa84",
+  "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal/2023-05-26.md",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "conflict-files-obsidian-git.md",
     "💡Journal/2023-05-24.md",
     "📱Media Collected/Pasted image 20230523162333.png",
