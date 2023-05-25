@@ -30,8 +30,8 @@
 		{"type":"text","text":"# partition of a set\n>R is an equivalance set of S, the equivalance class of R form a partition of S.\n\n![[Pasted image 20230523162333.png]]","id":"db9f625a012e4eb2","x":106,"y":3740,"width":450,"height":391},
 		{"id":"8dba0c2f0d70c770","x":73,"y":4220,"width":516,"height":256,"type":"text","text":"# partial ordering\n>A relation on a set has below three properties, it's called partial ordered set, aka poset\n\n- reflexive\n- antisymmetric\n- transitive"},
 		{"id":"cc6f59293bbe6a73","x":720,"y":4204,"width":491,"height":288,"type":"text","text":"# example : >=\n>greater than or equalt to is relation is a partial ordering on the set of int\n\n$$\na \\geq a => reflexive\n$$\n$$\na \\geq b => antisymmetric\n$$\n$$\na \\geq b, b\\geq c, a\\geq c=>transitive\n$$\n$$\n(Z,\\geq) is\\ a\\ poset\n$$"},
-		{"id":"867d1937b053fe99","x":131,"y":4580,"width":458,"height":260,"type":"text","text":"# comparable elements\n>If there are elements a and b in the set S\n\n**comparable*8"},
-		{"id":"412f22ab09463b53","x":720,"y":4602,"width":441,"height":217,"type":"text","text":"# $\\succ$\n>this symbol represent an arbitary poset when we discuss ordering relation\n\n$$\na \\succeq b, a\\ may\\ equal\\ to\\ b,(a,b)\\in R,(S,R)\\ is\\ a\\ poset\n$$\n$$\na \\succ b, a\\ not\\ equal\\ to\\ b,(a,b)\\in R,(S,R)\\ is\\ a\\ poset\n$$"}
+		{"id":"412f22ab09463b53","x":720,"y":4602,"width":441,"height":217,"type":"text","text":"# $\\succ$\n>this symbol represent an arbitary poset when we discuss ordering relation\n\n$$\na \\succeq b, a\\ may\\ equal\\ to\\ b,(a,b)\\in R,(S,R)\\ is\\ a\\ poset\n$$\n$$\na \\succ b, a\\ not\\ equal\\ to\\ b,(a,b)\\in R,(S,R)\\ is\\ a\\ poset\n$$"},
+		{"id":"867d1937b053fe99","x":102,"y":4571,"width":458,"height":279,"type":"text","text":"# comparable elements\n>If there are elements a and b in the set S\n\n**comparable**\n$$\neither\\ a\\succeq b \\ or\\ b\\succeq\n$$\n**incomparable**\n$$\nneither\\ a\\succeq b \\ nor\\ b\\succeq\n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
