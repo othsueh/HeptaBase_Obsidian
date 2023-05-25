@@ -28,7 +28,8 @@
 		{"type":"text","text":"# equivalance class\n>set of all elements related to an element a of A.\n\n$$\n[a]_R = \\{s|(a,s)\\in R\\}\n$$","id":"e6cb274afd0452bc","x":133,"y":3080,"width":395,"height":178},
 		{"type":"text","text":"# equivalance statement\n>Let R be an equivalance relation of A. Then it follow the rule.\n\n- $aRb$\n- $[a]=[b]$\n- $[a]\\cap [b] \\not= \\varnothing$","id":"9382f5f6ab95cc0f","x":115,"y":3400,"width":432,"height":256},
 		{"type":"text","text":"# partition of a set\n>R is an equivalance set of S, the equivalance class of R form a partition of S.\n\n![[Pasted image 20230523162333.png]]","id":"db9f625a012e4eb2","x":106,"y":3740,"width":450,"height":391},
-		{"id":"8dba0c2f0d70c770","x":204,"y":4209,"width":250,"height":60,"type":"text","text":"# ㄍㄣ"}
+		{"id":"8dba0c2f0d70c770","x":73,"y":4220,"width":516,"height":256,"type":"text","text":"# partial ordering\n>A relation on a set has below three properties, it's called partial ordered set, aka poset\n\n- reflexive\n- antisymmetric\n- transitive"},
+		{"id":"cc6f59293bbe6a73","x":709,"y":4314,"width":250,"height":60,"type":"text","text":"# example : >=\n"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -58,6 +59,7 @@
 		{"id":"55a242d33e2882e9","fromNode":"a98fda6d9d1db439","fromSide":"bottom","toNode":"e6cb274afd0452bc","toSide":"top"},
 		{"id":"4220aa3191cf0d0b","fromNode":"e6cb274afd0452bc","fromSide":"bottom","toNode":"9382f5f6ab95cc0f","toSide":"top"},
 		{"id":"75dca3c63e1db3ae","fromNode":"9382f5f6ab95cc0f","fromSide":"bottom","toNode":"db9f625a012e4eb2","toSide":"top"},
-		{"id":"96c423f36a620e61","fromNode":"db9f625a012e4eb2","fromSide":"bottom","toNode":"8dba0c2f0d70c770","toSide":"top"}
+		{"id":"96c423f36a620e61","fromNode":"db9f625a012e4eb2","fromSide":"bottom","toNode":"8dba0c2f0d70c770","toSide":"top"},
+		{"id":"a0fcd5f254f7bab0","fromNode":"8dba0c2f0d70c770","fromSide":"right","toNode":"cc6f59293bbe6a73","toSide":"left"}
 	]
 }
