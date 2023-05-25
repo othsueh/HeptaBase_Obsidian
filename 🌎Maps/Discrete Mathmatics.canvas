@@ -37,11 +37,13 @@
 		{"id":"6113347b359b36e5","x":107,"y":5520,"width":450,"height":353,"type":"text","text":"# Lexicographic ordering\n>The relation is a Lexicographic ordering if it has below property.\n\n- The first pair must smaller than second pair\n- first entry of the first pair can equal or less than first entry of the second pair\n- for entry i element, there must be an i+1 element which is less than i+1 element of second pair.\n$$\na_1=b_1,...a_i=b_i,and\\ a_{i+1} \\prec _{i+1} b_{i+1}\n$$\n\n"},
 		{"id":"a94df9c8a4c54995","x":51,"y":5920,"width":563,"height":529,"type":"text","text":"# Hasse Diagrams\n>simplify the di-graph for poset\n\n1. Remove edge from reflexive relation\n2. Remove edge from antisymmetric relation(not close to each other)\n![[Pasted image 20230526042123.png]]"},
 		{"type":"file","file":"🥏Permanent Note/Discrete Mathmatics.md","id":"02caf38f08076b87","x":-1200,"y":-391,"width":400,"height":400},
-		{"id":"87c7935a152bf783","x":-561,"y":-651,"width":401,"height":336,"type":"text","text":"# Basic property of graph\n>In a basic graph, we have vertices, edges ...\n\n**adjacent** : vertice $u$ and $v$ is connected with edge $e$.\n**description** : \n1. $e$ is incident with $u$ and $v$.\n2. $e$ connects $u$ and $v$.\n\n"},
-		{"id":"9af0e7d1e518c385","x":-437,"y":-800,"width":153,"height":47,"type":"text","text":"# Graph"},
-		{"id":"36559bc36f52b12f","x":-551,"y":-216,"width":381,"height":225,"type":"text","text":"# $N(v)$\n>set of all neighbors of vertice $v$ of $G(V,E)$.\n\n$A$ -> subet of $V$\n$$\nN(A)=\\bigcup_{v\\in A}N(v) \n$$"},
-		{"id":"b05c1b0c36d9012b","x":-542,"y":60,"width":364,"height":171,"type":"text","text":"# $deg(v)$\n> number of edge incident with $v$. If is a loop, then degree +2."},
-		{"id":"b2c9e683041fe170","x":-58,"y":62,"width":250,"height":60,"type":"text","text":""}
+		{"id":"b2c9e683041fe170","x":-573,"y":1046,"width":250,"height":107,"type":"text","text":"# Isolated\n>degree=0"},
+		{"id":"e6e725da2ffd33c9","x":-573,"y":1163,"width":250,"height":107,"type":"text","text":"# Pendant\n>degree = 1"},
+		{"id":"87c7935a152bf783","x":-1077,"y":388,"width":401,"height":336,"type":"text","text":"# Basic property of graph\n>In a basic graph, we have vertices, edges ...\n\n**adjacent** : vertice $u$ and $v$ is connected with edge $e$.\n**description** : \n1. $e$ is incident with $u$ and $v$.\n2. $e$ connects $u$ and $v$.\n\n"},
+		{"id":"36559bc36f52b12f","x":-1067,"y":823,"width":381,"height":225,"type":"text","text":"# $N(v)$\n>set of all neighbors of vertice $v$ of $G(V,E)$.\n\n$A$ -> subet of $V$\n$$\nN(A)=\\bigcup_{v\\in A}N(v) \n$$"},
+		{"id":"b05c1b0c36d9012b","x":-1058,"y":1099,"width":364,"height":171,"type":"text","text":"# $deg(v)$\n> number of edge incident with $v$. If is a loop, then degree +2."},
+		{"id":"9af0e7d1e518c385","x":-953,"y":239,"width":153,"height":47,"type":"text","text":"# Graph"},
+		{"id":"19680fa39da342cc","x":-1113,"y":1375,"width":475,"height":151,"type":"text","text":"# $deg(v)$ and edges of graph\n>We said that if a graph has m edges in total.\n\n$$\n2m = \\forall_{v\\in V}deg(v)\n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -83,6 +85,8 @@
 		{"id":"3e14b5c66dd13eaa","fromNode":"9af0e7d1e518c385","fromSide":"bottom","toNode":"87c7935a152bf783","toSide":"top"},
 		{"id":"5ffd07ba0af9782b","fromNode":"87c7935a152bf783","fromSide":"bottom","toNode":"36559bc36f52b12f","toSide":"top"},
 		{"id":"1317b24b9475b528","fromNode":"36559bc36f52b12f","fromSide":"bottom","toNode":"b05c1b0c36d9012b","toSide":"top"},
-		{"id":"1ca465abac665a38","fromNode":"b05c1b0c36d9012b","fromSide":"right","toNode":"b2c9e683041fe170","toSide":"left"}
+		{"id":"1ca465abac665a38","fromNode":"b05c1b0c36d9012b","fromSide":"right","toNode":"b2c9e683041fe170","toSide":"left"},
+		{"id":"754350663fbe7f79","fromNode":"b05c1b0c36d9012b","fromSide":"right","toNode":"e6e725da2ffd33c9","toSide":"left"},
+		{"id":"609119df062ade64","fromNode":"b05c1b0c36d9012b","fromSide":"bottom","toNode":"19680fa39da342cc","toSide":"top"}
 	]
 }
