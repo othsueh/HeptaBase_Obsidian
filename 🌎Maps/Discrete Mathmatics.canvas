@@ -35,7 +35,7 @@
 		{"id":"162826d9e5ac2d34","x":104,"y":4940,"width":455,"height":230,"type":"text","text":"# totally ordered set(chain)\n>If $(S,\\succeq)$ is a poset and every two elements are comparable, then we said.\n\n-  $S$ is a linearly ordered set(totally ordered), aka chain.\n- $\\succeq$ is a total order or a linear order."},
 		{"id":"e3184c0d25775a62","x":115,"y":5260,"width":433,"height":195,"type":"text","text":"# Well-ordered set\n>The set $S$ is a Well-ordered set if:\n\n1. $\\succeq$ is a total order\n2. subset of $S$ has a least element"},
 		{"id":"0fe4a7d83f371fa9","x":660,"y":5249,"width":369,"height":217,"type":"text","text":"# $Z\\ vs\\ Z^+$\n>except from z has negative element, Z has also a point different from $Z^+$\n\n$Z$ don't have least element.\n$Z^+$ has least element, which is 1."},
-		{"id":"6113347b359b36e5","x":107,"y":5520,"width":450,"height":137,"type":"text","text":"# Lexicographic ordering\n>The relation is a Lexicographic ordering if it has below property.\n\n- The first pair \n\n"}
+		{"id":"6113347b359b36e5","x":107,"y":5520,"width":450,"height":283,"type":"text","text":"# Lexicographic ordering\n>The relation is a Lexicographic ordering if it has below property.\n\n- The first pair must smaller than second pair\n- first entry of the first pair can equal or less than first entry of the second pair\n- for entry i element, there must be an i+1 element which is less than i+1 element of second pair.\n$$\n\n$$\n\n"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
