@@ -29,7 +29,7 @@
 		{"type":"text","text":"# equivalance statement\n>Let R be an equivalance relation of A. Then it follow the rule.\n\n- $aRb$\n- $[a]=[b]$\n- $[a]\\cap [b] \\not= \\varnothing$","id":"9382f5f6ab95cc0f","x":115,"y":3400,"width":432,"height":256},
 		{"type":"text","text":"# partition of a set\n>R is an equivalance set of S, the equivalance class of R form a partition of S.\n\n![[Pasted image 20230523162333.png]]","id":"db9f625a012e4eb2","x":106,"y":3740,"width":450,"height":391},
 		{"id":"8dba0c2f0d70c770","x":73,"y":4220,"width":516,"height":256,"type":"text","text":"# partial ordering\n>A relation on a set has below three properties, it's called partial ordered set, aka poset\n\n- reflexive\n- antisymmetric\n- transitive"},
-		{"id":"cc6f59293bbe6a73","x":709,"y":4314,"width":250,"height":60,"type":"text","text":"# example : >=\n"}
+		{"id":"cc6f59293bbe6a73","x":709,"y":4314,"width":491,"height":206,"type":"text","text":"# example : >=\n>greater than or equalt to is relation is a partial ordering on the set of int\n\n$$\na \\geq a => reflexive\n$$\n$$\na \\geq b => antisymmetric\n$$\n$$\na \\geq b, \n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
