@@ -28,24 +28,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-05-26.md",
+                "file": "💡Journal/2023-05-27.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "0e3ad9af57f4f244",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "💡Journal/2023-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "💡Journal/2023-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas"
+                "file": "💡Journal/2023-05-27.md"
               }
             }
           },
@@ -181,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e3ad9af57f4f244",
+  "active": "1d819a6e9967fa84",
   "lastOpenFiles": [
-    "📱Media Collected/Pasted image 20230526042123.png",
     "💡Journal/2023-05-26.md",
+    "💡Journal/2023-05-27.md",
+    "📱Media Collected/Pasted image 20230526042123.png",
     "🌎Maps/Discrete Mathmatics.canvas",
     "conflict-files-obsidian-git.md",
     "💡Journal/2023-05-24.md",
@@ -203,7 +194,6 @@
     "🌎Maps/技術面.canvas",
     "📱Media Collected/Pasted image 20230517195708.png",
     "📱Media Collected/Pasted image 20230517190516.png",
-    "📱Media Collected/Pasted image 20230517185621.png",
     "Untitled.canvas",
     "Permanent Note/Multi Calculus.md",
     "Permanent Note"
