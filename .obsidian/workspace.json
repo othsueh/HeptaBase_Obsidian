@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": 856.8951085144473,
-                  "y": 1772.2576801290124,
-                  "zoom": -0.8666666666666667
+                  "x": 2372.664542708658,
+                  "y": 1415.6463648580868,
+                  "zoom": -0.8666666666666669
                 }
               }
             }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +160,7 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "📱Media Collected/Pasted image 20230530092121.png",
     "🥏Permanent Note/管理概論.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
