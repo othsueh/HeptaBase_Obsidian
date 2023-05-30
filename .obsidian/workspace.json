@@ -16,8 +16,8 @@
                 "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
                   "x": 2167.1459750010126,
-                  "y": 2365.7558783200757,
-                  "zoom": -0.43333333333333335
+                  "y": 1561.7825851707712,
+                  "zoom": -1.7333333333333334
                 }
               }
             }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
