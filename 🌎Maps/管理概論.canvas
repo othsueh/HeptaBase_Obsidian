@@ -20,7 +20,9 @@
 		{"id":"fea42623f001f5aa","x":2903,"y":640,"width":521,"height":300,"type":"text","text":"# 激勵的程序\n ![[Pasted image 20230531005659.png]]"},
 		{"id":"6e3a43d05b44d6fc","x":2926,"y":1040,"width":475,"height":200,"type":"text","text":"# 雙因子理論\n>導致工作滿足的因素與導致工作不滿足的因素彼此不同\n\n維持、保健、衛生因子 : 與工作不滿足有關(工作環境相關)\n激勵因子 : 與工作滿足有關(工作績效)"},
 		{"id":"8eca4422e8f1fd11","x":3500,"y":972,"width":448,"height":336,"type":"text","text":"![[Pasted image 20230531010109.png]]"},
-		{"id":"00fd2a885badffcc","x":2960,"y":1308,"width":407,"height":308,"type":"text","text":"# 工作設計\n>將任務集結成完整工作的方法\n\n## 影響工作設計的因素\n- 改變組織環境/架構\n- 員工技術\n- 組織技術\n- 能力及偏好"}
+		{"id":"00fd2a885badffcc","x":2960,"y":1308,"width":407,"height":308,"type":"text","text":"# 工作設計\n>將任務集結成完整工作的方法\n\n## 影響工作設計的因素\n- 改變組織環境/架構\n- 員工技術\n- 組織技術\n- 能力及偏好"},
+		{"id":"7d914cea90734e47","x":3545,"y":1422,"width":403,"height":125,"type":"text","text":"# 工作設計類型\n**工作擴大化** : 增加任務的數目(水平)\n**工作豐富化** : 增加工作的責任與權力(垂直)"},
+		{"id":"f28de4c7ddeddd4b","x":3000,"y":1660,"width":328,"height":106,"type":"text","text":"# 工作特性模型\n**"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -40,6 +42,8 @@
 		{"id":"e609eafb0176ad5c","fromNode":"d78d4b974ab95e28","fromSide":"bottom","toNode":"fea42623f001f5aa","toSide":"top"},
 		{"id":"9fec55bf55b9461b","fromNode":"fea42623f001f5aa","fromSide":"bottom","toNode":"6e3a43d05b44d6fc","toSide":"top"},
 		{"id":"3196ad491bfbb151","fromNode":"6e3a43d05b44d6fc","fromSide":"right","toNode":"8eca4422e8f1fd11","toSide":"left"},
-		{"id":"2e6eb19498948094","fromNode":"6e3a43d05b44d6fc","fromSide":"bottom","toNode":"00fd2a885badffcc","toSide":"top"}
+		{"id":"2e6eb19498948094","fromNode":"6e3a43d05b44d6fc","fromSide":"bottom","toNode":"00fd2a885badffcc","toSide":"top"},
+		{"id":"5804f6dec2a34f86","fromNode":"00fd2a885badffcc","fromSide":"right","toNode":"7d914cea90734e47","toSide":"left"},
+		{"id":"17169f1f0f244ade","fromNode":"00fd2a885badffcc","fromSide":"bottom","toNode":"f28de4c7ddeddd4b","toSide":"top"}
 	]
 }
