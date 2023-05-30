@@ -13,29 +13,16 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": -122.99115556932628,
-                  "y": 832.6872532564405,
-                  "zoom": -3.4666666666666677
+                  "x": 0,
+                  "y": 120.9,
+                  "zoom": -0.8666666666666667
                 }
               }
             }
-          },
-          {
-            "id": "1d819a6e9967fa84",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "💡Journal/2023-05-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -102,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-05-27.md",
+                "file": "🥏Permanent Note/管理概論.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-05-27.md",
+                "file": "🥏Permanent Note/管理概論.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-05-27.md"
+                "file": "🥏Permanent Note/管理概論.md"
               }
             }
           },
@@ -172,12 +158,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1d819a6e9967fa84",
+  "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "💡Journal/2023-05-26.md",
-    "💡Journal/2023-05-27.md",
-    "📱Media Collected/Pasted image 20230526042123.png",
+    "🥏Permanent Note/管理概論.md",
+    "🌎Maps/管理概論.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
+    "💡Journal/2023-05-27.md",
+    "💡Journal/2023-05-26.md",
+    "📱Media Collected/Pasted image 20230526042123.png",
     "conflict-files-obsidian-git.md",
     "💡Journal/2023-05-24.md",
     "📱Media Collected/Pasted image 20230523162333.png",
