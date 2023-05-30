@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 120.9,
-                  "zoom": -0.8666666666666667
+                  "x": 478.31849092465814,
+                  "y": 117.63166627057149,
+                  "zoom": -0.43333333333333335
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🥏Permanent Note/管理概論.md",
+                "file": "🌎Maps/管理概論.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🥏Permanent Note/管理概論.md",
+                "file": "🌎Maps/管理概論.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🥏Permanent Note/管理概論.md"
+                "file": "🌎Maps/管理概論.canvas"
               }
             }
           },
