@@ -10,7 +10,9 @@
 		{"id":"1e02925b56094bbb","x":1940,"y":400,"width":250,"height":126,"type":"text","text":"# 溝通的要義\n**傳達只代表接收者了解**\n**了解並不代表同意**\n"},
 		{"id":"19de8905be94bea4","x":1939,"y":603,"width":250,"height":164,"type":"text","text":"# 溝通的擴展\n- 自我溝通\n- 人際溝通\n- 組織溝通"},
 		{"id":"73c3b9db1f9411b3","x":1939,"y":860,"width":250,"height":231,"type":"text","text":"# 溝通的功能\n- 管理\n- 回饋\n- 情感分享\n- 說服\n- 資訊交換"},
-		{"id":"6ac27139e1741f09","x":1830,"y":1160,"width":469,"height":359,"type":"text","text":"# 溝通程序\n![[Pasted image 20230530092121.png]]"}
+		{"id":"6ac27139e1741f09","x":1830,"y":1160,"width":469,"height":359,"type":"text","text":"# 溝通程序\n![[Pasted image 20230530092121.png]]"},
+		{"id":"31f07063e20c9916","x":1661,"y":1600,"width":339,"height":291,"type":"text","text":"# 有效溝通的障礙\n- 過濾 : 以人為媒介\n- 情緒 : 無法預測\n- 資訊過載 : 丟垃圾桶\n- 防禦性 : 因人廢言\n- 權力距離\n- 語言\n- 國家文化"},
+		{"id":"a6bc07be5e67c525","x":2164,"y":1609,"width":250,"height":60,"type":"text","text":"# 克服障礙\n- xu"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -20,6 +22,8 @@
 		{"id":"03105ab77a4d90e7","fromNode":"299a465212941e8b","fromSide":"bottom","toNode":"d041cbd16daa7106","toSide":"top"},
 		{"id":"f3aa4b34f1943a20","fromNode":"1e02925b56094bbb","fromSide":"bottom","toNode":"19de8905be94bea4","toSide":"top"},
 		{"id":"0e1c7cc2cda8325e","fromNode":"19de8905be94bea4","fromSide":"bottom","toNode":"73c3b9db1f9411b3","toSide":"top"},
-		{"id":"6b65b906d3dcda40","fromNode":"73c3b9db1f9411b3","fromSide":"bottom","toNode":"6ac27139e1741f09","toSide":"top"}
+		{"id":"6b65b906d3dcda40","fromNode":"73c3b9db1f9411b3","fromSide":"bottom","toNode":"6ac27139e1741f09","toSide":"top"},
+		{"id":"5101e01f82aea7fb","fromNode":"6ac27139e1741f09","fromSide":"bottom","toNode":"31f07063e20c9916","toSide":"top"},
+		{"id":"69d1717338b5bc89","fromNode":"6ac27139e1741f09","fromSide":"bottom","toNode":"a6bc07be5e67c525","toSide":"top"}
 	]
 }
