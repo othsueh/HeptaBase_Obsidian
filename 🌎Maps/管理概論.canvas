@@ -7,13 +7,17 @@
 		{"id":"506c5e6790cab0e9","x":1120,"y":400,"width":370,"height":320,"type":"text","text":"# 狹窄型(幅度小)\n## 優點\n- 嚴密監督\n- 管理者有多餘時間\n## 缺點\n- 管理者成本\n- 組織溝通複雜化"},
 		{"id":"299a465212941e8b","x":540,"y":1201,"width":430,"height":255,"type":"text","text":"# 中央與地方分權\n## 中央\n管理者掌握大部分決策權\n## 地方\n基層管理者、員工有較多機會表示意見、決策"},
 		{"id":"d041cbd16daa7106","x":570,"y":1540,"width":370,"height":287,"type":"text","text":"# 正式化\n## 高正式化\n員工有詳細的工作說明書\n## 低正式化\n員工對如何完成工作有較大的自由度"},
-		{"id":"1e02925b56094bbb","x":1923,"y":434,"width":250,"height":47,"type":"text","text":"# 溝通的要義\n\n"}
+		{"id":"1e02925b56094bbb","x":1940,"y":400,"width":250,"height":126,"type":"text","text":"# 溝通的要義\n**傳達只代表接收者了解**\n**了解並不代表同意**\n"},
+		{"id":"19de8905be94bea4","x":1939,"y":603,"width":250,"height":164,"type":"text","text":"# 溝通的擴展\n- 自我溝通\n- 人際溝通\n- 組織溝通"},
+		{"id":"73c3b9db1f9411b3","x":1944,"y":824,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
 		{"id":"7fdb133b46bb6386","fromNode":"e7a275b1cf6c5ecc","fromSide":"right","toNode":"506c5e6790cab0e9","toSide":"left"},
 		{"id":"9d6b2590acaa65f2","fromNode":"e7a275b1cf6c5ecc","fromSide":"right","toNode":"051d43613c76c6b9","toSide":"left"},
 		{"id":"18310d254e7dca5a","fromNode":"e7a275b1cf6c5ecc","fromSide":"bottom","toNode":"299a465212941e8b","toSide":"top"},
-		{"id":"03105ab77a4d90e7","fromNode":"299a465212941e8b","fromSide":"bottom","toNode":"d041cbd16daa7106","toSide":"top"}
+		{"id":"03105ab77a4d90e7","fromNode":"299a465212941e8b","fromSide":"bottom","toNode":"d041cbd16daa7106","toSide":"top"},
+		{"id":"f3aa4b34f1943a20","fromNode":"1e02925b56094bbb","fromSide":"bottom","toNode":"19de8905be94bea4","toSide":"top"},
+		{"id":"0e1c7cc2cda8325e","fromNode":"19de8905be94bea4","fromSide":"bottom","toNode":"73c3b9db1f9411b3","toSide":"top"}
 	]
 }
