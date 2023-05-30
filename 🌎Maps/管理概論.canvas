@@ -1,6 +1,18 @@
 {
 	"nodes":[
-		{"id":"c9fbeca375380402","x":0,"y":0,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/管理概論.md"}
+		{"id":"c9fbeca375380402","x":0,"y":0,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/管理概論.md"},
+		{"id":"43d6eea18f81d03c","x":480,"y":0,"width":540,"height":164,"type":"text","text":"# 指揮鏈\n- Authority : 上位者有權力指揮下屬做事\n- Responsibility : 員工有義務接受指派的工作\n- 命令統一原則 : 一位管理者管多位員工，一位員工只有一位主管"},
+		{"id":"e7a275b1cf6c5ecc","x":546,"y":600,"width":417,"height":388,"type":"text","text":"# 管理者的控制幅度\n>管理者可以多有效率、效能的指揮多少員工\n\n## 影響因素\n- 管理者的技能\n- 員工的特性\n- 工作的特性\n- 任務相似度\n- 任務複雜度\n- 部屬本質相近性\n- 任務標準化程度"},
+		{"id":"051d43613c76c6b9","x":1120,"y":880,"width":379,"height":321,"type":"text","text":"# 寬廣型\n## 優點\n- 降低管理者成本\n- 員工自主性高\n## 缺點\n- 管理者能力要求較高\n- 無法嚴密監督"},
+		{"id":"506c5e6790cab0e9","x":1120,"y":400,"width":370,"height":320,"type":"text","text":"# 狹窄型(幅度小)\n## 優點\n- 嚴密監督\n- 管理者有多餘時間\n## 缺點\n- 管理者成本\n- 組織溝通複雜化"},
+		{"id":"299a465212941e8b","x":540,"y":1201,"width":430,"height":255,"type":"text","text":"# 中央與地方分權\n## 中央\n管理者掌握大部分決策權\n## 地方\n基層管理者、員工有較多機會表示意見、決策"},
+		{"id":"d041cbd16daa7106","x":570,"y":1540,"width":370,"height":287,"type":"text","text":"# 正式化\n## 高正式化\n員工有詳細的工作說明書\n## 低正式化\n員工對如何完成工作有較大的自由度"}
 	],
-	"edges":[]
+	"edges":[
+		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
+		{"id":"7fdb133b46bb6386","fromNode":"e7a275b1cf6c5ecc","fromSide":"right","toNode":"506c5e6790cab0e9","toSide":"left"},
+		{"id":"9d6b2590acaa65f2","fromNode":"e7a275b1cf6c5ecc","fromSide":"right","toNode":"051d43613c76c6b9","toSide":"left"},
+		{"id":"18310d254e7dca5a","fromNode":"e7a275b1cf6c5ecc","fromSide":"bottom","toNode":"299a465212941e8b","toSide":"top"},
+		{"id":"03105ab77a4d90e7","fromNode":"299a465212941e8b","fromSide":"bottom","toNode":"d041cbd16daa7106","toSide":"top"}
+	]
 }

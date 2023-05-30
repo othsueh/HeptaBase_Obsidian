@@ -15,8 +15,8 @@
               "state": {
                 "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 120.9,
+                  "x": 856.8951085144473,
+                  "y": 1772.2576801290124,
                   "zoom": -0.8666666666666667
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🥏Permanent Note/管理概論.md",
+                "file": "🌎Maps/管理概論.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🥏Permanent Note/管理概論.md",
+                "file": "🌎Maps/管理概論.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🥏Permanent Note/管理概論.md"
+                "file": "🌎Maps/管理概論.canvas"
               }
             }
           },
