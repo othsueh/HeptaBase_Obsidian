@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"c9fbeca375380402","x":0,"y":0,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/管理概論.md"}
+		{"id":"c9fbeca375380402","x":0,"y":0,"width":400,"height":400,"type":"file","file":"🥏Permanent Note/管理概論.md"},
+		{"id":"43d6eea18f81d03c","x":480,"y":0,"width":540,"height":164,"type":"text","text":"# 指揮鏈\n- Authority : 上位者有權力指揮下屬做事\n- Responsibility : 員工有義務接受指派的工作\n- 命令統一原則 : 一位管理者管多位員工，一位員工只有一位主管"}
 	],
 	"edges":[]
 }
