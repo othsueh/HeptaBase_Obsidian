@@ -13,7 +13,8 @@
 		{"id":"6ac27139e1741f09","x":1830,"y":1160,"width":469,"height":359,"type":"text","text":"# 溝通程序\n![[Pasted image 20230530092121.png]]"},
 		{"id":"31f07063e20c9916","x":1661,"y":1600,"width":339,"height":291,"type":"text","text":"# 有效溝通的障礙\n- 過濾 : 以人為媒介\n- 情緒 : 無法預測\n- 資訊過載 : 丟垃圾桶\n- 防禦性 : 因人廢言\n- 權力距離\n- 語言\n- 國家文化"},
 		{"id":"a6bc07be5e67c525","x":2164,"y":1609,"width":336,"height":251,"type":"text","text":"# 克服障礙\n- 利用回饋\n- 簡化語言\n- 主動傾聽\n- 控制情緒\n- 非語言暗示(動作、音調、表情等)"},
-		{"id":"4603d5aa78099fc1","x":1956,"y":2007,"width":376,"height":133,"type":"text","text":"# 正式與非正式溝通\n>正式溝通 : 對組織層級有定義的溝通\n\n## 正式溝通\n溝通為完成個人工作之所必須\n## 非正式溝通\n無劃分層級"}
+		{"id":"4603d5aa78099fc1","x":1855,"y":2020,"width":444,"height":315,"type":"text","text":"# 正式與非正式溝通\n>正式溝通 : 對組織層級有定義的溝通\n\n## 正式溝通\n溝通為完成個人工作之所必須\n## 非正式溝通\n無劃分層級，滿足員工對社交需求，有助組織績效改善"},
+		{"id":"1549e21833fee292","x":1885,"y":2400,"width":384,"height":133,"type":"text","text":"# 資訊科技對溝通的影響"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -27,6 +28,7 @@
 		{"id":"5101e01f82aea7fb","fromNode":"6ac27139e1741f09","fromSide":"bottom","toNode":"31f07063e20c9916","toSide":"top"},
 		{"id":"69d1717338b5bc89","fromNode":"6ac27139e1741f09","fromSide":"bottom","toNode":"a6bc07be5e67c525","toSide":"top"},
 		{"id":"f44bf8d4327f4d97","fromNode":"31f07063e20c9916","fromSide":"bottom","toNode":"4603d5aa78099fc1","toSide":"top"},
-		{"id":"6f42a7cd10c4298f","fromNode":"a6bc07be5e67c525","fromSide":"bottom","toNode":"4603d5aa78099fc1","toSide":"top"}
+		{"id":"6f42a7cd10c4298f","fromNode":"a6bc07be5e67c525","fromSide":"bottom","toNode":"4603d5aa78099fc1","toSide":"top"},
+		{"id":"b939ecaa74649ef2","fromNode":"4603d5aa78099fc1","fromSide":"bottom","toNode":"1549e21833fee292","toSide":"top"}
 	]
 }
