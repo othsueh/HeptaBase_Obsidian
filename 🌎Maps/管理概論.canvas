@@ -15,7 +15,8 @@
 		{"type":"text","text":"# 克服障礙\n- 利用回饋\n- 簡化語言\n- 主動傾聽\n- 控制情緒\n- 非語言暗示(動作、音調、表情等)","id":"a6bc07be5e67c525","x":2164,"y":1609,"width":336,"height":251},
 		{"type":"text","text":"# 正式與非正式溝通\n>正式溝通 : 對組織層級有定義的溝通\n\n## 正式溝通\n溝通為完成個人工作之所必須\n## 非正式溝通\n無劃分層級，滿足員工對社交需求，有助組織績效改善","id":"4603d5aa78099fc1","x":1855,"y":2020,"width":444,"height":315},
 		{"type":"text","text":"# 資訊科技對管理溝通的影響\n- 時空 : 結合各地員工一起工作\n- 監督 : 增加管理者監督效果\n- 決策 : 更完整的訊息，做更好的決策\n- 威脅與機會\n- 效率與效果 : 提高團隊成果","id":"1549e21833fee292","x":1852,"y":2400,"width":447,"height":231},
-		{"id":"d78d4b974ab95e28","x":2960,"y":388,"width":407,"height":138,"type":"text","text":"# 激勵的要義\n>指個人的努力可以滿足個人的某種需求下，個人會盡力達成組織目標的意願"}
+		{"id":"d78d4b974ab95e28","x":2960,"y":388,"width":407,"height":138,"type":"text","text":"# 激勵的要義\n>指個人的努力可以滿足個人的某種需求下，個人會盡力達成組織目標的意願"},
+		{"id":"1ce90d0a1482e4f0","x":3424,"y":430,"width":396,"height":130,"type":"text","text":"# 目標與需求\n>當個人的需求與組織目標相符時，激勵最有效。\n\n需求 : 視激勵為滿足需求"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -30,6 +31,7 @@
 		{"id":"69d1717338b5bc89","fromNode":"6ac27139e1741f09","fromSide":"bottom","toNode":"a6bc07be5e67c525","toSide":"top"},
 		{"id":"f44bf8d4327f4d97","fromNode":"31f07063e20c9916","fromSide":"bottom","toNode":"4603d5aa78099fc1","toSide":"top"},
 		{"id":"6f42a7cd10c4298f","fromNode":"a6bc07be5e67c525","fromSide":"bottom","toNode":"4603d5aa78099fc1","toSide":"top"},
-		{"id":"b939ecaa74649ef2","fromNode":"4603d5aa78099fc1","fromSide":"bottom","toNode":"1549e21833fee292","toSide":"top"}
+		{"id":"b939ecaa74649ef2","fromNode":"4603d5aa78099fc1","fromSide":"bottom","toNode":"1549e21833fee292","toSide":"top"},
+		{"id":"5fa4e1a8c58a635a","fromNode":"d78d4b974ab95e28","fromSide":"right","toNode":"1ce90d0a1482e4f0","toSide":"left"}
 	]
 }
