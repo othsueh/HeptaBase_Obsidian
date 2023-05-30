@@ -18,7 +18,9 @@
 		{"id":"d78d4b974ab95e28","x":2960,"y":388,"width":407,"height":138,"type":"text","text":"# 激勵的要義\n>指個人的努力可以滿足個人的某種需求下，個人會盡力達成組織目標的意願"},
 		{"id":"1ce90d0a1482e4f0","x":3440,"y":364,"width":396,"height":187,"type":"text","text":"# 目標與需求\n>當個人的需求與組織目標相符時，激勵最有效。\n\n需求 : 視激勵為滿足需求的過程"},
 		{"id":"fea42623f001f5aa","x":2903,"y":640,"width":521,"height":300,"type":"text","text":"# 激勵的程序\n ![[Pasted image 20230531005659.png]]"},
-		{"id":"6e3a43d05b44d6fc","x":3042,"y":1038,"width":250,"height":60,"type":"text","text":"# 雙"}
+		{"id":"6e3a43d05b44d6fc","x":2926,"y":1040,"width":475,"height":200,"type":"text","text":"# 雙因子理論\n>導致工作滿足的因素與導致工作不滿足的因素彼此不同\n\n維持、保健、衛生因子 : 與工作不滿足有關(工作環境相關)\n激勵因子 : 與工作滿足有關(工作績效)"},
+		{"id":"8eca4422e8f1fd11","x":3492,"y":1110,"width":448,"height":290,"type":"text","text":"![[Pasted image 20230531010109.png]]"},
+		{"id":"9cecb119b1768e39","x":3859,"y":1262,"width":400,"height":289,"type":"file","file":"📱Media Collected/Pasted image 20230531010109.png"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -36,6 +38,7 @@
 		{"id":"b939ecaa74649ef2","fromNode":"4603d5aa78099fc1","fromSide":"bottom","toNode":"1549e21833fee292","toSide":"top"},
 		{"id":"5fa4e1a8c58a635a","fromNode":"d78d4b974ab95e28","fromSide":"right","toNode":"1ce90d0a1482e4f0","toSide":"left"},
 		{"id":"e609eafb0176ad5c","fromNode":"d78d4b974ab95e28","fromSide":"bottom","toNode":"fea42623f001f5aa","toSide":"top"},
-		{"id":"9fec55bf55b9461b","fromNode":"fea42623f001f5aa","fromSide":"bottom","toNode":"6e3a43d05b44d6fc","toSide":"top"}
+		{"id":"9fec55bf55b9461b","fromNode":"fea42623f001f5aa","fromSide":"bottom","toNode":"6e3a43d05b44d6fc","toSide":"top"},
+		{"id":"3196ad491bfbb151","fromNode":"6e3a43d05b44d6fc","fromSide":"right","toNode":"8eca4422e8f1fd11","toSide":"left"}
 	]
 }
