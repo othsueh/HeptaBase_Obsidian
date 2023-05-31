@@ -39,7 +39,7 @@
 		{"id":"7c40554fc3a6ad8b","x":5028,"y":2627,"width":474,"height":197,"type":"text","text":"# 團隊領導者的角色\n- 教練\n- 衝突管理者\n- 問題解決者\n- 外部聯繫者"},
 		{"id":"4ce7a92832246fb5","x":5058,"y":3020,"width":415,"height":131,"type":"text","text":"# 領導者權力來源\n- 組織權\n- 個人權"},
 		{"id":"c2a10521388f5c60","x":5640,"y":2878,"width":250,"height":164,"type":"text","text":"# 組織權\n- 合法正當權\n- 懲罰權\n- 獎賞權"},
-		{"id":"bb8dd3d6980e7b05","x":5639,"y":3143,"width":250,"height":60,"type":"text","text":"# 個人權\n"}
+		{"id":"bb8dd3d6980e7b05","x":5639,"y":3143,"width":341,"height":164,"type":"text","text":"# 個人權\n- 參照理想權(特殊資源||個人特質)\n- 專家知識權\n- 資訊權"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
