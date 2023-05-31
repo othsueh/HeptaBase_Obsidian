@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": 1147.19368742048,
-                  "y": 1198.7307140643372,
-                  "zoom": -1.7333333333333334
+                  "x": 4374.188942624243,
+                  "y": 853.3391471610921,
+                  "zoom": -0.264112764576226
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas"
+                "file": "🌎Maps/管理概論.canvas"
               }
             }
           },
@@ -160,8 +160,8 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "🥏Permanent Note/古典音樂.md",
     "🌎Maps/古典音樂.canvas",
+    "🥏Permanent Note/古典音樂.md",
     "🌎Maps/管理概論.canvas",
     "📱Media Collected/Pasted image 20230531011303.png",
     "📱Media Collected/Pasted image 20230531010109.png",
