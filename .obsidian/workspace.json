@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": 1407.4418143951675,
-                  "y": 1460.2307215656685,
-                  "zoom": -1.124712795660304
+                  "x": 2120.8697987999217,
+                  "y": 1653.038192964819,
+                  "zoom": -2.72013173765607
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas"
+                "file": "🌎Maps/管理概論.canvas"
               }
             }
           },
@@ -161,10 +160,12 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "🌎Maps/技術面.canvas",
+    "🌎Maps/Multi Calculus.canvas",
+    "🌎Maps/古典音樂.canvas",
     "🌎Maps/管理概論.canvas",
     "📱Media Collected/Pasted image 20230531154232.png",
     "📱Media Collected/Pasted image 20230531153632.png",
-    "🌎Maps/古典音樂.canvas",
     "🥏Permanent Note/古典音樂.md",
     "📱Media Collected/Pasted image 20230531011303.png",
     "📱Media Collected/Pasted image 20230531010109.png",
@@ -183,9 +184,7 @@
     "🌎Maps/DS.canvas",
     "🥏Permanent Note/Discrete Mathmatics.md",
     "💡Journal/2023-05-20.md",
-    "🌎Maps/Multi Calculus.canvas",
     "🌎Maps/JS Learning.canvas",
-    "🌎Maps/技術面.canvas",
     "Untitled.canvas",
     "Permanent Note/Multi Calculus.md",
     "Permanent Note"
