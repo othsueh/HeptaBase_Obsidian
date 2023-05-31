@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/管理概論.canvas",
+                "file": "🌎Maps/古典音樂.canvas",
                 "viewState": {
-                  "x": 5302.3617437060775,
-                  "y": 2206.0511835332222,
-                  "zoom": -2.220446049250313e-16
+                  "x": 716.8213706057375,
+                  "y": 629.3902942043858,
+                  "zoom": -0.6913794623269707
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/管理概論.canvas",
+                "file": "🌎Maps/古典音樂.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/管理概論.canvas",
+                "file": "🌎Maps/古典音樂.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/管理概論.canvas"
+                "file": "🌎Maps/古典音樂.canvas"
               }
             }
           },
@@ -161,11 +161,11 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "🌎Maps/管理概論.canvas",
     "📱Media Collected/Pasted image 20230531154232.png",
     "📱Media Collected/Pasted image 20230531153632.png",
     "🌎Maps/古典音樂.canvas",
     "🥏Permanent Note/古典音樂.md",
-    "🌎Maps/管理概論.canvas",
     "📱Media Collected/Pasted image 20230531011303.png",
     "📱Media Collected/Pasted image 20230531010109.png",
     "📱Media Collected/Pasted image 20230531005659.png",
@@ -180,7 +180,6 @@
     "📱Media Collected/Pasted image 20230523162333.png",
     "📱Media Collected/Pasted image 20230522160107.png",
     "📱Media Collected/Pasted image 20230522160058.png",
-    "📱Media Collected/Pasted image 20230522155834.png",
     "🌎Maps/DS.canvas",
     "🥏Permanent Note/Discrete Mathmatics.md",
     "💡Journal/2023-05-20.md",
