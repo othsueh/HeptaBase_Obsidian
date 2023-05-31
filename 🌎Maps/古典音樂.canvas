@@ -11,12 +11,19 @@
 		{"type":"text","text":"# 2023音樂家紀念日\n- 拉赫曼尼諾夫150年誕辰紀念年\n- 江文也逝世四十周年紀念(《[台灣舞曲](https://www.youtube.com/watch?v=lmr8HTi3EWo)》、《孔廟大成樂章》)\n","id":"d6674421a8b71226","x":1154,"y":367,"width":422,"height":161},
 		{"type":"text","text":"# 音樂家與稱號\n**巴赫** : 音樂之父, BWV\n**海頓** : 交響曲之父, Hob.\n**莫札特** : 音樂神童, K | KV\n**貝多芬** : 樂聖\n**舒伯特** : 歌曲之王\n**小約翰史特勞斯** : 圓舞曲之王","id":"a71a03355742b80b","x":658,"y":800,"width":357,"height":245},
 		{"id":"f65a8061c587b1b3","x":649,"y":1100,"width":366,"height":298,"type":"text","text":"# 音樂家與作品\n**舒曼** : 蝴蝶, op.2\n**蕭邦** : 黑鍵練習曲\n**克萊斯勒** : 愛之喜，愛之悲\n**德布希** : 海\n**梅湘** : 鳥類圖誌\n**理查 史特勞斯** : 查拉圖斯特如是說\n**杜卡** : 小巫師\n**柴可夫斯基** : 四季鋼琴組曲，船歌為 6 月"},
-		{"id":"39a97d0174ed377a","x":1206,"y":869,"width":319,"height":108,"type":"text","text":"# 交響曲為四樂章\n>由海頓確立"},
-		{"id":"c4a58982d719f9d5","x":1154,"y":1100,"width":442,"height":108,"type":"text","text":"# 幽默曲 Humoresque\n>大量出現在19世紀"}
+		{"id":"c4a58982d719f9d5","x":1154,"y":1100,"width":442,"height":108,"type":"text","text":"# 幽默曲 Humoresque\n>大量出現在19世紀"},
+		{"id":"987deaad27d12328","x":1180,"y":1280,"width":326,"height":95,"type":"text","text":"# 波麗路舞曲 Bolero\n**作家** : 拉威爾"},
+		{"id":"37bb308bf5f7a5a6","x":1180,"y":582,"width":318,"height":108,"type":"text","text":"# 現代交響樂團編制\n>80-100人"},
+		{"id":"09235091f470582a","x":1201,"y":786,"width":395,"height":108,"type":"text","text":"# 未在維也納發展的作家\n>巴赫"},
+		{"id":"39a97d0174ed377a","x":1239,"y":937,"width":319,"height":108,"type":"text","text":"# 交響曲為四樂章\n>由海頓確立"},
+		{"id":"bd4d7c93b863f6cc","x":1668,"y":884,"width":250,"height":60,"type":"text","text":"# 夜曲創始者"}
 	],
 	"edges":[
 		{"id":"2032f444673ab378","fromNode":"3e15df01f7a9011a","fromSide":"right","toNode":"700d29f3f9f94978","toSide":"left"},
 		{"id":"d3670e0df8743885","fromNode":"560945c9f2a9ef14","fromSide":"right","toNode":"0758399b9e761611","toSide":"left"},
-		{"id":"dc4dfe7a01cc8d58","fromNode":"a71a03355742b80b","fromSide":"right","toNode":"39a97d0174ed377a","toSide":"left"}
+		{"id":"dc4dfe7a01cc8d58","fromNode":"a71a03355742b80b","fromSide":"right","toNode":"39a97d0174ed377a","toSide":"left"},
+		{"id":"05c74a4e89d3f742","fromNode":"a71a03355742b80b","fromSide":"right","toNode":"09235091f470582a","toSide":"left"},
+		{"id":"fa899545edb41446","fromNode":"a71a03355742b80b","fromSide":"right","toNode":"39a97d0174ed377a","toSide":"left"},
+		{"id":"dd54077d63f815e8","fromNode":"a71a03355742b80b","fromSide":"right","toNode":"bd4d7c93b863f6cc","toSide":"left"}
 	]
 }
