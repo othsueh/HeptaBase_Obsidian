@@ -31,11 +31,12 @@
 		{"id":"a65294567ede87de","x":5116,"y":961,"width":250,"height":330,"type":"text","text":"# 領導者特質論\n- 自我驅策力\n- 領導慾\n- 誠實與正直\n- 自信\n- 智力\n- 專業知識\n- 外向性"},
 		{"id":"cc360796daf7f6b0","x":5028,"y":2046,"width":428,"height":350,"type":"text","text":"# 因O制宜 - 領導的權變理論\n## 領導者於成員關係\n部屬對領導者有信心、能信任、尊敬的程度\n## 任務結構\n工作制派程序化的程度\n## 職位權力\n領導者實行其職位權力的有響力大小"},
 		{"id":"b50e704ff7c48fa8","x":5656,"y":2014,"width":668,"height":417,"type":"text","text":"![[Pasted image 20230531154232.png]]"},
-		{"id":"76c0dfa342f0a0b7","x":4680,"y":2572,"width":400,"height":120,"type":"text","text":"# 轉換型領導\n>注重過程、能力養成、潛能開發、短期效益"},
-		{"id":"1dc792ecd4ecd293","x":5134,"y":2566,"width":322,"height":133,"type":"text","text":"# 交易型領導\n>注重結果、目標達成、短期效益"},
-		{"id":"f14235ad6f9c9b62","x":5942,"y":2574,"width":382,"height":164,"type":"text","text":"# 願景型領導\n- 向他人解釋願景的能力\n- 透過行動來傳達願景的能力\n- 延伸、應用願景到不同場合的能力"},
-		{"id":"f2fc14afb2dacf81","x":5500,"y":2623,"width":313,"height":231,"type":"text","text":"# 魅力型領導\n- 有願景\n- 能清楚說明其願景\n- 願冒險以達成願景\n- 對環境和部屬的需求敏感\n- 反傳統行為(非典)"},
-		{"id":"cebc4bebadccf720","x":5269,"y":2946,"width":250,"height":60,"type":"text","text":"# 僕人式領導\n"}
+		{"id":"76c0dfa342f0a0b7","x":4360,"y":2946,"width":400,"height":120,"type":"text","text":"# 轉換型領導\n>注重過程、能力養成、潛能開發、短期效益"},
+		{"id":"1dc792ecd4ecd293","x":4840,"y":2933,"width":322,"height":133,"type":"text","text":"# 交易型領導\n>注重結果、目標達成、短期效益"},
+		{"id":"cebc4bebadccf720","x":5200,"y":2903,"width":351,"height":194,"type":"text","text":"# 僕人式領導\n- 注重部屬成長\n- 善於傾聽、有同理心、勸服\n- 超脫自身利益\n- 提升團隊效力、績效"},
+		{"id":"f2fc14afb2dacf81","x":5677,"y":2884,"width":313,"height":231,"type":"text","text":"# 魅力型領導\n- 有願景\n- 能清楚說明其願景\n- 願冒險以達成願景\n- 對環境和部屬的需求敏感\n- 反傳統行為(非典)"},
+		{"id":"f14235ad6f9c9b62","x":6133,"y":2911,"width":382,"height":186,"type":"text","text":"# 願景型領導\n- 向他人解釋願景的能力\n- 透過行動來傳達願景的能力\n- 延伸、應用願景到不同場合的能力"},
+		{"id":"7c40554fc3a6ad8b","x":5077,"y":3479,"width":474,"height":197,"type":"text","text":"# 團隊領導者的角色\n- 教練\n- 衝突管理者\n- 問題解決者\n- 外部聯繫者"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -69,6 +70,7 @@
 		{"id":"8e34ac18cf658094","fromNode":"cc360796daf7f6b0","fromSide":"bottom","toNode":"76c0dfa342f0a0b7","toSide":"top"},
 		{"id":"c2f4b53f9a7e999d","fromNode":"cc360796daf7f6b0","fromSide":"bottom","toNode":"f2fc14afb2dacf81","toSide":"top"},
 		{"id":"55c6debbfedb151a","fromNode":"cc360796daf7f6b0","fromSide":"bottom","toNode":"f14235ad6f9c9b62","toSide":"top"},
-		{"id":"22eff1241cadfd08","fromNode":"cc360796daf7f6b0","fromSide":"bottom","toNode":"cebc4bebadccf720","toSide":"top"}
+		{"id":"22eff1241cadfd08","fromNode":"cc360796daf7f6b0","fromSide":"bottom","toNode":"cebc4bebadccf720","toSide":"top"},
+		{"id":"259d9afe82c6864b","fromNode":"76c0dfa342f0a0b7","fromSide":"bottom","toNode":"7c40554fc3a6ad8b","toSide":"top"}
 	]
 }
