@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/古典音樂.canvas",
                 "viewState": {
-                  "x": 1024.9304661685744,
-                  "y": 105.03033014680682,
-                  "zoom": -0.6500000000000002
+                  "x": 1211.414737550168,
+                  "y": 974.6552922649851,
+                  "zoom": -2.6
                 }
               }
             }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
