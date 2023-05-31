@@ -29,7 +29,8 @@
 		{"id":"9359e9b180c802c4","x":4642,"y":600,"width":299,"height":156,"type":"text","text":"# 領導者的核心\n>履行職責、行使職能"},
 		{"id":"a65294567ede87de","x":4219,"y":591,"width":250,"height":330,"type":"text","text":"# 領導者特質論\n- 自我驅策力\n- 領導慾\n- 誠實與正直\n- 自信\n- 智力\n- 專業知識\n- 外向性"},
 		{"id":"7aba25f5ea51df19","x":3983,"y":1081,"width":723,"height":466,"type":"text","text":"# 領導者行為論\n![[Pasted image 20230531153632.png]]"},
-		{"id":"cc360796daf7f6b0","x":4212,"y":1648,"width":428,"height":112,"type":"text","text":"# 因 制宜 - 領導的權變理論\n## 領導者於成員關係\n部屬對領導者有信心、能信任\n## 任務結構\n## 職位權力"}
+		{"id":"cc360796daf7f6b0","x":4212,"y":1648,"width":428,"height":350,"type":"text","text":"# 因O制宜 - 領導的權變理論\n## 領導者於成員關係\n部屬對領導者有信心、能信任、尊敬的程度\n## 任務結構\n工作制派程序化的程度\n## 職位權力\n領導者實行其職位權力的有響力大小"},
+		{"id":"b50e704ff7c48fa8","x":4840,"y":1616,"width":668,"height":417,"type":"text","text":"![[Pasted image 20230531154232.png]]"}
 	],
 	"edges":[
 		{"id":"b35850d46506fe92","fromNode":"43d6eea18f81d03c","fromSide":"bottom","toNode":"e7a275b1cf6c5ecc","toSide":"top"},
@@ -57,6 +58,7 @@
 		{"id":"28887ae54b78a388","fromNode":"70e0d7603a5e6fe1","fromSide":"bottom","toNode":"9359e9b180c802c4","toSide":"top"},
 		{"id":"a5c5f5846056e825","fromNode":"2fb9f5f2bb90a2af","fromSide":"bottom","toNode":"a65294567ede87de","toSide":"top"},
 		{"id":"1298239b77275ac2","fromNode":"a65294567ede87de","fromSide":"bottom","toNode":"7aba25f5ea51df19","toSide":"top"},
-		{"id":"154d90ec5019fd53","fromNode":"7aba25f5ea51df19","fromSide":"bottom","toNode":"cc360796daf7f6b0","toSide":"top"}
+		{"id":"154d90ec5019fd53","fromNode":"7aba25f5ea51df19","fromSide":"bottom","toNode":"cc360796daf7f6b0","toSide":"top"},
+		{"id":"1c1c933a5f2f0267","fromNode":"cc360796daf7f6b0","fromSide":"right","toNode":"b50e704ff7c48fa8","toSide":"left"}
 	]
 }
