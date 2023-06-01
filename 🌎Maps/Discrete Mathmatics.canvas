@@ -50,7 +50,8 @@
 		{"id":"4aa28d103df847eb","x":-1032,"y":1780,"width":313,"height":187,"type":"text","text":"# Directed edge\n>Now we consider directed edge\n\n$u$ : initial vertex\n$v$ : end / terminal vertex\n"},
 		{"id":"96f5265dd010e2bc","x":-555,"y":1778,"width":415,"height":189,"type":"text","text":"# In and Out degree\n$deg^+(v)$ : degrees with v as initial index\n$deg^-(v)$ : degrees with v as terminal index\n$$\n\\sum_{v\\in V}deg^-(v) = \\sum_{v\\in V}deg^+(v) = |E|\n$$"},
 		{"id":"37c1045e2d894613","x":-1074,"y":2039,"width":398,"height":168,"type":"text","text":"# Complete graph\n>contains one edge between each pair of distinct vertices. Vise versa, noncomplete graph\n"},
-		{"id":"a342578239735b30","x":-593,"y":2068,"width":250,"height":95,"type":"text","text":"# Cycle\nContain vertices $v_1 ~~ v_n$\n"}
+		{"id":"a342578239735b30","x":-555,"y":2022,"width":271,"height":155,"type":"text","text":"# Cycle\nContain n vertices $v_1 \\sim v_n$ \nand \nedges : $\\{v_1,v_2\\},...,\\{v_n,v_1\\}$\n"},
+		{"id":"78c89a192e988f08","x":-545,"y":2237,"width":345,"height":143,"type":"text","text":"# Wheel\n>Add and connect one vertex to the other n vertices"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -99,6 +100,7 @@
 		{"id":"ca1f2cb31751fcb4","fromNode":"19680fa39da342cc","fromSide":"bottom","toNode":"4aa28d103df847eb","toSide":"top"},
 		{"id":"671e93b6c496e713","fromNode":"4aa28d103df847eb","fromSide":"right","toNode":"96f5265dd010e2bc","toSide":"left"},
 		{"id":"ec9fa6ed7b2c4bf7","fromNode":"4aa28d103df847eb","fromSide":"bottom","toNode":"37c1045e2d894613","toSide":"top"},
-		{"id":"1d90bdb6df44e8b3","fromNode":"37c1045e2d894613","fromSide":"right","toNode":"a342578239735b30","toSide":"left"}
+		{"id":"1d90bdb6df44e8b3","fromNode":"37c1045e2d894613","fromSide":"right","toNode":"a342578239735b30","toSide":"left"},
+		{"id":"a3788e656c2d3848","fromNode":"a342578239735b30","fromSide":"bottom","toNode":"78c89a192e988f08","toSide":"top"}
 	]
 }
