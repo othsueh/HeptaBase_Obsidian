@@ -44,7 +44,7 @@
 		{"type":"text","text":"# $deg(v)$\n> number of edge incident with $v$. If is a loop, then degree +2.","id":"b05c1b0c36d9012b","x":-1058,"y":1099,"width":364,"height":171},
 		{"type":"text","text":"# Graph","id":"9af0e7d1e518c385","x":-953,"y":239,"width":153,"height":47},
 		{"type":"text","text":"# $deg(v)$ and edges of graph\n>We said that if a graph has m edges in total.\n\n$$\n2m = \\forall_{v\\in V}deg(v)\n$$","id":"19680fa39da342cc","x":-1113,"y":1375,"width":475,"height":151},
-		{"id":"7d876beeecb809eb","x":-525,"y":1403,"width":465,"height":123,"type":"text","text":"# undirected graph has even number of vertices of odd degree"}
+		{"id":"7d876beeecb809eb","x":-525,"y":1403,"width":465,"height":123,"type":"text","text":"# even number of vertices of odd degree\n>Undirected graph has even number of vertices of odd degree.\n\n$V_1$ is the set of vertices with even degree\n$V_2$ is the set of vertices with odd degree\n$$\n2m = \n$$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
