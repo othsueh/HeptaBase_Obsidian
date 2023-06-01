@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"8ca849256b258142","x":20,"y":-820,"width":2139,"height":7289,"type":"group","label":"Relation"},
-		{"id":"f5987ca63a4c62d2","x":-1133,"y":219,"width":1063,"height":1768,"type":"group","label":"Graph Theory"},
+		{"id":"f5987ca63a4c62d2","x":-1133,"y":219,"width":1063,"height":2055,"type":"group","label":"Graph Theory"},
 		{"type":"text","text":"# Relationship of two sets\n>Suppose that there are set A and set B, the relationship of two set is the subset of AXB\n\n$$\na \\in A,\\ b \\in B\n$$\n$$aRb = (a,b) \\in R= a\\ is\\ related\\ to\\ b\\ by\\ R$$","id":"075a2ea05807de75","x":90,"y":-532,"width":480,"height":216},
 		{"type":"text","text":"# Binary Relation\n>a pair of two values\n","id":"23c0409b1dbb8d6c","x":160,"y":-800,"width":340,"height":108},
 		{"type":"text","text":"# graph of function\n>relation is the expansion of graph of function\n\n$$\nd \\in domain\\ D, c \\in codomain\\ C,f(d)=c\n$$\n$$\nThe\\ binary\\ relationship\\ is\\ always\\ (d,c), d\\ is\\ the\\ first\\ element\n$$","id":"654d4c9956d4c817","x":760,"y":-518,"width":498,"height":188},
@@ -48,7 +48,9 @@
 		{"type":"text","text":"# $deg(v)$ and edges of graph\n>We said that if a graph has m edges in total.\n\n$$\n2m = \\forall_{v\\in V}deg(v)\n$$","id":"19680fa39da342cc","x":-1113,"y":1375,"width":475,"height":151},
 		{"id":"7d876beeecb809eb","x":-555,"y":1342,"width":465,"height":333,"type":"text","text":"# even number of vertices of odd degree\n>Undirected graph has even number of vertices of odd degree.\n\n$V_1$ is the set of vertices with even degree\n$V_2$ is the set of vertices with odd degree\n$$\n2m = \\sum_{v\\in V} deg(v) = \\sum_{v\\in V_1}deg(v) + \\sum_{v\\in V_2}deg(v)\n$$\nSince degrees in $V_1$ must be even, then degrees in $V_2$ must also be even, then $V_2$ has even number of odd degree."},
 		{"id":"4aa28d103df847eb","x":-1032,"y":1780,"width":313,"height":187,"type":"text","text":"# Directed edge\n>Now we consider directed edge\n\n$u$ : initial vertex\n$v$ : end / terminal vertex\n"},
-		{"id":"96f5265dd010e2bc","x":-555,"y":1778,"width":415,"height":189,"type":"text","text":"# In and Out degree\n$deg^+(v)$ : degrees with v as initial index\n$deg^-(v)$ : degrees with v as terminal index\n$$\n\\sum_{v\\in V}deg^-(v) = \\sum_{v\\in V}deg^+(v) = |E|\n$$"}
+		{"id":"96f5265dd010e2bc","x":-555,"y":1778,"width":415,"height":189,"type":"text","text":"# In and Out degree\n$deg^+(v)$ : degrees with v as initial index\n$deg^-(v)$ : degrees with v as terminal index\n$$\n\\sum_{v\\in V}deg^-(v) = \\sum_{v\\in V}deg^+(v) = |E|\n$$"},
+		{"id":"37c1045e2d894613","x":-1074,"y":2039,"width":398,"height":168,"type":"text","text":"# Complete graph\n>contains one edge between each pair of distinct vertices. Vise versa, noncomplete graph\n"},
+		{"id":"a342578239735b30","x":-593,"y":2068,"width":250,"height":95,"type":"text","text":"# Cycle\nContain vertices $v_1 ~~ v_n$\n"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -95,6 +97,8 @@
 		{"id":"609119df062ade64","fromNode":"b05c1b0c36d9012b","fromSide":"bottom","toNode":"19680fa39da342cc","toSide":"top"},
 		{"id":"e2f46a64ae11cc3d","fromNode":"19680fa39da342cc","fromSide":"right","toNode":"7d876beeecb809eb","toSide":"left"},
 		{"id":"ca1f2cb31751fcb4","fromNode":"19680fa39da342cc","fromSide":"bottom","toNode":"4aa28d103df847eb","toSide":"top"},
-		{"id":"671e93b6c496e713","fromNode":"4aa28d103df847eb","fromSide":"right","toNode":"96f5265dd010e2bc","toSide":"left"}
+		{"id":"671e93b6c496e713","fromNode":"4aa28d103df847eb","fromSide":"right","toNode":"96f5265dd010e2bc","toSide":"left"},
+		{"id":"ec9fa6ed7b2c4bf7","fromNode":"4aa28d103df847eb","fromSide":"bottom","toNode":"37c1045e2d894613","toSide":"top"},
+		{"id":"1d90bdb6df44e8b3","fromNode":"37c1045e2d894613","fromSide":"right","toNode":"a342578239735b30","toSide":"left"}
 	]
 }
