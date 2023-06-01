@@ -49,10 +49,10 @@
 		{"id":"7d876beeecb809eb","x":-555,"y":1342,"width":465,"height":333,"type":"text","text":"# even number of vertices of odd degree\n>Undirected graph has even number of vertices of odd degree.\n\n$V_1$ is the set of vertices with even degree\n$V_2$ is the set of vertices with odd degree\n$$\n2m = \\sum_{v\\in V} deg(v) = \\sum_{v\\in V_1}deg(v) + \\sum_{v\\in V_2}deg(v)\n$$\nSince degrees in $V_1$ must be even, then degrees in $V_2$ must also be even, then $V_2$ has even number of odd degree."},
 		{"id":"4aa28d103df847eb","x":-1032,"y":1780,"width":313,"height":187,"type":"text","text":"# Directed edge\n>Now we consider directed edge\n\n$u$ : initial vertex\n$v$ : end / terminal vertex\n"},
 		{"id":"96f5265dd010e2bc","x":-555,"y":1778,"width":415,"height":189,"type":"text","text":"# In and Out degree\n$deg^+(v)$ : degrees with v as initial index\n$deg^-(v)$ : degrees with v as terminal index\n$$\n\\sum_{v\\in V}deg^-(v) = \\sum_{v\\in V}deg^+(v) = |E|\n$$"},
-		{"id":"37c1045e2d894613","x":-1074,"y":2039,"width":398,"height":168,"type":"text","text":"# Complete graph\n>contains one edge between each pair of distinct vertices. Vise versa, noncomplete graph\n"},
-		{"id":"a342578239735b30","x":-555,"y":2022,"width":355,"height":155,"type":"text","text":"# Cycle\nContain n ($n\\geq 3$)vertices $v_1 \\sim v_n$ \nand \nedges : $\\{v_1,v_2\\},...,\\{v_n,v_1\\}$\n"},
-		{"id":"78c89a192e988f08","x":-550,"y":2203,"width":345,"height":143,"type":"text","text":"# Wheel\n>Add and connect one vertex to the other n vertices($n\\geq 3$)"},
-		{"id":"ebe95a61d7d019f9","x":-535,"y":2390,"width":395,"height":130,"type":"text","text":"# N - Cubes\nn dimensional hypercube with vertex number with bit string"},
+		{"id":"37c1045e2d894613","x":-1074,"y":2039,"width":398,"height":168,"type":"text","text":"# Complete graph($K_n$)\n>contains one edge between each pair of distinct vertices. Vise versa, noncomplete graph\n"},
+		{"id":"a342578239735b30","x":-555,"y":2022,"width":355,"height":155,"type":"text","text":"# Cycle($C_n$)\nContain n ($n\\geq 3$)vertices $v_1 \\sim v_n$ \nand \nedges : $\\{v_1,v_2\\},...,\\{v_n,v_1\\}$\n"},
+		{"id":"78c89a192e988f08","x":-550,"y":2203,"width":345,"height":143,"type":"text","text":"# Wheel($W_n$)\n>Add and connect one vertex to the other n vertices($n\\geq 3$)"},
+		{"id":"ebe95a61d7d019f9","x":-535,"y":2390,"width":395,"height":130,"type":"text","text":"# N - Cubes($Q_n$)\nn dimensional hypercube with vertex number with bit string"},
 		{"id":"6a3c8bc269f14fe2","x":-556,"y":2580,"width":437,"height":137,"type":"text","text":"# N+1-Cube = 2 * N-Cube\n>(N+1)-Cube can be formed by copying 2*(N)-Cube"}
 	],
 	"edges":[
