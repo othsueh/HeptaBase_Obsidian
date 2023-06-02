@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "🌎Maps/古典音樂.canvas",
                 "viewState": {
-                  "x": -707.0045036400586,
-                  "y": 2386.896833033583,
-                  "zoom": -0.5333333333333323
+                  "x": 2910.30602636411,
+                  "y": 261.4972312690396,
+                  "zoom": -2.672081077066615
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "🌎Maps/古典音樂.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "🌎Maps/古典音樂.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas"
+                "file": "🌎Maps/古典音樂.canvas"
               }
             }
           },
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,10 +160,12 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "🌎Maps/管理概論.canvas",
+    "🌎Maps/DS.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/Multi Calculus.canvas",
     "🌎Maps/古典音樂.canvas",
     "🌎Maps/技術面.canvas",
-    "🌎Maps/管理概論.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "📱Media Collected/Pasted image 20230531154232.png",
     "📱Media Collected/Pasted image 20230531153632.png",
@@ -172,7 +175,6 @@
     "📱Media Collected/Pasted image 20230531005659.png",
     "📱Media Collected/Pasted image 20230530092121.png",
     "🥏Permanent Note/管理概論.md",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal/2023-05-27.md",
     "💡Journal/2023-05-26.md",
     "📱Media Collected/Pasted image 20230526042123.png",
@@ -181,7 +183,6 @@
     "📱Media Collected/Pasted image 20230523162333.png",
     "📱Media Collected/Pasted image 20230522160107.png",
     "📱Media Collected/Pasted image 20230522160058.png",
-    "🌎Maps/DS.canvas",
     "🥏Permanent Note/Discrete Mathmatics.md",
     "💡Journal/2023-05-20.md",
     "🌎Maps/JS Learning.canvas",
