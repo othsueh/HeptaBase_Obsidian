@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "f0a4527791971dbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.4"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13350fb58d554658",
+  "active": "f0a4527791971dbd",
   "lastOpenFiles": [
     "💡Journal/2023-05-24.md",
     "🌎Maps/JS Learning.canvas",
