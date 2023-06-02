@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "viewState": {
-                  "x": 2910.30602636411,
-                  "y": 261.4972312690396,
-                  "zoom": -2.672081077066615
+                  "x": -419,
+                  "y": 2748,
+                  "zoom": 0
                 }
               }
             }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas"
+                "file": "🌎Maps/Discrete Mathmatics.canvas"
               }
             }
           },
@@ -145,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +161,8 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "🌎Maps/古典音樂.canvas",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
