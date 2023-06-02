@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4f194a2c603631e7",
+        "id": "18d266fae8f0e0a5",
         "type": "tabs",
         "children": [
           {
-            "id": "13350fb58d554658",
+            "id": "ba8201bb09a227d7",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "canvas",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "🌎Maps/JS Learning.canvas",
+                "viewState": {
+                  "x": 2561.126478490783,
+                  "y": 5828.791592850295,
+                  "zoom": -0.8875000000000004
+                }
               }
             }
           }
@@ -85,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌎Maps/JS Learning.canvas"
+              }
             }
           },
           {
@@ -138,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -150,10 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13350fb58d554658",
+  "active": "ba8201bb09a227d7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "🌎Maps/管理概論.canvas",
     "🌎Maps/JS Learning.canvas",
+    "🌎Maps/DS.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🌎Maps/質疑這個世界.canvas",
+    "🌎Maps/古典音樂.canvas",
+    "conflict-files-obsidian-git.md",
     "🥏Permanent Note/管理概論.md",
     "🥏Permanent Note/古典音樂.md",
     "📱Media Collected/Pasted image 20230531154232.png",
@@ -165,8 +179,6 @@
     "📱Media Collected/Pasted image 20230526042123.png",
     "💡Journal/2023-05-27.md",
     "💡Journal/2023-05-26.md",
-    "🌎Maps/管理概論.canvas",
-    "🌎Maps/古典音樂.canvas",
     "💡Journal/2023-05-24.md",
     "📱Media Collected/Pasted image 20230523162333.png",
     "📱Media Collected/Pasted image 20230522160107.png",
@@ -178,13 +190,10 @@
     "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-05-15.md",
     "💡Journal/2023-05-16.md",
-    "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/技術面.canvas",
     "🌎Maps/Multi Calculus.canvas",
-    "🌎Maps/DS.canvas",
     "Permanent Note/Multi Calculus.md",
     "Permanent Note",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "📱Media Collected",
     "🗺️Map.canvas",
     "🦄Templates/01 - Journal.md",
