@@ -145,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,11 +159,12 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "🌎Maps/古典音樂.canvas",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/Multi Calculus.canvas",
-    "🌎Maps/古典音樂.canvas",
     "🌎Maps/技術面.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "📱Media Collected/Pasted image 20230531154232.png",
@@ -178,7 +178,6 @@
     "💡Journal/2023-05-27.md",
     "💡Journal/2023-05-26.md",
     "📱Media Collected/Pasted image 20230526042123.png",
-    "conflict-files-obsidian-git.md",
     "💡Journal/2023-05-24.md",
     "📱Media Collected/Pasted image 20230523162333.png",
     "📱Media Collected/Pasted image 20230522160107.png",
