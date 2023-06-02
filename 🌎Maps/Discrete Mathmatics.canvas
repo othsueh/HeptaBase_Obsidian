@@ -58,7 +58,7 @@
 		{"type":"text","text":"# Path\n>Suppose we have vertices $V_1 \\sim V_n$, then the path is the set of $\\{V_1,V_2\\},\\{V_2,V_3\\},...\\{V_{n-1},V_n\\}$, any edge is no repeated.","id":"0a458bbe4737c04d","x":-1149,"y":2320,"width":404,"height":198},
 		{"type":"text","text":"# Walk\n>There is a different between path and walk, that is walk has repeated edge.","id":"792297bb1659de4b","x":-624,"y":2344,"width":396,"height":151},
 		{"id":"97c952df92629afc","x":-1741,"y":2112,"width":437,"height":138,"type":"text","text":"# Eulerian tour\n>An undirected graph is an Eulerian tour iff it's even degree and connected."},
-		{"id":"6c3a1c0c842e1a50","x":-1653,"y":2341,"width":250,"height":60,"type":"text","text":""}
+		{"id":"6c3a1c0c842e1a50","x":-1729,"y":2320,"width":413,"height":177,"type":"text","text":"# Tree\n>An undirected graph is a tree if it's connected and acyclic(no cycles\n\n**Other Charas** : Number of vertices is one more than edge's."}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
