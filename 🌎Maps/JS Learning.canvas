@@ -50,7 +50,8 @@
 		{"id":"f5efab82bc1089db","x":2860,"y":5780,"width":580,"height":249,"type":"text","text":"# flat()\n>Create a new array with origin array with different depth subset.\n\n`flat(depth)` : the depth you want to unfold.\n```js\nconst arr = [[1,2,3],[4,[5,6]],7,8];\nconsole.log(arr.flat(2)); //[1,2,3,4,5,6,7,8]\n```"},
 		{"id":"0b36edd002252438","x":3524,"y":5849,"width":355,"height":112,"type":"text","text":"# flatMap()\n>same as flat, but with only depth 1."},
 		{"id":"39c788638b901ac4","x":2884,"y":6160,"width":700,"height":490,"type":"text","text":"# sort()\n>sort an array.\n\n`sort((a,b)=>a-b)` : if `a-b` > 0, then change order. else, keep the order(ascending)\n`sort((a,b)=>b-a)` : descending\n\n```js\n//subtopic : string\nconst owners = ['Jonas','Zach','Adam','Martha'];\nconsole.log(owners.sort());//['Adam', 'Jonas', 'Martha', 'Zach']\n\n//subtopic : number\nconst movements2 = [200, 450, -400, 3000, -650, -130, 70, 1300];\nconsole.log(movements2.sort());//[-130, -400, -650, 1300, 200, 3000, 450, 70]\n\n//subtopic : boolean\nconst x = [true,false];//[false, true]\n```"},
-		{"id":"69f0260cd1260ec5","x":2884,"y":6720,"width":512,"height":243,"type":"text","text":"# Array()\n>Create a new array\n\n`new Array(length)` : create an empty array with the length\n`new Array(e1,e2,e3,...)` : Create an array based on the parameter"}
+		{"id":"69f0260cd1260ec5","x":2884,"y":6720,"width":512,"height":243,"type":"text","text":"# Array()\n>Create a new array\n\n`new Array(length)` : create an empty array with the length\n`new Array(e1,e2,e3,...)` : Create an array based on the parameter"},
+		{"id":"85dd25ad19892068","x":3176,"y":6651,"width":504,"height":191,"type":"text","text":"# fill()\n>fill an array with specific value.\n\n```js\nconst x = new Array(7);\nconst y = new Array(7);\nx.fill(1);\ny.fill(1,3,5);\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
