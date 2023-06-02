@@ -47,7 +47,8 @@
 		{"type":"text","text":"# some()\n>Test if at least one element in the array is follow the condition.\n\n```js\nconst anyDeposits = movements.some(mov=>mov>0);\nconsole.log(anyDeposits);//true\n```","id":"1b418d7431bc0246","x":2884,"y":5000,"width":640,"height":199},
 		{"type":"text","text":"# every()\n>Test if all elements in the array are follow the condition.\n\n```js\nconst everyDeposits = movements.every(mov=>mov>0);\nconsole.log(everyDeposits);//false\n```","id":"1a4517c2496f047b","x":2884,"y":5240,"width":640,"height":199},
 		{"type":"text","text":"# separate call back\n>separate the condition to a single function, make the code easier to read.\n\n```js\nconst judge = mov => mov >0;\nconsole.log(movements.filter(judge));\n```","id":"2f2c273e5760d27e","x":2884,"y":5500,"width":504,"height":229},
-		{"id":"f5efab82bc1089db","x":2860,"y":5780,"width":580,"height":249,"type":"text","text":"# flap()\n>Create a new array with origin array with different depth subset.\n\n`flat(depth)` : the depth you want to unfold.\n```js\nconst arr = [[1,2,3],[4,[5,6]],7,8];\nconsole.log(arr.flat(2)); //[1,2,3,4,5,6,7,8]\n```"}
+		{"id":"f5efab82bc1089db","x":2860,"y":5780,"width":580,"height":249,"type":"text","text":"# flat()\n>Create a new array with origin array with different depth subset.\n\n`flat(depth)` : the depth you want to unfold.\n```js\nconst arr = [[1,2,3],[4,[5,6]],7,8];\nconsole.log(arr.flat(2)); //[1,2,3,4,5,6,7,8]\n```"},
+		{"id":"0b36edd002252438","x":3524,"y":5849,"width":355,"height":112,"type":"text","text":"# flatMap()\n>same as flat, but with only depth 1."}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -78,6 +79,7 @@
 		{"id":"ee299e22406302fb","fromNode":"26133fafd5d185d7","fromSide":"right","toNode":"8bb3a068429fd496","toSide":"left"},
 		{"id":"d6eea4d47907f51b","fromNode":"7f2fd4381522f41a","fromSide":"left","toNode":"a593af6554dbd5cc","toSide":"right"},
 		{"id":"fb8ffb2f068c9219","fromNode":"8bb3a068429fd496","fromSide":"right","toNode":"bb2fb4d5d4362829","toSide":"left"},
-		{"id":"2d176d908cdf5106","fromNode":"96a1616834041083","fromSide":"right","toNode":"bb2fb4d5d4362829","toSide":"left"}
+		{"id":"2d176d908cdf5106","fromNode":"96a1616834041083","fromSide":"right","toNode":"bb2fb4d5d4362829","toSide":"left"},
+		{"id":"ead0ad1ba05c95cf","fromNode":"f5efab82bc1089db","fromSide":"right","toNode":"0b36edd002252438","toSide":"left"}
 	]
 }
