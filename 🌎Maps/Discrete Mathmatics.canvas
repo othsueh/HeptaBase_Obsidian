@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"group","id":"8ca849256b258142","x":20,"y":-820,"width":2139,"height":7289,"label":"Relation"},
-		{"type":"group","id":"f5987ca63a4c62d2","x":-1133,"y":219,"width":1063,"height":3001,"label":"Graph Theory"},
+		{"type":"group","id":"f5987ca63a4c62d2","x":-1133,"y":219,"width":1063,"height":3081,"label":"Graph Theory"},
 		{"type":"text","text":"# Composite Relations\n>Now we have three sets, A, B and C, R is relation between A and B. S is the relation between B and C. Then what's the relation between A and C ?\n\n$$\nS \\circ R \\subseteq AXC ,\\ (a,c)\\in S \\circ R\n$$\n","id":"4a780fb0463a2895","x":62,"y":1468,"width":534,"height":207},
 		{"type":"text","text":"# How we find the relation of grandparent\n>Now we have relation a is b's parent, R. \n\n$$\n(a,b) \\in R,\\ (b,c) \\in R\n$$\n$$\naR\\circ Rc =\\ grand \\ parent \\ relation,then\\ b\\ must\\ exist. \n$$","id":"61e7814834c6514e","x":771,"y":1455,"width":537,"height":234},
 		{"type":"text","text":"# Pendant\n>degree = 1","id":"e6e725da2ffd33c9","x":-573,"y":1163,"width":250,"height":107},
@@ -28,7 +28,6 @@
 		{"type":"text","text":"# Anti Symmetric\n>Not symmetric relationship","id":"91a8921a16368eb7","x":804,"y":520,"width":325,"height":108},
 		{"type":"text","text":"# Isolated\n>degree=0","id":"b2c9e683041fe170","x":-573,"y":1046,"width":250,"height":107},
 		{"type":"text","text":"# $N(v)$\n>set of all neighbors of vertice $v$ of $G(V,E)$.\n\n$A$ -> subet of $V$\n$$\nN(A)=\\bigcup_{v\\in A}N(v) \n$$","id":"36559bc36f52b12f","x":-1067,"y":823,"width":381,"height":225},
-		{"type":"text","text":"# Wheel($W_n$)\n>Add and connect one vertex to the other n vertices($n\\geq 3$)","id":"78c89a192e988f08","x":-550,"y":2203,"width":345,"height":143},
 		{"type":"text","text":"# N - Cubes($Q_n$)\nn dimensional hypercube with vertex number with bit string","id":"ebe95a61d7d019f9","x":-535,"y":2390,"width":395,"height":130},
 		{"type":"text","text":"# N+1-Cube = 2 * N-Cube\n>(N+1)-Cube can be formed by copying 2*(N)-Cube","id":"6a3c8bc269f14fe2","x":-556,"y":2580,"width":437,"height":137},
 		{"type":"text","text":"# Relationship of two sets\n>Suppose that there are set A and set B, the relationship of two set is the subset of AXB\n\n$$\na \\in A,\\ b \\in B\n$$\n$$aRb = (a,b) \\in R= a\\ is\\ related\\ to\\ b\\ by\\ R$$","id":"075a2ea05807de75","x":90,"y":-532,"width":480,"height":216},
@@ -56,7 +55,8 @@
 		{"type":"text","text":"# a~b\n>denote that a and b are equivalent elements of an equivalence relation.","id":"7cafc3585282413d","x":823,"y":2680,"width":427,"height":137},
 		{"id":"0a458bbe4737c04d","x":-544,"y":2740,"width":404,"height":198,"type":"text","text":"# Path\n>Suppose we have vertices $V_1 \\sim V_n$, then the path is the set of $\\{V_1,V_2\\},\\{V_2,V_3\\},...\\{V_{n-1},V_n\\}$, any edge is no repeated."},
 		{"id":"792297bb1659de4b","x":-540,"y":2980,"width":396,"height":151,"type":"text","text":"# Walk\n>There is a different between path and walk, that is walk has repeated edge."},
-		{"id":"351bfe1e78fdc84f","x":-564,"y":3163,"width":250,"height":60,"type":"text","text":""}
+		{"type":"text","text":"# Wheel($W_n$)\n>Add and connect one vertex to the other n vertices($n\\geq 3$)","id":"78c89a192e988f08","x":-800,"y":2247,"width":345,"height":143},
+		{"id":"351bfe1e78fdc84f","x":-420,"y":2247,"width":384,"height":137,"type":"text","text":"# tour\n>The initial vertex is equal to end vertex and with repeated edge."}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -111,6 +111,6 @@
 		{"id":"9c2d15ff5837204f","fromNode":"ebe95a61d7d019f9","fromSide":"bottom","toNode":"6a3c8bc269f14fe2","toSide":"top"},
 		{"id":"71771eac9665d21b","fromNode":"37c1045e2d894613","fromSide":"right","toNode":"0a458bbe4737c04d","toSide":"left"},
 		{"id":"9b85ef50120412d4","fromNode":"0a458bbe4737c04d","fromSide":"bottom","toNode":"792297bb1659de4b","toSide":"top"},
-		{"id":"94c77fb4589604ba","fromNode":"37c1045e2d894613","fromSide":"right","toNode":"351bfe1e78fdc84f","toSide":"left"}
+		{"id":"32b6ebcd4f4349b6","fromNode":"a342578239735b30","fromSide":"right","toNode":"351bfe1e78fdc84f","toSide":"top"}
 	]
 }
