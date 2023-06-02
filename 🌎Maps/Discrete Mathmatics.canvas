@@ -59,8 +59,9 @@
 		{"type":"text","text":"# Walk\n>There is a different between path and walk, that is walk has repeated edge.","id":"792297bb1659de4b","x":-624,"y":2344,"width":396,"height":151},
 		{"id":"97c952df92629afc","x":-1741,"y":2112,"width":437,"height":138,"type":"text","text":"# Eulerian tour\n>An undirected graph is an Eulerian tour iff it's even degree and connected."},
 		{"id":"6c3a1c0c842e1a50","x":-1729,"y":2320,"width":413,"height":177,"type":"text","text":"# Tree\n>An undirected graph is a tree if it's connected and acyclic(no cycles\n\n**Other Charas** : Number of vertices is one more than edge's."},
-		{"id":"162613e41d389fa5","x":-1692,"y":2623,"width":339,"height":137,"type":"text","text":"# Planar graph\n>A graph is planar if any of it's edge are crossing."},
-		{"id":"eceb3e4c9d37353f","x":-1197,"y":2612,"width":397,"height":148,"type":"text","text":"# $f$ Faces\n>number of regions which graph ."}
+		{"id":"162613e41d389fa5","x":-1692,"y":2623,"width":372,"height":137,"type":"text","text":"# Planar graph\n>A graph is planar if any of it's edge are crossing."},
+		{"id":"eceb3e4c9d37353f","x":-1197,"y":2612,"width":397,"height":148,"type":"text","text":"# $f$ Faces\n>number of regions which graph subdivides the plane."},
+		{"id":"b0509ce7f0ccc49a","x":-1203,"y":2808,"width":403,"height":108,"type":"text","text":"# Euler's formula\n>$v+f=e+2$"}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -119,6 +120,7 @@
 		{"id":"863970a736dadc8d","fromNode":"37c1045e2d894613","fromSide":"bottom","toNode":"97c952df92629afc","toSide":"top"},
 		{"id":"254922d066f5461d","fromNode":"97c952df92629afc","fromSide":"bottom","toNode":"6c3a1c0c842e1a50","toSide":"top"},
 		{"id":"85ac24c7c4a18ef5","fromNode":"6c3a1c0c842e1a50","fromSide":"bottom","toNode":"162613e41d389fa5","toSide":"top"},
-		{"id":"e7d711a3e45f6c76","fromNode":"162613e41d389fa5","fromSide":"right","toNode":"eceb3e4c9d37353f","toSide":"left"}
+		{"id":"e7d711a3e45f6c76","fromNode":"162613e41d389fa5","fromSide":"right","toNode":"eceb3e4c9d37353f","toSide":"left"},
+		{"id":"6dfd4b23e6d17db1","fromNode":"162613e41d389fa5","fromSide":"right","toNode":"b0509ce7f0ccc49a","toSide":"left"}
 	]
 }
