@@ -57,7 +57,8 @@
 		{"type":"text","text":"# N+1-Cube = 2 * N-Cube\n>(N+1)-Cube can be formed by copying 2*(N)-Cube","id":"6a3c8bc269f14fe2","x":-624,"y":2112,"width":437,"height":137},
 		{"type":"text","text":"# Path\n>Suppose we have vertices $V_1 \\sim V_n$, then the path is the set of $\\{V_1,V_2\\},\\{V_2,V_3\\},...\\{V_{n-1},V_n\\}$, any edge is no repeated.","id":"0a458bbe4737c04d","x":-1149,"y":2320,"width":404,"height":198},
 		{"type":"text","text":"# Walk\n>There is a different between path and walk, that is walk has repeated edge.","id":"792297bb1659de4b","x":-624,"y":2344,"width":396,"height":151},
-		{"id":"97c952df92629afc","x":-1637,"y":2207,"width":314,"height":113,"type":"text","text":"# Eulerian tour\n>An undirected graph is an Eulerian tour if "}
+		{"id":"97c952df92629afc","x":-1741,"y":2112,"width":437,"height":138,"type":"text","text":"# Eulerian tour\n>An undirected graph is an Eulerian tour iff it's even degree and connected."},
+		{"id":"6c3a1c0c842e1a50","x":-1653,"y":2341,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"59e512aab75c4a68","fromNode":"23c0409b1dbb8d6c","fromSide":"bottom","toNode":"075a2ea05807de75","toSide":"top"},
@@ -113,6 +114,7 @@
 		{"id":"a90ad7102fb3df6c","fromNode":"a342578239735b30","fromSide":"right","toNode":"78c89a192e988f08","toSide":"left"},
 		{"id":"273e4959cab47b8b","fromNode":"ebe95a61d7d019f9","fromSide":"right","toNode":"6a3c8bc269f14fe2","toSide":"left"},
 		{"id":"5f577446726df442","fromNode":"0a458bbe4737c04d","fromSide":"right","toNode":"792297bb1659de4b","toSide":"left"},
-		{"id":"863970a736dadc8d","fromNode":"37c1045e2d894613","fromSide":"bottom","toNode":"97c952df92629afc","toSide":"top"}
+		{"id":"863970a736dadc8d","fromNode":"37c1045e2d894613","fromSide":"bottom","toNode":"97c952df92629afc","toSide":"top"},
+		{"id":"254922d066f5461d","fromNode":"97c952df92629afc","fromSide":"bottom","toNode":"6c3a1c0c842e1a50","toSide":"top"}
 	]
 }
