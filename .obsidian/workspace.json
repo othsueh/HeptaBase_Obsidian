@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "viewState": {
-                  "x": 752.8342161436775,
-                  "y": 859.1068419397171,
-                  "zoom": -0.6201024016415622
+                  "x": 1086.8270941786645,
+                  "y": 481.12165083322816,
+                  "zoom": -0.5114894996841157
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas",
+                "file": "🌎Maps/管理概論.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/古典音樂.canvas"
+                "file": "🌎Maps/管理概論.canvas"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/古典音樂.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
