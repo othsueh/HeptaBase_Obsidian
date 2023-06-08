@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/管理概論.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "viewState": {
-                  "x": 5361.991400476994,
-                  "y": -470.3522887506259,
-                  "zoom": -3.471905112785109
+                  "x": 778.2709075202253,
+                  "y": 5070.536748821534,
+                  "zoom": -0.38108652382428954
                 }
               }
             }
@@ -89,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/管理概論.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/管理概論.canvas",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/管理概論.canvas"
+                "file": "🌎Maps/Discrete Mathmatics.canvas"
               }
             }
           },
@@ -161,8 +161,8 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
-    "🌎Maps/古典音樂.canvas",
     "🌎Maps/管理概論.canvas",
+    "🌎Maps/古典音樂.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/DS.canvas",
