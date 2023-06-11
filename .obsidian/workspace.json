@@ -11,29 +11,15 @@
             "id": "ba8201bb09a227d7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
-                "viewState": {
-                  "x": 3301.2922162950026,
-                  "y": 6680.78348229778,
-                  "zoom": -1.0375
-                }
-              }
-            }
-          },
-          {
-            "id": "b75481e1d3687e32",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.5"
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -100,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -157,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,15 +154,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b75481e1d3687e32",
+  "active": "ba8201bb09a227d7",
   "lastOpenFiles": [
-    "🌎Maps/管理概論.canvas",
     "🌎Maps/JS Learning.canvas",
+    "conflict-files-obsidian-git.md",
+    "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/古典音樂.canvas",
-    "conflict-files-obsidian-git.md",
     "🥏Permanent Note/管理概論.md",
     "🥏Permanent Note/古典音樂.md",
     "📱Media Collected/Pasted image 20230531154232.png",
