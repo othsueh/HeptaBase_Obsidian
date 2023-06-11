@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "b75481e1d3687e32",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,7 +170,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ba8201bb09a227d7",
+  "active": "b75481e1d3687e32",
   "lastOpenFiles": [
     "🌎Maps/管理概論.canvas",
     "🌎Maps/JS Learning.canvas",
