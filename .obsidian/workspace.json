@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2b1f0b8f41eeb8aa",
@@ -146,8 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,10 +159,10 @@
   },
   "active": "03d6be91cebce9cc",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/古典音樂.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
-    "conflict-files-obsidian-git.md",
     "🌎Maps/DS.canvas",
     "🌎Maps/Multi Calculus.canvas",
     "🌎Maps/技術面.canvas",
