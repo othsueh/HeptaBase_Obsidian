@@ -11,8 +11,15 @@
             "id": "7eefe94303516fa7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "🌎Maps/JS Learning.canvas",
+                "viewState": {
+                  "x": 3840.5484374999987,
+                  "y": 7013.971406249999,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -65,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -81,6 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +128,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "🌎Maps/JS Learning.canvas"
+              }
             }
           },
           {
@@ -134,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,10 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45ea0541bc9515b0",
+  "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
+    "🌎Maps/JS Learning.canvas",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
