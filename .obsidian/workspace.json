@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "ea46f89dc299c750",
+        "id": "9d22ee063ecf64d0",
         "type": "tabs",
         "children": [
           {
-            "id": "03d6be91cebce9cc",
+            "id": "7638a09cdb2ac99b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
-                "viewState": {
-                  "x": -50.20767366830963,
-                  "y": 1191.0856256797522,
-                  "zoom": -2.841149495032587
-                }
+                "file": "💡Journal/2023-06-12.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "💡Journal/2023-06-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "💡Journal/2023-06-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas"
+                "file": "💡Journal/2023-06-12.md"
               }
             }
           },
@@ -157,10 +154,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "03d6be91cebce9cc",
+  "active": "7638a09cdb2ac99b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "💡Journal/2023-06-12.md",
     "🌎Maps/Discrete Mathmatics.canvas",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/古典音樂.canvas",
     "🌎Maps/DS.canvas",
