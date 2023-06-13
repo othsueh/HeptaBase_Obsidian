@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-06-12.md",
+                "file": "💡Journal/2023-06-13.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-06-12.md",
+                "file": "💡Journal/2023-06-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-06-12.md",
+                "file": "💡Journal/2023-06-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-06-12.md"
+                "file": "💡Journal/2023-06-13.md"
               }
             }
           },
@@ -157,6 +157,7 @@
   "active": "7638a09cdb2ac99b",
   "lastOpenFiles": [
     "💡Journal/2023-06-12.md",
+    "💡Journal/2023-06-13.md",
     "🌎Maps/Discrete Mathmatics.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
