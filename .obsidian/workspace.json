@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 3254.1191854540057,
-                  "y": 5255.262079928925,
-                  "zoom": -0.51875
+                  "x": 3148.7561765401565,
+                  "y": 6353.560804380317,
+                  "zoom": 0
                 }
               }
             }
@@ -158,7 +158,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "45ea0541bc9515b0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "🌎Maps/JS Learning.canvas",
