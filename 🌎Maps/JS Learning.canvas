@@ -55,7 +55,7 @@
 		{"type":"text","text":"# from()\n>Created a new array Based on string or function.\n\n```js\nconst s = Array.from('string'); //['s','t',...]\nconst z = Array.from({length:7},()=>1);//[1,1,1,...]\nconst z2 = Array.from({length:7},(_,i)=>i+1);//[1,2,3,...]\n//_ means throw away variable\n```","id":"f3fe26b2dfa02bb3","x":3716,"y":6984,"width":544,"height":251},
 		{"id":"fd569288bf954e3e","x":3825,"y":-2779,"width":415,"height":179,"type":"text","text":"# Number in JS\n>Number in JS represent as float.\n\n```js\nconsole.log(23.0===23)//true\n```"},
 		{"id":"cd37b59e97ebf246","x":4360,"y":-2815,"width":462,"height":252,"type":"text","text":"# Number in JS is not precise\n>Since JS use binary to store float value, so there are some special error in calculating.\n\n```js\nconsole.log(0.1+0.2)//0.30000000000000004\n```"},
-		{"id":"a18a22eeabf2f871","x":3912,"y":-2514,"width":368,"height":154,"type":"text","text":"# Convert string to number\n>When JS see the + sign, it will automatically convert "}
+		{"id":"a18a22eeabf2f871","x":3799,"y":-2540,"width":468,"height":256,"type":"text","text":"# Convert string to number\n>When JS see the + sign, it will automatically convert the later string to number\n\n```js\nconsole.log(+'23');//23\n//===same as\nconsole.log(Number('23'));//23\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
