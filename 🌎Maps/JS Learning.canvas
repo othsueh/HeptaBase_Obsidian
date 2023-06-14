@@ -56,7 +56,8 @@
 		{"id":"fd569288bf954e3e","x":3825,"y":-2779,"width":415,"height":179,"type":"text","text":"# Number in JS\n>Number in JS represent as float.\n\n```js\nconsole.log(23.0===23)//true\n```"},
 		{"id":"cd37b59e97ebf246","x":4360,"y":-2815,"width":462,"height":252,"type":"text","text":"# Number in JS is not precise\n>Since JS use binary to store float value, so there are some special error in calculating.\n\n```js\nconsole.log(0.1+0.2)//0.30000000000000004\n```"},
 		{"id":"a18a22eeabf2f871","x":3799,"y":-2540,"width":468,"height":256,"type":"text","text":"# Convert string to number\n>When JS see the + sign, it will automatically convert the later string to number\n\n```js\nconsole.log(+'23');//23\n//===same as\nconsole.log(Number('23'));//23\n```"},
-		{"id":"5e10f4aa7271ea07","x":4437,"y":-2439,"width":623,"height":255,"type":"text","text":"# Parsing string to number\n>Another way to convert string to number, but string can contains chars and number have to placed in front of the chars.\n\n```js\nconsole.log(Number.parseInt('30px'));//30\nconsole.log(Number.parseInt('30px',16));//48(with HEX)\nconsole.log(Number.parseInt('3px0'));//3\nconsole.log(Number.parseFloat('2.5rem'));//2.5\n```"}
+		{"id":"5e10f4aa7271ea07","x":4437,"y":-2439,"width":623,"height":255,"type":"text","text":"# Parsing string to number\n>Another way to convert string to number, but string can contains chars and number have to placed in front of the chars.\n\n```js\nconsole.log(Number.parseInt('30px'));//30\nconsole.log(Number.parseInt('30px',16));//48(with HEX)\nconsole.log(Number.parseInt('3px0'));//3\nconsole.log(Number.parseFloat('2.5rem'));//2.5\n```"},
+		{"id":"5bc47172a69ac579","x":3785,"y":-2220,"width":496,"height":297,"type":"text","text":"# Is A Number?\n>There are two ways to check if the object is a number of not(NaN).\n\n```js\nconsole.log(Number.isNaN(20));//false\nconsole.log(Number.isNaN(+'20p'));//true\nconsole.log(Number.isNaN(3/0));//true\nconsole.log(Number.isFinite(30/0));//false\nconsole.log(Number.isFinite(20));//true\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -91,6 +92,7 @@
 		{"id":"ead0ad1ba05c95cf","fromNode":"f5efab82bc1089db","fromSide":"right","toNode":"0b36edd002252438","toSide":"left"},
 		{"id":"71ccff62f36a05ad","fromNode":"fd569288bf954e3e","fromSide":"right","toNode":"cd37b59e97ebf246","toSide":"left"},
 		{"id":"0e7dac2f756c65f7","fromNode":"fd569288bf954e3e","fromSide":"bottom","toNode":"a18a22eeabf2f871","toSide":"top"},
-		{"id":"3e1a42bbf10bfc05","fromNode":"a18a22eeabf2f871","fromSide":"right","toNode":"5e10f4aa7271ea07","toSide":"left"}
+		{"id":"3e1a42bbf10bfc05","fromNode":"a18a22eeabf2f871","fromSide":"right","toNode":"5e10f4aa7271ea07","toSide":"left"},
+		{"id":"3e038dc6b4e81f68","fromNode":"a18a22eeabf2f871","fromSide":"bottom","toNode":"5bc47172a69ac579","toSide":"top"}
 	]
 }
