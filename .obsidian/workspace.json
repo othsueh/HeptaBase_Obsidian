@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 4411.586727475271,
-                  "y": 941.5828324803244,
-                  "zoom": 0.51875
+                  "x": 3254.1191854540057,
+                  "y": 5255.262079928925,
+                  "zoom": -0.51875
                 }
               }
             }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,6 +162,8 @@
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "🌎Maps/JS Learning.canvas",
+    "💡Journal/2023-06-13.md",
+    "💡Journal/2023-06-12.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
