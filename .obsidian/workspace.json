@@ -15,8 +15,8 @@
               "state": {
                 "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 4060.169240722653,
-                  "y": -1521.4124975585962,
+                  "x": 4096.211726074215,
+                  "y": -1503.1111059570337,
                   "zoom": 0
                 }
               }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
