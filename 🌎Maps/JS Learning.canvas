@@ -64,7 +64,8 @@
 		{"id":"aa4b70ccf410ec0e","x":5339,"y":-1320,"width":427,"height":229,"type":"text","text":"# Numeric Separators\n>A way to group large number without syntax error coming with great readability\n\n```js\nconst z = 123_456_789\nconsole.log(z)//123456789\n```\n"},
 		{"id":"74ebf1a3f2135d20","x":5280,"y":-976,"width":545,"height":279,"type":"text","text":"# BigInt\n>A new type to store, calculate big int that over `MAX_SAFE_INTEGER` . But cannot calculate with regular int.\n\n```js\nconsole.log(2487923479234792387492374923742947329874n)\nconsole.log(100n+2000n)\nconsole.log(1000n === 1000)//false\nconsole.log(10n/3n)//3n\n```"},
 		{"id":"991959d57eef3c3a","x":4640,"y":-3019,"width":356,"height":201,"type":"text","text":"# Date in JS\n>There is a type for date in JS!\n\n```js\nconst now = new Date()\nconsole.log(now)\n```"},
-		{"id":"fe719ec9eccb1ff4","x":4694,"y":-2746,"width":446,"height":60,"type":"text","text":"# Get the completed time"}
+		{"id":"fe719ec9eccb1ff4","x":4595,"y":-2740,"width":446,"height":190,"type":"text","text":"# Get the whole time\n```js\nconst myBirth = new Date(2004,07,19)\nconsole.log(myBirth)//Mon Jul 19 2004 00:00:00 GMT+0800 (Taipei Standard Time)\n\n```"},
+		{"id":"7a75af8fedff3f3c","x":4699,"y":-2471,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -107,6 +108,7 @@
 		{"id":"ac0a1404534266ad","fromNode":"e2ca864f7433b123","fromSide":"bottom","toNode":"aa4b70ccf410ec0e","toSide":"top"},
 		{"id":"0baf80544b46cded","fromNode":"aa4b70ccf410ec0e","fromSide":"bottom","toNode":"74ebf1a3f2135d20","toSide":"top"},
 		{"id":"ca53e8a00df3f4e0","fromNode":"fd569288bf954e3e","fromSide":"left","toNode":"991959d57eef3c3a","toSide":"right"},
-		{"id":"905d23faaaac3623","fromNode":"991959d57eef3c3a","fromSide":"bottom","toNode":"fe719ec9eccb1ff4","toSide":"top"}
+		{"id":"905d23faaaac3623","fromNode":"991959d57eef3c3a","fromSide":"bottom","toNode":"fe719ec9eccb1ff4","toSide":"top"},
+		{"id":"0c7f290e371c5218","fromNode":"fe719ec9eccb1ff4","fromSide":"bottom","toNode":"7a75af8fedff3f3c","toSide":"top"}
 	]
 }
