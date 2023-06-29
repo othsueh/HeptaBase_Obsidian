@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"id":"45f7707e86ceaf87","x":2421,"y":2441,"width":250,"height":60,"type":"text","text":""},
 		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":-360,"y":0,"width":760,"height":1220},
 		{"type":"text","text":"# Type of Function\n> function in JS is actually object","id":"809549061db7c126","x":436,"y":-160,"width":384,"height":106},
 		{"type":"text","text":"# this\n> `this` keyword works depends on how function are called.\n\n**In Function** : undefined \n**In Method** : object\n\n","id":"a884f4db1b953a12","x":480,"y":15,"width":500,"height":216},
