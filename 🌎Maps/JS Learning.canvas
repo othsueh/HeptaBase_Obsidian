@@ -67,7 +67,8 @@
 		{"type":"text","text":"# Numeric Separators\n>A way to group large number without syntax error coming with great readability\n\n```js\nconst z = 123_456_789\nconsole.log(z)//123456789\n```\n","id":"aa4b70ccf410ec0e","x":5919,"y":-2065,"width":427,"height":229},
 		{"type":"text","text":"# BigInt\n>A new type to store, calculate big int that over `MAX_SAFE_INTEGER` . But cannot calculate with regular int.\n\n```js\nconsole.log(2487923479234792387492374923742947329874n)\nconsole.log(100n+2000n)\nconsole.log(1000n === 1000)//false\nconsole.log(10n/3n)//3n\n```","id":"74ebf1a3f2135d20","x":5860,"y":-1721,"width":545,"height":279},
 		{"type":"text","text":"# Calculate the time\n>There way a cool way to calculate the time.\n\n```js\nconsole.log(new Date(0))\n//Thu Jan 01 1970 08:00:00 GMT+0800 (Taipei Standard Time)\nconsole.log(new Date(3*24*60*60*1000))\n//Sun Jan 04 1970 08:00:00 GMT+0800 (Taipei Standard Time)\nconsole.log(Date.now())\n//1687702458500\nconsole.log(myBirth.getTime())\n//1090166400000\n\n```","id":"11cd2b6c8e0cdbb9","x":5212,"y":-2825,"width":425,"height":403},
-		{"type":"text","text":"# Intl.DateTimeFormat()\n>Let the time be internationalize.\n\n`Intl.DateTimeFormat(locale,options).format(date)`\n`locale` : the location\n`options` : the format of the time, ex day, month...\n`date` : the date variable\n```js\n  const date = new Date();\n  const options = {\n    hour:'2-digit',\n    minute:'numeric',\n    day:'2-digit',\n    month:'short',\n    year:'numeric',\n    weekday:'short',\n    hour12: 'false'\n  }\n  console.log(new Intl.DateTimeFormat('zh-TW',options).format(date);\n```","id":"c8774ccf0cafa722","x":4920,"y":-2285,"width":900,"height":514}
+		{"type":"text","text":"# Intl.DateTimeFormat()\n>Let the time be internationalize.\n\n`Intl.DateTimeFormat(locale,options).format(date)`\n`locale` : the location\n`options` : the format of the time, ex day, month...\n`date` : the date variable\n```js\n  const date = new Date();\n  const options = {\n    hour:'2-digit',\n    minute:'numeric',\n    day:'2-digit',\n    month:'short',\n    year:'numeric',\n    weekday:'short',\n    hour12: 'false'\n  }\n  console.log(new Intl.DateTimeFormat('zh-TW',options).format(date);\n```","id":"c8774ccf0cafa722","x":4920,"y":-2285,"width":900,"height":514},
+		{"id":"786011c12e736620","x":6018,"y":-1294,"width":522,"height":254,"type":"text","text":"# Intl.NumberFormat\n>Let the number become "}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -113,6 +114,7 @@
 		{"id":"905d23faaaac3623","fromNode":"991959d57eef3c3a","fromSide":"bottom","toNode":"fe719ec9eccb1ff4","toSide":"top"},
 		{"id":"0c7f290e371c5218","fromNode":"fe719ec9eccb1ff4","fromSide":"bottom","toNode":"7a75af8fedff3f3c","toSide":"top"},
 		{"id":"e1a22a67bbccc32b","fromNode":"7a75af8fedff3f3c","fromSide":"bottom","toNode":"11cd2b6c8e0cdbb9","toSide":"top"},
-		{"id":"23df399741ce4ce1","fromNode":"11cd2b6c8e0cdbb9","fromSide":"bottom","toNode":"c8774ccf0cafa722","toSide":"top"}
+		{"id":"23df399741ce4ce1","fromNode":"11cd2b6c8e0cdbb9","fromSide":"bottom","toNode":"c8774ccf0cafa722","toSide":"top"},
+		{"id":"fb96664415c96ad2","fromNode":"74ebf1a3f2135d20","fromSide":"bottom","toNode":"786011c12e736620","toSide":"top"}
 	]
 }
