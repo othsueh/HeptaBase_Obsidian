@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-07-03.md",
+                "file": "💡Journal/2023-07-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-07-03.md",
+                "file": "💡Journal/2023-07-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-07-03.md",
+                "file": "💡Journal/2023-07-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-07-03.md"
+                "file": "💡Journal/2023-07-02.md"
               }
             }
           },
@@ -156,10 +155,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "45ea0541bc9515b0",
+  "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "💡Journal/2023-07-02.md",
     "💡Journal/2023-07-03.md",
+    "💡Journal/2023-07-02.md",
     "[2023-05-08.md",
     "💡Journal/2023-06-13.md",
     "💡Journal/2023-06-12.md",
