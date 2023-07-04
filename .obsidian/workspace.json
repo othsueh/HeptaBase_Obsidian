@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e6dfbe2f8f379d3e",
+  "active": "45ea0541bc9515b0",
   "lastOpenFiles": [
     "💡Journal/2023-07-03.md",
     "💡Journal/2023-07-03.md",
