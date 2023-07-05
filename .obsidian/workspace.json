@@ -11,14 +11,11 @@
             "id": "7eefe94303516fa7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
-                "viewState": {
-                  "x": 6122.496406250006,
-                  "y": -1448.5323437499992,
-                  "zoom": 0
-                }
+                "file": "💡Journal/2023-07-05.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "💡Journal/2023-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "💡Journal/2023-07-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "💡Journal/2023-07-05.md"
               }
             }
           },
@@ -161,10 +157,13 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
+    "🥏Permanent Note/JS Learned.md",
+    "💡Journal/2023-07-05.md",
+    "Untitled.canvas",
+    "🌎Maps/JS Learning.canvas",
     "💡Journal/2023-07-03.md",
     "💡Journal/2023-07-02.md",
     "conflict-files-obsidian-git.md",
-    "🌎Maps/JS Learning.canvas",
     "💡Journal/2023-06-13.md",
     "💡Journal/2023-06-12.md",
     "🌎Maps/管理概論.canvas",
@@ -191,7 +190,6 @@
     "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
     "🥏Permanent Note/Question About the World.md",
-    "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-05-15.md",
     "💡Journal/2023-05-16.md",
     "🌎Maps/技術面.canvas",
@@ -207,7 +205,6 @@
     "Untitled.md",
     "2023-05-15.md",
     "🦄Templates",
-    "測試.canvas",
     "🌎Maps",
     "💡Journal/輸入與輸出.md",
     "💡Fleet note/Untitled.md",
