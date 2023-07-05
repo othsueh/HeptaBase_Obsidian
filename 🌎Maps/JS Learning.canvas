@@ -70,7 +70,9 @@
 		{"type":"text","text":"# Intl.DateTimeFormat()\n>Let the time be internationalize.\n\n`Intl.DateTimeFormat(locale,options).format(date)`\n`locale` : the location\n`options` : the format of the time, ex day, month...\n`date` : the date variable\n```js\n  const date = new Date();\n  const options = {\n    hour:'2-digit',\n    minute:'numeric',\n    day:'2-digit',\n    month:'short',\n    year:'numeric',\n    weekday:'short',\n    hour12: 'false'\n  }\n  console.log(new Intl.DateTimeFormat('zh-TW',options).format(date);\n```","id":"c8774ccf0cafa722","x":4920,"y":-2285,"width":900,"height":514},
 		{"type":"text","text":"# Intl.NumberFormat\n>Let the number become Internationalized with specific options.\n\nThe basic syntax is like `Intl.DateTimeFormat()` , but with more options to choose.\n\n```js\nconsole.log(navigator.language,new Intl.NumberFormat(navigator.language).format(numb))\n//en-US 2,345,678\n\nconst options = {\n  style: 'currency',\n  unit: 'celsius',\n  currency: 'TWD'\n}\nconsole.log(navigator.language,new Intl.NumberFormat(navigator.language,options).format(numb))\n//en-US NT$2,345,678.00\n\nconsole.log('Germany',new Intl.NumberFormat('de-DE',options).format(numb))\n//Germany 2.345.678,00 NT$\n```","id":"786011c12e736620","x":6018,"y":-1294,"width":662,"height":571},
 		{"id":"609376299ee8555b","x":4021,"y":-3609,"width":439,"height":106,"type":"text","text":"# time\n>Do you know that, JS can handling the time!"},
-		{"id":"9f74de4734a28cf8","x":4058,"y":-3420,"width":366,"height":186,"type":"text","text":"# setTimeOut()\n>Set the time to launch the function.\n\n`setTimeOut(function(),time)` =>\n`time` : the unit is msecond\n\n\n"}
+		{"id":"9f74de4734a28cf8","x":3910,"y":-3440,"width":662,"height":340,"type":"text","text":"# setTimeout()\n>Set the time to launch the function.\n\n`setTimeOut(function(),time)` =>\n`time` : the unit is msecond\n\n```js\nconst name = ['Jonas','Schmedtmann']\nconst pizzaSender = setTimeout((one,two)=>console.log(`Hey ${one} ${two}, Here is your pizza🍕`),3000,...name)\n//waiting for 3 seconds\n//Hey Jonas Schmedtmann, Here is your pizza🍕\n```\n\n\n"},
+		{"id":"23c5841ac4ee6d05","x":4671,"y":-3307,"width":429,"height":106,"type":"text","text":"# clearTimeout()\n>clear the timeout function"},
+		{"id":"0360b238ffd0deec","x":4122,"y":-2974,"width":458,"height":44,"type":"text","text":"# setInterval()\n>use loop-like timer to implement "}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -118,6 +120,8 @@
 		{"id":"e1a22a67bbccc32b","fromNode":"7a75af8fedff3f3c","fromSide":"bottom","toNode":"11cd2b6c8e0cdbb9","toSide":"top"},
 		{"id":"23df399741ce4ce1","fromNode":"11cd2b6c8e0cdbb9","fromSide":"bottom","toNode":"c8774ccf0cafa722","toSide":"top"},
 		{"id":"fb96664415c96ad2","fromNode":"74ebf1a3f2135d20","fromSide":"bottom","toNode":"786011c12e736620","toSide":"top"},
-		{"id":"3c8ca770e574ec4e","fromNode":"609376299ee8555b","fromSide":"bottom","toNode":"9f74de4734a28cf8","toSide":"top"}
+		{"id":"3c8ca770e574ec4e","fromNode":"609376299ee8555b","fromSide":"bottom","toNode":"9f74de4734a28cf8","toSide":"top"},
+		{"id":"988db273cbb03351","fromNode":"9f74de4734a28cf8","fromSide":"right","toNode":"23c5841ac4ee6d05","toSide":"left"},
+		{"id":"c167241321af3b7e","fromNode":"9f74de4734a28cf8","fromSide":"bottom","toNode":"0360b238ffd0deec","toSide":"top"}
 	]
 }
