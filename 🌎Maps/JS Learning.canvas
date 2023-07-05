@@ -72,7 +72,7 @@
 		{"id":"609376299ee8555b","x":4021,"y":-3609,"width":439,"height":106,"type":"text","text":"# time\n>Do you know that, JS can handling the time!"},
 		{"id":"9f74de4734a28cf8","x":3910,"y":-3440,"width":662,"height":340,"type":"text","text":"# setTimeout()\n>Set the time to launch the function.\n\n`setTimeOut(function(),time)` =>\n`time` : the unit is msecond\n\n```js\nconst name = ['Jonas','Schmedtmann']\nconst pizzaSender = setTimeout((one,two)=>console.log(`Hey ${one} ${two}, Here is your pizza🍕`),3000,...name)\n//waiting for 3 seconds\n//Hey Jonas Schmedtmann, Here is your pizza🍕\n```\n\n\n"},
 		{"id":"23c5841ac4ee6d05","x":4671,"y":-3307,"width":429,"height":106,"type":"text","text":"# clearTimeout()\n>clear the timeout function"},
-		{"id":"0360b238ffd0deec","x":4122,"y":-2974,"width":458,"height":44,"type":"text","text":"# setInterval()\n>use loop-like timer to implement "}
+		{"id":"0360b238ffd0deec","x":3931,"y":-2980,"width":620,"height":339,"type":"text","text":"# setInterval()\n>use loop-like timer to implement the function.\n\n```js\nsetInterval(function(){\n  const now = new Date();\n  const hour = now.getHours();\n  const minute = now.getMinutes();\n  const second = now.getSeconds();\n  console.log(`${hour}:${minute}:${second}`)\n},3000)\n//19:30:45\n```\n"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
