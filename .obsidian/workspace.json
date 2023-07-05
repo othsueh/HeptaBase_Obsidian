@@ -137,13 +137,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +153,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "481d1e5770fba5d4",
   "lastOpenFiles": [
     "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-07-05.md",
