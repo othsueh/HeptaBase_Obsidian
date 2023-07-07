@@ -11,14 +11,11 @@
             "id": "7eefe94303516fa7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
-                "viewState": {
-                  "x": 2729.2826893298543,
-                  "y": 3336.844760009066,
-                  "zoom": -0.5
-                }
+                "file": "💡Journal/2023-07-03.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "💡Journal/2023-07-03.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "💡Journal/2023-07-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "💡Journal/2023-07-03.md"
               }
             }
           },
@@ -141,7 +137,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -158,17 +155,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "e6dfbe2f8f379d3e",
   "lastOpenFiles": [
     "💡Journal/2023-07-05.md",
-    "🥏Permanent Note/JS Learned.md",
     "Untitled.canvas",
-    "🌎Maps/JS Learning.canvas",
+    "💡Journal/2023-07-03.md",
     "💡Journal/2023-07-03.md",
     "💡Journal/2023-07-02.md",
-    "conflict-files-obsidian-git.md",
+    "[2023-05-08.md",
     "💡Journal/2023-06-13.md",
     "💡Journal/2023-06-12.md",
+    "💡Journal/2023-05-27.md",
+    "💡Journal/2023-05-26.md",
+    "💡Journal/2023-05-24.md",
+    "💡Journal/2023-05-20.md",
+    "💡Journal/2023-05-16.md",
+    "💡Journal/2023-05-15.md",
+    "🌎Maps/JS Learning.canvas",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
@@ -183,18 +187,13 @@
     "📱Media Collected/Pasted image 20230531005659.png",
     "📱Media Collected/Pasted image 20230530092121.png",
     "📱Media Collected/Pasted image 20230526042123.png",
-    "💡Journal/2023-05-27.md",
-    "💡Journal/2023-05-26.md",
-    "💡Journal/2023-05-24.md",
     "📱Media Collected/Pasted image 20230523162333.png",
     "📱Media Collected/Pasted image 20230522160107.png",
     "📱Media Collected/Pasted image 20230522160058.png",
     "🥏Permanent Note/Discrete Mathmatics.md",
-    "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
     "🥏Permanent Note/Question About the World.md",
-    "💡Journal/2023-05-15.md",
-    "💡Journal/2023-05-16.md",
+    "🥏Permanent Note/JS Learned.md",
     "🌎Maps/技術面.canvas",
     "🌎Maps/Multi Calculus.canvas",
     "Permanent Note/Multi Calculus.md",
@@ -210,7 +209,6 @@
     "🦄Templates",
     "🌎Maps",
     "💡Journal/輸入與輸出.md",
-    "💡Fleet note/Untitled.md",
     "🥏Permanent note",
     "💻Literature note"
   ]
