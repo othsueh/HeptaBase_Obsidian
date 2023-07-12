@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/DS.canvas",
+                "file": "🌎Maps/2023 Summer Training.canvas",
                 "viewState": {
-                  "x": 1224.5214185632547,
-                  "y": 1262.3185268976756,
-                  "zoom": -1.4448882776235652
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/DS.canvas",
+                "file": "🌎Maps/2023 Summer Training.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/DS.canvas",
+                "file": "🌎Maps/2023 Summer Training.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/DS.canvas"
+                "file": "🌎Maps/2023 Summer Training.canvas"
               }
             }
           },
@@ -159,8 +159,9 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/DS.canvas",
+    "🌎Maps/2023 Summer Training.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal/2023-07-12.md",
     "💡Journal/2023-07-07.md",
     "💡Journal/2023-07-05.md",
