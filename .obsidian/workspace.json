@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-07-07.md",
+                "file": "💡Journal/2023-07-12.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-07-07.md",
+                "file": "💡Journal/2023-07-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-07-07.md",
+                "file": "💡Journal/2023-07-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-07-07.md"
+                "file": "💡Journal/2023-07-12.md"
               }
             }
           },
@@ -156,8 +156,9 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "💡Journal/2023-07-05.md",
     "💡Journal/2023-07-07.md",
+    "💡Journal/2023-07-12.md",
+    "💡Journal/2023-07-05.md",
     "💡Journal/2023-07-03.md",
     "Untitled.canvas",
     "💡Journal/2023-07-02.md",
@@ -207,7 +208,6 @@
     "2023-05-15.md",
     "🦄Templates",
     "🌎Maps",
-    "💡Journal/輸入與輸出.md",
     "🥏Permanent note",
     "💻Literature note"
   ]
