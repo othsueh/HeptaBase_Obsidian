@@ -11,11 +11,14 @@
             "id": "7eefe94303516fa7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "💡Journal/2023-07-12.md",
-                "mode": "source",
-                "source": false
+                "file": "🌎Maps/DS.canvas",
+                "viewState": {
+                  "x": -142.64990041705477,
+                  "y": 286.6898011756603,
+                  "zoom": 0.5551117223764348
+                }
               }
             }
           }
@@ -69,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -85,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-07-12.md",
+                "file": "🌎Maps/DS.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-07-12.md",
+                "file": "🌎Maps/DS.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-07-12.md"
+                "file": "🌎Maps/DS.canvas"
               }
             }
           },
@@ -156,8 +160,10 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "💡Journal/2023-07-07.md",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🌎Maps/DS.canvas",
     "💡Journal/2023-07-12.md",
+    "💡Journal/2023-07-07.md",
     "💡Journal/2023-07-05.md",
     "💡Journal/2023-07-03.md",
     "Untitled.canvas",
@@ -174,8 +180,6 @@
     "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
-    "🌎Maps/DS.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/古典音樂.canvas",
     "🥏Permanent Note/管理概論.md",
@@ -205,7 +209,6 @@
     "[Question About the World.md",
     "🥏Permanent Note",
     "Untitled.md",
-    "2023-05-15.md",
     "🦄Templates",
     "🌎Maps",
     "🥏Permanent note",
