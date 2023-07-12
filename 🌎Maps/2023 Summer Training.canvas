@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"69b82c797f11bf72","x":-360,"y":-180,"width":465,"height":386,"type":"text","text":"# deque\nlibrary : <deque>\n\n`deque<type> va` : create an empty deque of `type`\n`front()` : get the first element of the deque\n`back()` : get the last element of the deque\n`pop_back()` : remove the last element\n`push_back()` : add an element behind last element\n`at(pos)` : get the element at the `pos` position\n`insert(pos,va)` : insert `va` at the `pos` position\n`erase(pos)` :  remove element at the `pos` position\n`begin()` : get the first element's memory locate, often used with `end()` in a loop\n`empty()` : return if the deque is empty\n\n"}
+		{"id":"fbd143e177d54c42","x":-297,"y":113,"width":250,"height":60,"type":"text","text":"# stack\n"},
+		{"id":"69b82c797f11bf72","x":-600,"y":-440,"width":465,"height":434,"type":"text","text":"# deque\nlibrary : `<deque>`\n\n`deque<type> va` : create an empty deque of `type`\n`front()` : get the first element of the deque\n`back()` : get the last element of the deque\n`pop_back()` : remove the last element\n`push_back()` : add an element behind last element\n`at(pos)` : get the element at the `pos` position\n`insert(pos,va)` : insert `va` at the `pos` position\n`erase(pos)` :  remove element at the `pos` position\n`begin()` : get the first element's memory locate, often used with `end()` in a loop\n`empty()` : return if the deque is empty\n`clear()` : clean the deque until it's empty\n"}
 	],
 	"edges":[]
 }
