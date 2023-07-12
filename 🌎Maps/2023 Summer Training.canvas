@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"69b82c797f11bf72","x":-125,"y":-30,"width":465,"height":210,"type":"text","text":"# deque\nlibrary : <deque>\n\n`deque<type> va` : create an empty deque of type  "}
+		{"id":"69b82c797f11bf72","x":-125,"y":-30,"width":465,"height":210,"type":"text","text":"# deque\nlibrary : <deque>\n\n`deque<type> va` : create an empty deque of `type`\n`.front()` : get the first element of the deque\n`.back()` : get the last element of the deque\n`.pop_back()` : remove the last element\n`.push_back()` : add an element behind last element\n`at(pos)` : get the element of the `pos`  \n"}
 	],
 	"edges":[]
 }
