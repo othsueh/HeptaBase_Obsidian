@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-07-07.md",
-                "mode": "preview",
+                "file": "💡Journal/2023-07-14.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-07-07.md",
+                "file": "💡Journal/2023-07-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-07-07.md",
+                "file": "💡Journal/2023-07-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-07-07.md"
+                "file": "💡Journal/2023-07-14.md"
               }
             }
           },
@@ -156,11 +156,11 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
+    "💡Journal/2023-07-12.md",
+    "💡Journal/2023-07-07.md",
     "🌎Maps/2023 Summer Training.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
-    "💡Journal/2023-07-12.md",
-    "💡Journal/2023-07-07.md",
     "💡Journal/2023-07-05.md",
     "💡Journal/2023-07-03.md",
     "Untitled.canvas",
