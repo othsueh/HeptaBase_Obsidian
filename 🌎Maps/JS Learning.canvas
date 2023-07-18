@@ -73,7 +73,8 @@
 		{"type":"text","text":"# clearTimeout()\n>clear the timeout function","id":"23c5841ac4ee6d05","x":4671,"y":-3307,"width":429,"height":106},
 		{"type":"text","text":"# setInterval()\n>use loop-like timer to implement the function.\n\n```js\nsetInterval(function(){\n  const now = new Date();\n  const hour = now.getHours();\n  const minute = now.getMinutes();\n  const second = now.getSeconds();\n  console.log(`${hour}:${minute}:${second}`)\n},3000)\n//19:30:45\n```\n","id":"0360b238ffd0deec","x":3931,"y":-2980,"width":620,"height":339},
 		{"id":"c62bbdf606b3affe","x":7319,"y":618,"width":601,"height":637,"type":"text","text":"# DOM \n>Document Object Model\n\n A programming interface for web docs, representing the structure of an HTML or XML as tree like model.\n - The DOM represents an HTML or XML document as a hierarchical structure of nodes. Each element, attribute, and text within the document is represented as a node in the tree-like structure.\n - The DOM organizes the nodes in a tree-like structure, with the document node being the root. The document node has child nodes representing elements, text nodes, comments, etc.\n ![[Pasted image 20230718081939.png]]"},
-		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":-11360,"y":-5200,"width":11120,"height":13120}
+		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":-11360,"y":-5200,"width":11120,"height":13120},
+		{"id":"792fe169dc7cc19d","x":7405,"y":1380,"width":429,"height":164,"type":"text","text":"# List all element\n\n```js\nconsole.log(document.documentElement);\nconsole.log(document.head);\nconsole.log(document.body);\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -123,6 +124,7 @@
 		{"id":"fb96664415c96ad2","fromNode":"74ebf1a3f2135d20","fromSide":"bottom","toNode":"786011c12e736620","toSide":"top"},
 		{"id":"3c8ca770e574ec4e","fromNode":"609376299ee8555b","fromSide":"bottom","toNode":"9f74de4734a28cf8","toSide":"top"},
 		{"id":"988db273cbb03351","fromNode":"9f74de4734a28cf8","fromSide":"right","toNode":"23c5841ac4ee6d05","toSide":"left"},
-		{"id":"c167241321af3b7e","fromNode":"9f74de4734a28cf8","fromSide":"bottom","toNode":"0360b238ffd0deec","toSide":"top"}
+		{"id":"c167241321af3b7e","fromNode":"9f74de4734a28cf8","fromSide":"bottom","toNode":"0360b238ffd0deec","toSide":"top"},
+		{"id":"bba45d791996a3f0","fromNode":"c62bbdf606b3affe","fromSide":"bottom","toNode":"792fe169dc7cc19d","toSide":"top"}
 	]
 }
