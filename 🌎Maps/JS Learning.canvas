@@ -77,7 +77,8 @@
 		{"type":"text","text":"# List all element\n\n```js\nconsole.log(document.documentElement);\nconsole.log(document.head);\nconsole.log(document.body);\n```","id":"792fe169dc7cc19d","x":7405,"y":1380,"width":429,"height":213},
 		{"type":"text","text":"# Two way to access the element\n## `getElements` **From HTML**\n\nretrieve elements by class name, tag name, or name attribute and return live HTML collections \n\n## `querySelector` **From CSS**\nuse CSS selectors to retrieve elements and return either the first matching element or a static NodeList. \n\n![[Pasted image 20230718083520.png]] First : getElements, Second: querySelec","id":"6f12ab375bff5c20","x":7299,"y":1620,"width":642,"height":473},
 		{"type":"text","text":"# querySelector\n> There are only 2 ways to get element\n\n`querySelector` : return the first element that fulfilled the property\n`querySelectorAll` : return all elements that fulfilled the properties\n","id":"3093eb725d18e951","x":8290,"y":1840,"width":580,"height":276},
-		{"type":"text","text":"# getElements method\n> There are 4 ways to access the element. \n\n`getElementById` : access element based on id\n`getElementByClassName`: access element based on class\n`getElementByTagName`: access element based on tag\n`getElementByName` : access element with specific name attribute","id":"9500dfd5eec781f9","x":8320,"y":1462,"width":520,"height":276}
+		{"type":"text","text":"# getElements method\n> There are 4 ways to access the element. \n\n`getElementById` : access element based on id\n`getElementByClassName`: access element based on class\n`getElementByTagName`: access element based on tag\n`getElementByName` : access element with specific name attribute","id":"9500dfd5eec781f9","x":8320,"y":1462,"width":520,"height":330},
+		{"id":"0cea1e1e13912041","x":7504,"y":2217,"width":250,"height":60,"type":"text","text":"# Create element"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -131,6 +132,7 @@
 		{"id":"bba45d791996a3f0","fromNode":"c62bbdf606b3affe","fromSide":"bottom","toNode":"792fe169dc7cc19d","toSide":"top"},
 		{"id":"fca6d14973862b7b","fromNode":"792fe169dc7cc19d","fromSide":"bottom","toNode":"6f12ab375bff5c20","toSide":"top"},
 		{"id":"65a6c152a19ec8f2","fromNode":"6f12ab375bff5c20","fromSide":"right","toNode":"9500dfd5eec781f9","toSide":"left"},
-		{"id":"5891a754d26279cb","fromNode":"6f12ab375bff5c20","fromSide":"right","toNode":"3093eb725d18e951","toSide":"left"}
+		{"id":"5891a754d26279cb","fromNode":"6f12ab375bff5c20","fromSide":"right","toNode":"3093eb725d18e951","toSide":"left"},
+		{"id":"d917630e9c8d7a16","fromNode":"6f12ab375bff5c20","fromSide":"bottom","toNode":"0cea1e1e13912041","toSide":"top"}
 	]
 }
