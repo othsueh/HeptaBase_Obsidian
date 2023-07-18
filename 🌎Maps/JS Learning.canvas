@@ -1,6 +1,5 @@
 {
 	"nodes":[
-		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":-360,"y":0,"width":760,"height":1220},
 		{"type":"text","text":"# Type of Function\n> function in JS is actually object","id":"809549061db7c126","x":436,"y":-160,"width":384,"height":106},
 		{"type":"text","text":"# this\n> `this` keyword works depends on how function are called.\n\n**In Function** : undefined \n**In Method** : object\n\n","id":"a884f4db1b953a12","x":480,"y":15,"width":500,"height":216},
 		{"type":"text","text":"# .call()\n> We use `call()` method to give the function a this object\n\n```js\nfunc.call(thisObj,otherParameters);\n```","id":"7c397cc3e8f8735e","x":1080,"y":-190,"width":400,"height":205},
@@ -73,7 +72,8 @@
 		{"type":"text","text":"# setTimeout()\n>Set the time to launch the function.\n\n`setTimeOut(function(),time)` =>\n`time` : the unit is msecond\n\n```js\nconst name = ['Jonas','Schmedtmann']\nconst pizzaSender = setTimeout((one,two)=>console.log(`Hey ${one} ${two}, Here is your pizza🍕`),3000,...name)\n//waiting for 3 seconds\n//Hey Jonas Schmedtmann, Here is your pizza🍕\n```\n\n\n","id":"9f74de4734a28cf8","x":3910,"y":-3440,"width":662,"height":340},
 		{"type":"text","text":"# clearTimeout()\n>clear the timeout function","id":"23c5841ac4ee6d05","x":4671,"y":-3307,"width":429,"height":106},
 		{"type":"text","text":"# setInterval()\n>use loop-like timer to implement the function.\n\n```js\nsetInterval(function(){\n  const now = new Date();\n  const hour = now.getHours();\n  const minute = now.getMinutes();\n  const second = now.getSeconds();\n  console.log(`${hour}:${minute}:${second}`)\n},3000)\n//19:30:45\n```\n","id":"0360b238ffd0deec","x":3931,"y":-2980,"width":620,"height":339},
-		{"id":"c62bbdf606b3affe","x":7319,"y":618,"width":601,"height":362,"type":"text","text":"# DOM \n>Document Object Model\n\n A programming interface for web docs, representing the structure of an HTML or XML as tree like model.\n - The DOM represents an HTML or XML document as a hierarchical structure of nodes. Each element, attribute, and text within the document is represented as a node in the tree-like structure.\n - The DOM organizes the nodes in a tree-like structure, with the document node being the root. The document node has child nodes representing elements, text nodes, comments, etc.\n - ![[Pasted image 20230718081939.png]]"}
+		{"id":"c62bbdf606b3affe","x":7319,"y":618,"width":601,"height":637,"type":"text","text":"# DOM \n>Document Object Model\n\n A programming interface for web docs, representing the structure of an HTML or XML as tree like model.\n - The DOM represents an HTML or XML document as a hierarchical structure of nodes. Each element, attribute, and text within the document is represented as a node in the tree-like structure.\n - The DOM organizes the nodes in a tree-like structure, with the document node being the root. The document node has child nodes representing elements, text nodes, comments, etc.\n ![[Pasted image 20230718081939.png]]"},
+		{"type":"file","file":"🥏Permanent Note/JS Learned.md","id":"6a631266d9ac36ec","x":-11360,"y":-5200,"width":11120,"height":13120}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
