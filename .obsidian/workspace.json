@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/2023 Summer Training.canvas",
                 "viewState": {
-                  "x": 8185.5,
-                  "y": 1734.1999999999998,
-                  "zoom": 0
+                  "x": -101.5,
+                  "y": -223,
+                  "zoom": -0.0009211351876041463
                 }
               }
             }
@@ -88,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/2023 Summer Training.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/2023 Summer Training.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "🌎Maps/2023 Summer Training.canvas"
               }
             }
           },
@@ -145,7 +145,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +160,14 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
+    "🌎Maps/DS.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🌎Maps/JS Learning.canvas",
     "📱Media Collected/Pasted image 20230718083520.png",
     "📱Media Collected/Pasted image 20230718081939.png",
     "🌎Maps/2023 Summer Training.canvas",
     "💡Journal/2023-07-17.md",
     "💡Journal/2023-07-14.md",
-    "🌎Maps/DS.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal/2023-07-12.md",
     "💡Journal/2023-07-07.md",
     "💡Journal/2023-07-05.md",
@@ -181,7 +183,6 @@
     "💡Journal/2023-05-20.md",
     "💡Journal/2023-05-16.md",
     "💡Journal/2023-05-15.md",
-    "🌎Maps/JS Learning.canvas",
     "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/質疑這個世界.canvas",
@@ -196,7 +197,6 @@
     "📱Media Collected/Pasted image 20230530092121.png",
     "📱Media Collected/Pasted image 20230526042123.png",
     "📱Media Collected/Pasted image 20230523162333.png",
-    "📱Media Collected/Pasted image 20230522160107.png",
     "🥏Permanent Note/Discrete Mathmatics.md",
     "🥏Permanent Note/技術分析.md",
     "🥏Permanent Note/Question About the World.md",
