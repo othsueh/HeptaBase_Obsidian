@@ -79,7 +79,7 @@
 		{"type":"text","text":"# querySelector\n> There are only 2 ways to get element\n\n`querySelector` : return the first element that fulfilled the property\n`querySelectorAll` : return all elements that fulfilled the properties\n","id":"3093eb725d18e951","x":8290,"y":1840,"width":580,"height":276},
 		{"type":"text","text":"# getElements method\n> There are 4 ways to access the element. \n\n`getElementById` : access element based on id\n`getElementByClassName`: access element based on class\n`getElementByTagName`: access element based on tag\n`getElementByName` : access element with specific name attribute","id":"9500dfd5eec781f9","x":8320,"y":1462,"width":520,"height":330},
 		{"id":"0cea1e1e13912041","x":7382,"y":2180,"width":476,"height":209,"type":"text","text":"# Create element\n`document.createElement(tag)` : the tag means the html tag. \nwhen it created, it will be stored in the live html collections"},
-		{"id":"9bf366b6b7e52f0b","x":7374,"y":2460,"width":491,"height":66,"type":"text","text":"# Delete element\n`.remove()` : means we remove the "}
+		{"id":"9bf366b6b7e52f0b","x":7319,"y":2440,"width":606,"height":343,"type":"text","text":"# Delete element\n`.remove()` : means we remove the element.\nIt's often used in event listener.\n```js\ndocument.querySelector('.btn--close-cookie').\naddEventListener('click',function(){\n  message.remove();//new method\n  message.parentElement.removeChild(message);//old method\n})\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
