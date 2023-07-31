@@ -102,7 +102,8 @@
 		{"type":"text","text":"# Declare new object\n```js\nconst jonas = new Person('jonas',1991);\nconsole.log(jonas);\n//Person {firstName: 'jonas', year: 1991}\nconsole.log(jonas instanceof Person);\n//true\n```","id":"b634d0e1d4850397","x":8377,"y":-3340,"width":446,"height":293},
 		{"id":"d48e321c144db017","x":7798,"y":-3020,"width":502,"height":627,"type":"text","text":"# Relationship of prototype and object\n![[Pasted image 20230731193049.png]]"},
 		{"id":"a15873e6589d9022","x":8447,"y":-3020,"width":559,"height":201,"type":"text","text":"# prototype of an object\n> We declare the jonas object by person constructor.\n```js\nconsole.log(jonas.__proto__ === Person.prototype);\n```"},
-		{"id":"f94ade79d4da9795","x":8447,"y":-2780,"width":559,"height":392,"type":"text","text":"# object have access to the prototype\n> since object inherit from prototype, then object has access to prototype's property. \n\n**prototype is also an object!**\n```js\nPerson.prototype.calcAge = function(){\n    console.log(2037 - this.year);\n};\njonas.calcAge();\\\\47\n```"}
+		{"id":"f94ade79d4da9795","x":8447,"y":-2780,"width":559,"height":392,"type":"text","text":"# object have access to the prototype\n> since object inherit from prototype, then object has access to prototype's property. \n\n**prototype is also an object!**\n```js\nPerson.prototype.calcAge = function(){\n    console.log(2037 - this.year);\n};\njonas.calcAge();\\\\47\n```"},
+		{"id":"70936195333df7f5","x":8449,"y":-2326,"width":571,"height":226,"type":"text","text":"# Property belongs to whom?\n> Although \n"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -180,6 +181,7 @@
 		{"id":"96a89ed050f4fdeb","fromNode":"2ad6c63d80161522","fromSide":"right","toNode":"b634d0e1d4850397","toSide":"left"},
 		{"id":"5cc32a4b129450bf","fromNode":"2ad6c63d80161522","fromSide":"bottom","toNode":"d48e321c144db017","toSide":"top"},
 		{"id":"3808d7dd0a096408","fromNode":"d48e321c144db017","fromSide":"right","toNode":"a15873e6589d9022","toSide":"left"},
-		{"id":"c62c019c61eaddee","fromNode":"d48e321c144db017","fromSide":"right","toNode":"f94ade79d4da9795","toSide":"left"}
+		{"id":"c62c019c61eaddee","fromNode":"d48e321c144db017","fromSide":"right","toNode":"f94ade79d4da9795","toSide":"left"},
+		{"id":"82184927acc6da79","fromNode":"d48e321c144db017","fromSide":"right","toNode":"70936195333df7f5","toSide":"left"}
 	]
 }
