@@ -103,7 +103,7 @@
 		{"id":"d48e321c144db017","x":7798,"y":-3020,"width":502,"height":627,"type":"text","text":"# Relationship of prototype and object\n![[Pasted image 20230731193049.png]]"},
 		{"id":"a15873e6589d9022","x":8447,"y":-3020,"width":559,"height":201,"type":"text","text":"# prototype of an object\n> We declare the jonas object by person constructor.\n```js\nconsole.log(jonas.__proto__ === Person.prototype);\n```"},
 		{"id":"f94ade79d4da9795","x":8447,"y":-2780,"width":559,"height":392,"type":"text","text":"# object have access to the prototype\n> since object inherit from prototype, then object has access to prototype's property. \n\n**prototype is also an object!**\n```js\nPerson.prototype.calcAge = function(){\n    console.log(2037 - this.year);\n};\njonas.calcAge();\\\\47\n```"},
-		{"id":"70936195333df7f5","x":8449,"y":-2326,"width":571,"height":226,"type":"text","text":"# Property belongs to whom?\n> Although \n"}
+		{"id":"70936195333df7f5","x":8449,"y":-2326,"width":611,"height":282,"type":"text","text":"# Property belongs to whom?\n> Although object can access prototype property, but they still have their own scope.\n\n```js\nconsole.log(jonas.hasOwnProperty('firstName'));\nconsole.log(jonas.hasOwnProperty('species')); //have access to the prototype, not own it\n```\n"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
