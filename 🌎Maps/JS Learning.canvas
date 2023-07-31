@@ -104,7 +104,8 @@
 		{"id":"a15873e6589d9022","x":9000,"y":-3129,"width":559,"height":201,"type":"text","text":"# prototype of an object\n> We declare the jonas object by person constructor.\n```js\nconsole.log(jonas.__proto__ === Person.prototype);\n```"},
 		{"id":"f94ade79d4da9795","x":9000,"y":-2894,"width":559,"height":392,"type":"text","text":"# object have access to the prototype\n> since object inherit from prototype, then object has access to prototype's property. \n\n**prototype is also an object!**\n```js\nPerson.prototype.calcAge = function(){\n    console.log(2037 - this.year);\n};\njonas.calcAge();\\\\47\n```"},
 		{"id":"70936195333df7f5","x":9002,"y":-2489,"width":557,"height":329,"type":"text","text":"# Property belongs to whom?\n> Although object can access prototype property, but they still have their own scope.\n\n```js\nconsole.log(jonas.hasOwnProperty('firstName')); //true\nconsole.log(jonas.hasOwnProperty('species'));\n//false\n//have access to the prototype, not own it\n```\n"},
-		{"id":"dd6598e63cbb67f3","x":9000,"y":-2109,"width":563,"height":262,"type":"text","text":"# top of the prototype chain\n> How can `jonas` use `hasOwnProperty` method?\n\n**Top of the prototype chain** : object.prototype\n\n```js\nconsole.log(jonas.__proto__.__proto__);\n```"}
+		{"id":"dd6598e63cbb67f3","x":9000,"y":-2109,"width":563,"height":262,"type":"text","text":"# top of the prototype chain\n> How can `jonas` use `hasOwnProperty` method?\n\n**Top of the prototype chain** : object.prototype\n\n```js\nconsole.log(jonas.__proto__.__proto__);\n```"},
+		{"id":"beab42ae5549a7f5","x":8159,"y":-2234,"width":503,"height":149,"type":"text","text":"# prototype of function\n> we can use `console.dir()` to get the origin of the object.\n\n```js\ncons\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -184,6 +185,7 @@
 		{"id":"3808d7dd0a096408","fromNode":"d48e321c144db017","fromSide":"right","toNode":"a15873e6589d9022","toSide":"left"},
 		{"id":"c62c019c61eaddee","fromNode":"d48e321c144db017","fromSide":"right","toNode":"f94ade79d4da9795","toSide":"left"},
 		{"id":"82184927acc6da79","fromNode":"d48e321c144db017","fromSide":"right","toNode":"70936195333df7f5","toSide":"left"},
-		{"id":"5a371d7eb0682e23","fromNode":"d48e321c144db017","fromSide":"right","toNode":"dd6598e63cbb67f3","toSide":"left"}
+		{"id":"5a371d7eb0682e23","fromNode":"d48e321c144db017","fromSide":"right","toNode":"dd6598e63cbb67f3","toSide":"left"},
+		{"id":"d9164617f8fc8991","fromNode":"d48e321c144db017","fromSide":"bottom","toNode":"beab42ae5549a7f5","toSide":"top"}
 	]
 }
