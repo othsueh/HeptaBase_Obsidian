@@ -99,7 +99,8 @@
 		{"type":"text","text":"# OOP in JS\n>Object Oriented Programming.","id":"308144b992a95890","x":7860,"y":-3800,"width":388,"height":109},
 		{"type":"text","text":"# constructor\n> constructor is the blueprint.\n\n```js\nconst Person = function(firstName, year){\n    this.firstName = firstName;\n    this.year = year;\n}\n```","id":"2ad6c63d80161522","x":7834,"y":-3520,"width":441,"height":301},
 		{"type":"text","text":"# steps\n1. New `{}` is created.\n2. function is called, this = `{}`\n3. `{}` linked to prototype\n4. function automatically return `{}`","id":"6f086d7aab2e7376","x":8380,"y":-3560,"width":362,"height":198},
-		{"type":"text","text":"# Declare new object\n```js\nconst jonas = new Person('jonas',1991);\nconsole.log(jonas);\n//Person {firstName: 'jonas', year: 1991}\nconsole.log(jonas instanceof Person);\n//true\n```","id":"b634d0e1d4850397","x":8377,"y":-3340,"width":446,"height":293}
+		{"type":"text","text":"# Declare new object\n```js\nconst jonas = new Person('jonas',1991);\nconsole.log(jonas);\n//Person {firstName: 'jonas', year: 1991}\nconsole.log(jonas instanceof Person);\n//true\n```","id":"b634d0e1d4850397","x":8377,"y":-3340,"width":446,"height":293},
+		{"id":"d48e321c144db017","x":7798,"y":-3020,"width":513,"height":627,"type":"text","text":"# Relationship of prototype and object\n![[Pasted image 20230731193049.png]]"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -174,6 +175,7 @@
 		{"id":"e7d398d41b3055d4","fromNode":"308144b992a95890","fromSide":"right","toNode":"6e65fadc91d377ab","toSide":"left"},
 		{"id":"ea8aadfeb3b69b8d","fromNode":"308144b992a95890","fromSide":"bottom","toNode":"2ad6c63d80161522","toSide":"top"},
 		{"id":"9b9971aea3a0a365","fromNode":"2ad6c63d80161522","fromSide":"right","toNode":"6f086d7aab2e7376","toSide":"left"},
-		{"id":"96a89ed050f4fdeb","fromNode":"2ad6c63d80161522","fromSide":"right","toNode":"b634d0e1d4850397","toSide":"left"}
+		{"id":"96a89ed050f4fdeb","fromNode":"2ad6c63d80161522","fromSide":"right","toNode":"b634d0e1d4850397","toSide":"left"},
+		{"id":"5cc32a4b129450bf","fromNode":"2ad6c63d80161522","fromSide":"bottom","toNode":"d48e321c144db017","toSide":"top"}
 	]
 }
