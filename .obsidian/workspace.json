@@ -15,10 +15,22 @@
               "state": {
                 "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 3653.758072528791,
-                  "y": 3336.844760009066,
-                  "zoom": -0.5
+                  "x": 8247.034374999994,
+                  "y": 4621.277500000001,
+                  "zoom": -1.5
                 }
+              }
+            }
+          },
+          {
+            "id": "980f985350ebcce1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -141,12 +152,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,15 +169,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "45ea0541bc9515b0",
   "lastOpenFiles": [
-    "💡Journal/2023-07-05.md",
-    "🥏Permanent Note/JS Learned.md",
+    "conflict-files-obsidian-git.md",
     "Untitled.canvas",
     "🌎Maps/JS Learning.canvas",
+    "📱Media Collected/Pasted image 20230726083710.png",
+    "📱Media Collected/Pasted image 20230718083520.png",
+    "📱Media Collected/Pasted image 20230718081939.png",
+    "💡Journal/2023-07-28.md",
+    "💡Journal/2023-07-17.md",
+    "💡Journal/2023-07-14.md",
+    "💡Journal/2023-07-12.md",
+    "💡Journal/2023-07-07.md",
+    "🌎Maps/2023 Summer Training.canvas",
+    "💡Journal/2023-07-05.md",
+    "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-07-03.md",
     "💡Journal/2023-07-02.md",
-    "conflict-files-obsidian-git.md",
     "💡Journal/2023-06-13.md",
     "💡Journal/2023-06-12.md",
     "🌎Maps/管理概論.canvas",
@@ -186,9 +206,6 @@
     "💡Journal/2023-05-27.md",
     "💡Journal/2023-05-26.md",
     "💡Journal/2023-05-24.md",
-    "📱Media Collected/Pasted image 20230523162333.png",
-    "📱Media Collected/Pasted image 20230522160107.png",
-    "📱Media Collected/Pasted image 20230522160058.png",
     "🥏Permanent Note/Discrete Mathmatics.md",
     "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
@@ -200,17 +217,11 @@
     "Permanent Note/Multi Calculus.md",
     "Permanent Note",
     "📱Media Collected",
-    "🗺️Map.canvas",
     "🦄Templates/01 - Journal.md",
     "💡Journal",
-    "[Question About the World.md",
     "🥏Permanent Note",
-    "Untitled.md",
-    "2023-05-15.md",
     "🦄Templates",
     "🌎Maps",
-    "💡Journal/輸入與輸出.md",
-    "💡Fleet note/Untitled.md",
     "🥏Permanent note",
     "💻Literature note"
   ]
