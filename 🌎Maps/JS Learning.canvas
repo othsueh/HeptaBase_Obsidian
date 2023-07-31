@@ -97,7 +97,9 @@
 		{"type":"text","text":"# List all element\n\n```js\nconsole.log(document.documentElement);\nconsole.log(document.head);\nconsole.log(document.body);\n```","id":"792fe169dc7cc19d","x":7406,"y":1356,"width":429,"height":213},
 		{"id":"6e65fadc91d377ab","x":8340,"y":-3894,"width":520,"height":297,"type":"text","text":"# Difference\n![[Pasted image 20230731121354.png]]"},
 		{"id":"308144b992a95890","x":7860,"y":-3800,"width":388,"height":109,"type":"text","text":"# OOP in JS\n>Object Oriented Programming."},
-		{"id":"2ad6c63d80161522","x":7834,"y":-3520,"width":441,"height":253,"type":"text","text":"# constructor\n> constructor is the blueprint.\n\n```js\nconst Person = function(firstName, year){\n    this.firstName = firstName;\n    this.year = year;\n}\n```"}
+		{"id":"2ad6c63d80161522","x":7834,"y":-3520,"width":441,"height":253,"type":"text","text":"# constructor\n> constructor is the blueprint.\n\n```js\nconst Person = function(firstName, year){\n    this.firstName = firstName;\n    this.year = year;\n}\n```"},
+		{"id":"6f086d7aab2e7376","x":8380,"y":-3560,"width":362,"height":198,"type":"text","text":"# steps\n1. New `{}` is created.\n2. function is called, this = `{}`\n3. `{}` linked to prototype\n4. function automatically return `{}`"},
+		{"id":"b634d0e1d4850397","x":8377,"y":-3340,"width":446,"height":216,"type":"text","text":"# Declare new object\n```js\nconst jonas = new Person('jonas',1991);\nconsole.log(jonas);\n//Person {firstName: 'jonas', year: 1991}\nconsole.log(jonas instanceof Person);\n//true\n```"}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
@@ -170,6 +172,8 @@
 		{"id":"032e761ed476de4b","fromNode":"0e6b0cefe37c8f78","fromSide":"bottom","toNode":"a346679e75d003f7","toSide":"top"},
 		{"id":"6297915ebb1de7b1","fromNode":"a346679e75d003f7","fromSide":"bottom","toNode":"caf7af6a26aafc9c","toSide":"top"},
 		{"id":"e7d398d41b3055d4","fromNode":"308144b992a95890","fromSide":"right","toNode":"6e65fadc91d377ab","toSide":"left"},
-		{"id":"ea8aadfeb3b69b8d","fromNode":"308144b992a95890","fromSide":"bottom","toNode":"2ad6c63d80161522","toSide":"top"}
+		{"id":"ea8aadfeb3b69b8d","fromNode":"308144b992a95890","fromSide":"bottom","toNode":"2ad6c63d80161522","toSide":"top"},
+		{"id":"9b9971aea3a0a365","fromNode":"2ad6c63d80161522","fromSide":"right","toNode":"6f086d7aab2e7376","toSide":"left"},
+		{"id":"96a89ed050f4fdeb","fromNode":"2ad6c63d80161522","fromSide":"right","toNode":"b634d0e1d4850397","toSide":"left"}
 	]
 }
