@@ -15,8 +15,8 @@
               "state": {
                 "file": "🌎Maps/統計學.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
+                  "x": 274.989375,
+                  "y": 96.4875,
                   "zoom": 0
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
