@@ -17,7 +17,7 @@
                 "viewState": {
                   "x": 8357.165812988269,
                   "y": -2260.974164123507,
-                  "zoom": 0
+                  "zoom": -2
                 }
               }
             }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
