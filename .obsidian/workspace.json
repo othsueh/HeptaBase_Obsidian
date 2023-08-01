@@ -11,14 +11,11 @@
             "id": "7eefe94303516fa7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
-                "viewState": {
-                  "x": 274.989375,
-                  "y": 96.4875,
-                  "zoom": -0.5
-                }
+                "file": "💡Journal/2023-07-28.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -72,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -89,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
+                "file": "💡Journal/2023-07-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
+                "file": "💡Journal/2023-07-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/統計學.canvas"
+                "file": "💡Journal/2023-07-28.md"
               }
             }
           },
@@ -146,74 +142,42 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "canvas:建立新畫布": false,
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false
     }
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/統計學.canvas",
+    "💡Journal/2023-06-12.md",
+    "💡Journal/2023-07-17.md",
     "📱Media Collected/Pasted image 20230731193049.png",
     "📱Media Collected/Pasted image 20230731121354.png",
     "📱Media Collected/Pasted image 20230731114914.png",
     "📱Media Collected/Pasted image 20230731114848.png",
     "📱Media Collected/Pasted image 20230731114821.png",
-    "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
+    "🌎Maps/統計學.canvas",
+    "💡Journal/2023-07-28.md",
     "📱Media Collected/Pasted image 20230726083710.png",
     "📱Media Collected/Pasted image 20230718083520.png",
     "📱Media Collected/Pasted image 20230718081939.png",
-    "💡Journal/2023-07-28.md",
-    "💡Journal/2023-07-17.md",
     "💡Journal/2023-07-14.md",
     "💡Journal/2023-07-12.md",
     "💡Journal/2023-07-07.md",
     "🌎Maps/2023 Summer Training.canvas",
-    "💡Journal/2023-07-05.md",
-    "🥏Permanent Note/JS Learned.md",
-    "💡Journal/2023-07-03.md",
-    "💡Journal/2023-07-02.md",
-    "💡Journal/2023-06-13.md",
-    "💡Journal/2023-06-12.md",
-    "🌎Maps/管理概論.canvas",
     "🌎Maps/DS.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
-    "🌎Maps/質疑這個世界.canvas",
-    "🌎Maps/古典音樂.canvas",
-    "🥏Permanent Note/管理概論.md",
-    "🥏Permanent Note/古典音樂.md",
-    "📱Media Collected/Pasted image 20230531154232.png",
-    "📱Media Collected/Pasted image 20230531153632.png",
-    "💡Journal/2023-05-27.md",
-    "💡Journal/2023-05-26.md",
-    "💡Journal/2023-05-24.md",
-    "🥏Permanent Note/Discrete Mathmatics.md",
-    "💡Journal/2023-05-20.md",
-    "🥏Permanent Note/技術分析.md",
-    "🥏Permanent Note/Question About the World.md",
-    "💡Journal/2023-05-15.md",
-    "💡Journal/2023-05-16.md",
-    "🌎Maps/技術面.canvas",
-    "🌎Maps/Multi Calculus.canvas",
-    "Permanent Note/Multi Calculus.md",
-    "Permanent Note",
-    "📱Media Collected",
-    "🦄Templates/01 - Journal.md",
-    "💡Journal",
-    "🥏Permanent Note",
-    "🦄Templates",
-    "🌎Maps",
-    "🥏Permanent note",
-    "💻Literature note"
+    "💡Journal/2023-07-05.md",
+    "💡Journal/2023-07-03.md",
+    "Untitled.canvas",
+    "💡Journal/2023-07-02.md",
+    "[2023-05-08.md"
   ]
 }
