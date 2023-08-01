@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"a0bfa81acc0c6947","x":-165,"y":-166,"width":485,"height":340,"type":"text","text":"# 相對與絕對風險\n## 絕對風險\n指在一個特定條件下，該特殊事件發生的實際機率。\n## 相對風險\n指在兩個不同條件下，同一特殊事件發生的機率比較。通常用於判斷不同方法下增加或減少該事件發生的結果。"},
-		{"id":"47ce143d31a11768","x":424,"y":-28,"width":436,"height":231,"type":"text","text":"# 勝率比\n## 勝率比 != 相對風險\n### A condition\nexp group : 7%\nnormal group : 6%\nrelative risk : 1.1\n"}
+		{"id":"47ce143d31a11768","x":400,"y":-269,"width":436,"height":547,"type":"text","text":"# 勝率比\n## 勝率比 != 相對風險\n### A condition\nexp group : 7%\nnormal group : 6%\nrelative risk : 18%\nabsolute risk: 1%\nodds ratio : (7/93)/(6/94) = 18%\n### B condition\nexp group: 87%\nnormal group : 85%\nrelative risk : 2%\nabsolute risk : 2%\nodds ratio : (87/13)/(85/15) = 18%\n"}
 	],
 	"edges":[
 		{"id":"7d68ddf0b9089c4d","fromNode":"a0bfa81acc0c6947","fromSide":"right","toNode":"47ce143d31a11768","toSide":"left"}
