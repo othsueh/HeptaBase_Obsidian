@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/統計學.canvas",
                 "viewState": {
-                  "x": 8357.165812988269,
-                  "y": -2260.974164123507,
-                  "zoom": -2
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/統計學.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas",
+                "file": "🌎Maps/統計學.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/JS Learning.canvas"
+                "file": "🌎Maps/統計學.canvas"
               }
             }
           },
@@ -161,6 +160,8 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
+    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/統計學.canvas",
     "📱Media Collected/Pasted image 20230731193049.png",
     "📱Media Collected/Pasted image 20230731121354.png",
     "📱Media Collected/Pasted image 20230731114914.png",
@@ -168,7 +169,6 @@
     "📱Media Collected/Pasted image 20230731114821.png",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
-    "🌎Maps/JS Learning.canvas",
     "📱Media Collected/Pasted image 20230726083710.png",
     "📱Media Collected/Pasted image 20230718083520.png",
     "📱Media Collected/Pasted image 20230718081939.png",
@@ -193,7 +193,6 @@
     "🥏Permanent Note/古典音樂.md",
     "📱Media Collected/Pasted image 20230531154232.png",
     "📱Media Collected/Pasted image 20230531153632.png",
-    "📱Media Collected/Pasted image 20230531011303.png",
     "💡Journal/2023-05-27.md",
     "💡Journal/2023-05-26.md",
     "💡Journal/2023-05-24.md",
