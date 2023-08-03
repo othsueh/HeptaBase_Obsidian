@@ -21,8 +21,19 @@
                 }
               }
             }
+          },
+          {
+            "id": "86c781ec2f2f6f92",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -158,7 +169,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "86c781ec2f2f6f92",
   "lastOpenFiles": [
     "📱Media Collected/Pasted image 20230731193049.png",
     "📱Media Collected/Pasted image 20230731121354.png",
