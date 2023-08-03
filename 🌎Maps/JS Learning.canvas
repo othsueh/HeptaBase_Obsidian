@@ -94,7 +94,6 @@
 		{"type":"text","text":"# Difference\n![[Pasted image 20230731121354.png]]","id":"6e65fadc91d377ab","x":8340,"y":-3894,"width":520,"height":297},
 		{"type":"text","text":"# OOP in JS\n>Object Oriented Programming.","id":"308144b992a95890","x":7860,"y":-3800,"width":388,"height":109},
 		{"type":"text","text":"# constructor\n> constructor is the blueprint.\n\n```js\nconst Person = function(firstName, year){\n    this.firstName = firstName;\n    this.year = year;\n}\n```","id":"2ad6c63d80161522","x":7834,"y":-3520,"width":441,"height":301},
-		{"type":"text","text":"# steps\n1. New `{}` is created.\n2. function is called, this = `{}`\n3. `{}` linked to prototype\n4. function automatically return `{}`","id":"6f086d7aab2e7376","x":8380,"y":-3560,"width":362,"height":198},
 		{"type":"text","text":"# Declare new object\n```js\nconst jonas = new Person('jonas',1991);\nconsole.log(jonas);\n//Person {firstName: 'jonas', year: 1991}\nconsole.log(jonas instanceof Person);\n//true\n```","id":"b634d0e1d4850397","x":8377,"y":-3340,"width":446,"height":293},
 		{"type":"text","text":"# Relationship of prototype and object\n![[Pasted image 20230731193049.png]]","id":"d48e321c144db017","x":8160,"y":-2928,"width":502,"height":627},
 		{"type":"text","text":"# prototype of an object\n> We declare the jonas object by person constructor.\n```js\nconsole.log(jonas.__proto__ === Person.prototype);\n```","id":"a15873e6589d9022","x":9000,"y":-3129,"width":559,"height":201},
@@ -109,7 +108,8 @@
 		{"type":"text","text":"# .call()\n> We use `call()` method to give the function a this object\n\n```js\nfunc.call(thisObj,otherParameters);\n```","id":"7c397cc3e8f8735e","x":1120,"y":-380,"width":400,"height":244},
 		{"type":"text","text":"# .apply()\n>The siblings of `call()` method, parameter is an array\n\n```js\nfunc.apply(thisObj,[otherParameters]);\n```","id":"a2002a446c0aeced","x":1120,"y":-106,"width":400,"height":245},
 		{"type":"text","text":"# .bind()\n> Create a new function with thisObj, otherparameters ...\n\n```js\nnewFunc = func.bind(thisObj);\nnewFunc(otherParameters);\n```","id":"6f36f9389a07cc25","x":1110,"y":171,"width":420,"height":245},
-		{"type":"text","text":"# Type of Function\n> function in JS is actually object","id":"809549061db7c126","x":480,"y":-140,"width":384,"height":109}
+		{"type":"text","text":"# Type of Function\n> function in JS is actually object","id":"809549061db7c126","x":480,"y":-140,"width":384,"height":109},
+		{"type":"text","text":"# steps\n1. New `{}` is created.\n2. function is called, this = `{}`\n3. `{}` linked to prototype\n4. function automatically return `{}`","id":"6f086d7aab2e7376","x":8400,"y":-3584,"width":380,"height":210}
 	],
 	"edges":[
 		{"id":"e0a15b39813d7aad","fromNode":"a884f4db1b953a12","fromSide":"right","toNode":"7c397cc3e8f8735e","toSide":"left"},
