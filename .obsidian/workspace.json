@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 274.989375,
-                  "y": 96.4875,
-                  "zoom": -0.5
+                  "x": 9110.739385488832,
+                  "y": -162.70681933746732,
+                  "zoom": -0.4000000000000006
                 }
               }
             }
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/統計學.canvas"
+                "file": "🌎Maps/JS Learning.canvas"
               }
             }
           },
@@ -157,8 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,54 +171,54 @@
   },
   "active": "4a1e2b0b5fe6b905",
   "lastOpenFiles": [
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/統計學.canvas",
     "📱Media Collected/Pasted image 20230731193049.png",
     "📱Media Collected/Pasted image 20230731121354.png",
     "📱Media Collected/Pasted image 20230731114914.png",
     "📱Media Collected/Pasted image 20230731114848.png",
     "📱Media Collected/Pasted image 20230731114821.png",
-    "conflict-files-obsidian-git.md",
-    "Untitled.canvas",
+    "🌎Maps/統計學.canvas",
+    "💡Journal/2023-07-28.md",
     "📱Media Collected/Pasted image 20230726083710.png",
+    "🌎Maps/2023 Summer Training.canvas",
+    "🌎Maps/DS.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🌎Maps/JS Learning.canvas",
     "📱Media Collected/Pasted image 20230718083520.png",
     "📱Media Collected/Pasted image 20230718081939.png",
-    "💡Journal/2023-07-28.md",
     "💡Journal/2023-07-17.md",
     "💡Journal/2023-07-14.md",
     "💡Journal/2023-07-12.md",
     "💡Journal/2023-07-07.md",
-    "🌎Maps/2023 Summer Training.canvas",
     "💡Journal/2023-07-05.md",
-    "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-07-03.md",
+    "Untitled.canvas",
     "💡Journal/2023-07-02.md",
+    "[2023-05-08.md",
     "💡Journal/2023-06-13.md",
     "💡Journal/2023-06-12.md",
+    "💡Journal/2023-05-27.md",
+    "💡Journal/2023-05-26.md",
+    "💡Journal/2023-05-24.md",
+    "💡Journal/2023-05-20.md",
+    "💡Journal/2023-05-16.md",
+    "💡Journal/2023-05-15.md",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/管理概論.canvas",
-    "🌎Maps/DS.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/古典音樂.canvas",
     "🥏Permanent Note/管理概論.md",
     "🥏Permanent Note/古典音樂.md",
     "📱Media Collected/Pasted image 20230531154232.png",
     "📱Media Collected/Pasted image 20230531153632.png",
-    "💡Journal/2023-05-27.md",
-    "💡Journal/2023-05-26.md",
-    "💡Journal/2023-05-24.md",
+    "📱Media Collected/Pasted image 20230531011303.png",
     "🥏Permanent Note/Discrete Mathmatics.md",
-    "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
     "🥏Permanent Note/Question About the World.md",
-    "💡Journal/2023-05-15.md",
-    "💡Journal/2023-05-16.md",
+    "🥏Permanent Note/JS Learned.md",
     "🌎Maps/技術面.canvas",
-    "🌎Maps/Multi Calculus.canvas",
     "Permanent Note/Multi Calculus.md",
     "Permanent Note",
     "📱Media Collected",
-    "🦄Templates/01 - Journal.md",
     "💡Journal",
     "🥏Permanent Note",
     "🦄Templates",
