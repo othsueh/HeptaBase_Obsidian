@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/DSA.canvas",
                 "viewState": {
-                  "x": -3846.683019311787,
-                  "y": 1794.6801757621445,
-                  "zoom": 0.40000000000000013
+                  "x": -3561.5,
+                  "y": 1009.4362617641799,
+                  "zoom": -1.5947990727956967
                 }
               }
             }
@@ -150,12 +150,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +168,7 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "45ea0541bc9515b0",
   "lastOpenFiles": [
     "💡Journal/2023-08-16.md",
     "🌎Maps/DSA.canvas",
