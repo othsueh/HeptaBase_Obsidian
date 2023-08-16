@@ -33,19 +33,9 @@
                 }
               }
             }
-          },
-          {
-            "id": "e5a64be05944ac31",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+                "file": "🌎Maps/DSA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+                "file": "🌎Maps/DSA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
+                "file": "🌎Maps/DSA.canvas"
               }
             }
           },
@@ -182,10 +172,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5a64be05944ac31",
+  "active": "4a1e2b0b5fe6b905",
   "lastOpenFiles": [
-    "excalibrain.md",
     "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+    "excalibrain.md",
     "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/DSA.canvas",
     "📱Media Collected/Pasted image 20230816161724.png",
