@@ -23,9 +23,11 @@
             "id": "4a1e2b0b5fe6b905",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
