@@ -11,14 +11,11 @@
             "id": "7eefe94303516fa7",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
-                "viewState": {
-                  "x": -1551.4660937500005,
-                  "y": 1430.5,
-                  "zoom": 0
-                }
+                "file": "💡Journal/2023-08-16.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -104,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "💡Journal/2023-08-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "💡Journal/2023-08-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/DSA.canvas"
+                "file": "💡Journal/2023-08-16.md"
               }
             }
           },
@@ -176,9 +173,10 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
+    "🌎Maps/DSA.canvas",
+    "💡Journal/2023-08-16.md",
     "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/統計學.canvas",
-    "🌎Maps/DSA.canvas",
     "🌎Maps/2023 Summer Training.canvas",
     "🌎Maps/JS Learning.canvas",
     "🌎Maps/古典音樂.canvas",
@@ -220,7 +218,6 @@
     "🥏Permanent Note/Question About the World.md",
     "💡Journal/2023-05-15.md",
     "💡Journal/2023-05-16.md",
-    "Permanent Note/Multi Calculus.md",
     "Permanent Note",
     "📱Media Collected",
     "💡Journal",
