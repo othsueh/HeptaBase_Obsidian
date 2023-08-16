@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/統計學.canvas",
+                "file": "🌎Maps/DSA.canvas",
                 "viewState": {
-                  "x": 274.989375,
-                  "y": 96.4875,
-                  "zoom": -0.5
+                  "x": 334,
+                  "y": 747.5,
+                  "zoom": -1.0961448410577521
                 }
               }
             }
@@ -37,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -88,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -174,8 +174,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4a1e2b0b5fe6b905",
+  "active": "7eefe94303516fa7",
   "lastOpenFiles": [
+    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/統計學.canvas",
     "🌎Maps/DSA.canvas",
     "🌎Maps/2023 Summer Training.canvas",
@@ -183,7 +184,6 @@
     "🌎Maps/古典音樂.canvas",
     "🌎Maps/技術面.canvas",
     "🌎Maps/管理概論.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "💡Journal/2023-08-07.md",
     "Untitled.canvas",
     "📱Media Collected/Pasted image 20230731193049.png",
