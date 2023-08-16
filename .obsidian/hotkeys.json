@@ -22,5 +22,14 @@
       ],
       "key": "ArrowDown"
     }
+  ],
+  "markdown-table-editor:markdown-table-editor-open-horizontal": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
