@@ -15,25 +15,11 @@
               "state": {
                 "file": "🌎Maps/DSA.canvas",
                 "viewState": {
-                  "x": -1058.5,
-                  "y": 1627.5,
-                  "zoom": -1.0001202195776613
+                  "x": -1082.6238851562503,
+                  "y": 2000.2140256640653,
+                  "zoom": -0.00012021957766128466
                 }
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "07305b4f19e73ad7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "abad77c5a1f06b27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown-table-editor-view",
-              "state": {}
             }
           }
         ]
