@@ -38,9 +38,14 @@
             "id": "e5a64be05944ac31",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "canvas",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "viewState": {
+                  "x": 179.5,
+                  "y": 2824.5,
+                  "zoom": -3.7401900183393804
+                }
               }
             }
           }
@@ -111,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+                "file": "🌎Maps/Discrete Mathmatics.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
+                "file": "🌎Maps/Discrete Mathmatics.canvas"
               }
             }
           },
@@ -184,8 +189,8 @@
   },
   "active": "e5a64be05944ac31",
   "lastOpenFiles": [
-    "🌎Maps/DSA.canvas",
     "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+    "🌎Maps/DSA.canvas",
     "📱Media Collected/Pasted image 20230816161724.png",
     "💡Journal/2023-08-16.md",
     "🌎Maps/Discrete Mathmatics.canvas",
