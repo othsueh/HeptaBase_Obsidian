@@ -27,14 +27,15 @@
               "state": {
                 "file": "🌎Maps/DSA.canvas",
                 "viewState": {
-                  "x": 603.83623046875,
-                  "y": 1134.0221679687493,
-                  "zoom": -1.5961448410577521
+                  "x": -1241.5,
+                  "y": 1430.5,
+                  "zoom": 0
                 }
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-08-16.md",
+                "file": "🌎Maps/DSA.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-08-16.md",
+                "file": "🌎Maps/DSA.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-08-16.md"
+                "file": "🌎Maps/DSA.canvas"
               }
             }
           },
@@ -171,10 +172,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "4a1e2b0b5fe6b905",
   "lastOpenFiles": [
-    "🌎Maps/DSA.canvas",
     "💡Journal/2023-08-16.md",
+    "🌎Maps/DSA.canvas",
     "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/統計學.canvas",
     "🌎Maps/2023 Summer Training.canvas",
