@@ -23,14 +23,9 @@
             "id": "4a1e2b0b5fe6b905",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
-                "viewState": {
-                  "x": -1241.9995803887434,
-                  "y": 1667.3939553887458,
-                  "zoom": -0.5
-                }
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
               }
             }
           }
@@ -101,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/DSA.canvas"
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
               }
             }
           },
@@ -174,10 +169,10 @@
   },
   "active": "4a1e2b0b5fe6b905",
   "lastOpenFiles": [
+    "🌎Maps/DSA.canvas",
     "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
     "excalibrain.md",
     "🌎Maps/Discrete Mathmatics.canvas",
-    "🌎Maps/DSA.canvas",
     "📱Media Collected/Pasted image 20230816161724.png",
     "💡Journal/2023-08-16.md",
     "🌎Maps/統計學.canvas",
@@ -219,7 +214,6 @@
     "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
     "🥏Permanent Note/Question About the World.md",
-    "💡Journal/2023-05-15.md",
     "Permanent Note",
     "📱Media Collected",
     "💡Journal",
