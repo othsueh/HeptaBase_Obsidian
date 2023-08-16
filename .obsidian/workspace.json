@@ -38,14 +38,9 @@
             "id": "e5a64be05944ac31",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
-                "viewState": {
-                  "x": 179.5,
-                  "y": 2824.5,
-                  "zoom": -3.7401900183393804
-                }
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
               }
             }
           }
@@ -116,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas",
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Discrete Mathmatics.canvas"
+                "file": "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md"
               }
             }
           },
@@ -189,11 +184,12 @@
   },
   "active": "e5a64be05944ac31",
   "lastOpenFiles": [
+    "excalibrain.md",
     "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/DSA.canvas",
     "📱Media Collected/Pasted image 20230816161724.png",
     "💡Journal/2023-08-16.md",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/統計學.canvas",
     "🌎Maps/2023 Summer Training.canvas",
     "🌎Maps/JS Learning.canvas",
