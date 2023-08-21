@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "03269fa9741ae4bc",
+        "id": "e179461377bbdeb7",
         "type": "tabs",
         "children": [
           {
-            "id": "7eefe94303516fa7",
+            "id": "992e3a4a6dd061b7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "🌎Maps/DSA.canvas",
                 "viewState": {
-                  "x": -3561.5,
-                  "y": 1009.4362617641799,
-                  "zoom": -1.5947990727956967
+                  "x": -5473,
+                  "y": -26,
+                  "zoom": 0
                 }
               }
             }
@@ -140,14 +140,6 @@
               "type": "git-view",
               "state": {}
             }
-          },
-          {
-            "id": "383f56ad767e37cb",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
         "currentTab": 4
@@ -163,58 +155,56 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "markdown-table-editor:Open Markdown Table Editor": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "45ea0541bc9515b0",
+  "active": "992e3a4a6dd061b7",
   "lastOpenFiles": [
+    "🌎Maps/JS Learning.canvas",
+    "📱Media Collected/Pasted image 20230816161724.png",
     "💡Journal/2023-08-16.md",
     "🌎Maps/DSA.canvas",
-    "🌎Maps/Multi Calculus.canvas",
-    "🌎Maps/Discrete Mathmatics.canvas",
-    "🌎Maps/質疑這個世界.canvas",
     "excalibrain.md",
-    "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
-    "📱Media Collected/Pasted image 20230816161724.png",
-    "🌎Maps/統計學.canvas",
-    "🌎Maps/2023 Summer Training.canvas",
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/古典音樂.canvas",
-    "🌎Maps/技術面.canvas",
-    "🌎Maps/管理概論.canvas",
     "💡Journal/2023-08-07.md",
+    "conflict-files-obsidian-git.md",
+    "🌎Maps/技術面.canvas",
     "📱Media Collected/Pasted image 20230731193049.png",
     "📱Media Collected/Pasted image 20230731121354.png",
     "📱Media Collected/Pasted image 20230731114914.png",
     "📱Media Collected/Pasted image 20230731114848.png",
     "📱Media Collected/Pasted image 20230731114821.png",
-    "conflict-files-obsidian-git.md",
+    "🌎Maps/統計學.canvas",
+    "💡Journal/2023-07-28.md",
     "📱Media Collected/Pasted image 20230726083710.png",
+    "🌎Maps/2023 Summer Training.canvas",
+    "🌎Maps/DS.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
     "📱Media Collected/Pasted image 20230718083520.png",
     "📱Media Collected/Pasted image 20230718081939.png",
-    "💡Journal/2023-07-28.md",
     "💡Journal/2023-07-17.md",
     "💡Journal/2023-07-14.md",
     "💡Journal/2023-07-12.md",
     "💡Journal/2023-07-07.md",
     "💡Journal/2023-07-05.md",
-    "🥏Permanent Note/JS Learned.md",
     "💡Journal/2023-07-03.md",
+    "Untitled.canvas",
     "💡Journal/2023-07-02.md",
+    "[2023-05-08.md",
     "💡Journal/2023-06-13.md",
     "💡Journal/2023-06-12.md",
-    "🥏Permanent Note/管理概論.md",
-    "🥏Permanent Note/古典音樂.md",
-    "📱Media Collected/Pasted image 20230531154232.png",
     "💡Journal/2023-05-27.md",
     "💡Journal/2023-05-26.md",
     "💡Journal/2023-05-24.md",
-    "🥏Permanent Note/Discrete Mathmatics.md",
     "💡Journal/2023-05-20.md",
+    "💡Journal/2023-05-16.md",
+    "💡Journal/2023-05-15.md",
+    "🌎Maps/管理概論.canvas",
+    "🌎Maps/質疑這個世界.canvas",
+    "🥏Permanent Note/管理概論.md",
+    "🥏Permanent Note/古典音樂.md",
+    "📱Media Collected/Pasted image 20230531154232.png",
+    "🥏Permanent Note/Discrete Mathmatics.md",
     "🥏Permanent Note/技術分析.md",
-    "🥏Permanent Note/Question About the World.md",
     "Permanent Note",
     "📱Media Collected",
     "💡Journal",
