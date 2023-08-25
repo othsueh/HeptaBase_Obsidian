@@ -6,7 +6,7 @@
 		{"type":"text","text":"# get value_count\n> to get value in count.\n\n```py\nreview.value_counts()\n#output\n\"\"\"\nRoger Voss           25514\nMichael Schachner    15134\n                     ...  \nFiona Adams             27\nChristina Pickard        6\nName: taster_name, Length: 19, dtype: int64\n\"\"\"\n```","id":"1cf5413efbaabe20","x":-292,"y":671,"width":520,"height":389},
 		{"id":"dd7659bd843a0ad8","x":-369,"y":1120,"width":674,"height":436,"type":"text","text":"# map\n> create new representation from exist data.\n\n```py\nreview_points_mean = reviews.points.mean()\nreviews.points.map(lambda p: p - review_points_mean)\n#output \n\"\"\"\n0        -1.447138\n1        -1.447138\n            ...   \n129969    1.552862\n129970    1.552862\nName: points, Length: 129971, dtype: float64\n\"\"\"\n```"},
 		{"id":"79ddc0a13eb83a4c","x":360,"y":1181,"width":552,"height":314,"type":"text","text":"# apply\n> same used as map. But can transform a whole DataFrame by calling a custom method\n\n```py\ndef remean_points(row):\n    row.points = row.points - review_points_mean\n    return row\n\nreviews.apply(remean_points, axis='columns')\n```"},
-		{"id":"dec973f04d668542","x":-147,"y":1634,"width":250,"height":60,"type":"text","text":"# group\n> "}
+		{"id":"dec973f04d668542","x":-245,"y":1640,"width":427,"height":143,"type":"text","text":"# group\n> Grouping make us do some specific to the specialized data. The group's topic can be the index of the dataframe.\n\n```py\n\n```"}
 	],
 	"edges":[
 		{"id":"c749034a81fc877c","fromNode":"e9140c5044f1cc96","fromSide":"bottom","toNode":"a80eebedfd591de2","toSide":"top"},
