@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "🌎Maps/Python.canvas",
                 "viewState": {
-                  "x": -494.0639563177572,
-                  "y": 798.1401922468749,
-                  "zoom": -1.5947990727956967
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
                 }
               }
             }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -89,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "🌎Maps/Python.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/DSA.canvas",
+                "file": "🌎Maps/Python.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/DSA.canvas"
+                "file": "🌎Maps/Python.canvas"
               }
             }
           },
@@ -169,20 +168,21 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "45ea0541bc9515b0",
+  "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "💡Journal/2023-08-16.md",
     "🌎Maps/DSA.canvas",
+    "🌎Maps/Python.canvas",
+    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/古典音樂.canvas",
     "🌎Maps/Multi Calculus.canvas",
+    "excalibrain.md",
+    "💡Journal/2023-08-16.md",
     "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/質疑這個世界.canvas",
-    "excalibrain.md",
     "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
     "📱Media Collected/Pasted image 20230816161724.png",
     "🌎Maps/統計學.canvas",
     "🌎Maps/2023 Summer Training.canvas",
-    "🌎Maps/JS Learning.canvas",
-    "🌎Maps/古典音樂.canvas",
     "🌎Maps/技術面.canvas",
     "🌎Maps/管理概論.canvas",
     "💡Journal/2023-08-07.md",
