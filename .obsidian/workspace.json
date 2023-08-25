@@ -15,9 +15,9 @@
               "state": {
                 "file": "🌎Maps/Python.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": 81.9655869092318,
+                  "y": 987.5263332541558,
+                  "zoom": 0.28183881290484014
                 }
               }
             }
@@ -153,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,28 +169,27 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "🌎Maps/DSA.canvas",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/Python.canvas",
-    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/管理概論.canvas",
     "🌎Maps/古典音樂.canvas",
     "🌎Maps/Multi Calculus.canvas",
+    "🌎Maps/Discrete Mathmatics.canvas",
+    "🌎Maps/JS Learning.canvas",
+    "🌎Maps/DSA.canvas",
     "excalibrain.md",
     "💡Journal/2023-08-16.md",
-    "🌎Maps/Discrete Mathmatics.canvas",
     "🌎Maps/質疑這個世界.canvas",
     "🌎Maps/Drawing 2023-08-16 16.45.22.excalidraw.md",
     "📱Media Collected/Pasted image 20230816161724.png",
     "🌎Maps/統計學.canvas",
     "🌎Maps/2023 Summer Training.canvas",
-    "🌎Maps/技術面.canvas",
-    "🌎Maps/管理概論.canvas",
     "💡Journal/2023-08-07.md",
     "📱Media Collected/Pasted image 20230731193049.png",
     "📱Media Collected/Pasted image 20230731121354.png",
     "📱Media Collected/Pasted image 20230731114914.png",
     "📱Media Collected/Pasted image 20230731114848.png",
     "📱Media Collected/Pasted image 20230731114821.png",
-    "conflict-files-obsidian-git.md",
     "📱Media Collected/Pasted image 20230726083710.png",
     "📱Media Collected/Pasted image 20230718083520.png",
     "📱Media Collected/Pasted image 20230718081939.png",
