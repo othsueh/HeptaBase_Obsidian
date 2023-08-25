@@ -4,12 +4,14 @@
 		{"type":"text","text":"# describe\n> get summary of the dataset.\n\n```py\ndata.describe()\n#output\n\"\"\"\ncount    129971.000000\nmean         88.447138\n             ...      \n75%          91.000000\nmax         100.000000\nName: points, Length: 8, dtype: float64\n\"\"\"\n```","id":"a80eebedfd591de2","x":-270,"y":-120,"width":470,"height":412},
 		{"type":"text","text":"# get unique set\n> to get unique value in column\n```py\nreview.unique()\n#output\n\"\"\"\narray(['Kerin O’Keefe', 'Roger Voss'])\n\"\"\"\n```\n","id":"4a12412a13023d60","x":-265,"y":346,"width":465,"height":294},
 		{"type":"text","text":"# get value_count\n> to get value in count.\n\n```py\nreview.value_counts()\n#output\n\"\"\"\nRoger Voss           25514\nMichael Schachner    15134\n                     ...  \nFiona Adams             27\nChristina Pickard        6\nName: taster_name, Length: 19, dtype: int64\n\"\"\"\n```","id":"1cf5413efbaabe20","x":-292,"y":671,"width":520,"height":389},
-		{"id":"dd7659bd843a0ad8","x":-369,"y":1120,"width":674,"height":436,"type":"text","text":"# map\n> create new representation from exist data.\n\n```py\nreview_points_mean = reviews.points.mean()\nreviews.points.map(lambda p: p - review_points_mean)\n#output \n\"\"\"\n0        -1.447138\n1        -1.447138\n            ...   \n129969    1.552862\n129970    1.552862\nName: points, Length: 129971, dtype: float64\n\"\"\"\n```"}
+		{"id":"dd7659bd843a0ad8","x":-369,"y":1120,"width":674,"height":436,"type":"text","text":"# map\n> create new representation from exist data.\n\n```py\nreview_points_mean = reviews.points.mean()\nreviews.points.map(lambda p: p - review_points_mean)\n#output \n\"\"\"\n0        -1.447138\n1        -1.447138\n            ...   \n129969    1.552862\n129970    1.552862\nName: points, Length: 129971, dtype: float64\n\"\"\"\n```"},
+		{"id":"79ddc0a13eb83a4c","x":408,"y":1306,"width":250,"height":76,"type":"text","text":"# apply\n> same used as map, but can create a new ono"}
 	],
 	"edges":[
 		{"id":"c749034a81fc877c","fromNode":"e9140c5044f1cc96","fromSide":"bottom","toNode":"a80eebedfd591de2","toSide":"top"},
 		{"id":"dfef9b8e6aba8dfc","fromNode":"a80eebedfd591de2","fromSide":"bottom","toNode":"4a12412a13023d60","toSide":"top"},
 		{"id":"568d56722eed708b","fromNode":"4a12412a13023d60","fromSide":"bottom","toNode":"1cf5413efbaabe20","toSide":"top"},
-		{"id":"78caf946c4a5961b","fromNode":"1cf5413efbaabe20","fromSide":"bottom","toNode":"dd7659bd843a0ad8","toSide":"top"}
+		{"id":"78caf946c4a5961b","fromNode":"1cf5413efbaabe20","fromSide":"bottom","toNode":"dd7659bd843a0ad8","toSide":"top"},
+		{"id":"55092d93a7aa6f7b","fromNode":"dd7659bd843a0ad8","fromSide":"right","toNode":"79ddc0a13eb83a4c","toSide":"left"}
 	]
 }
