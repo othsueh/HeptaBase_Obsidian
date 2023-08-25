@@ -4,7 +4,7 @@
 		{"type":"text","text":"# Panda","id":"e9140c5044f1cc96","x":-110,"y":-260,"width":150,"height":60},
 		{"type":"text","text":"# get unique set\n> to get unique value in column\n```py\nreview.unique()\n#output\narray(['Kerin O’Keefe', 'Roger Voss'])\n```\n","id":"4a12412a13023d60","x":-227,"y":320,"width":465,"height":241},
 		{"type":"text","text":"# get value_count\n> to get value in count.\n\n```py\nreview.value_counts()\n#output\nRoger Voss           25514\nMichael Schachner    15134\n                     ...  \nFiona Adams             27\nChristina Pickard        6\nName: taster_name, Length: 19, dtype: int64\n```","id":"1cf5413efbaabe20","x":-220,"y":640,"width":451,"height":389},
-		{"id":"dd7659bd843a0ad8","x":-119,"y":1085,"width":250,"height":60,"type":"text","text":"# map\n> "}
+		{"id":"dd7659bd843a0ad8","x":-331,"y":1060,"width":674,"height":211,"type":"text","text":"# map\n> create new representation from exist data.\n\n```py\nreview_points_mean = reviews.points.mean()\nreviews.points.map(lambda p: p - review_points_mean)\n```"}
 	],
 	"edges":[
 		{"id":"c749034a81fc877c","fromNode":"e9140c5044f1cc96","fromSide":"bottom","toNode":"a80eebedfd591de2","toSide":"top"},

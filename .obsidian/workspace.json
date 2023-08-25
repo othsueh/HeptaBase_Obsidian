@@ -16,7 +16,7 @@
                 "file": "🌎Maps/Python.canvas",
                 "viewState": {
                   "x": 81.9655869092318,
-                  "y": 987.5263332541558,
+                  "y": 1100.6214834420725,
                   "zoom": 0.28183881290484014
                 }
               }
@@ -72,7 +72,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -153,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
