@@ -15,8 +15,8 @@
               "state": {
                 "file": "🌎Maps/DSA.canvas",
                 "viewState": {
-                  "x": -3561.5,
-                  "y": 1009.4362617641799,
+                  "x": -494.0639563177572,
+                  "y": 798.1401922468749,
                   "zoom": -1.5947990727956967
                 }
               }
@@ -154,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
