@@ -6,7 +6,8 @@
 		{"id":"dd7659bd843a0ad8","x":-369,"y":1120,"width":674,"height":436,"type":"text","text":"# map\n> create new representation from exist data.\n\n```python\nreview_points_mean = reviews.points.mean()\nreviews.points.map(lambda p: p - review_points_mean)\n#output \n\"\"\"\n0        -1.447138\n1        -1.447138\n            ...   \n129969    1.552862\n129970    1.552862\nName: points, Length: 129971, dtype: float64\n\"\"\"\n```"},
 		{"id":"79ddc0a13eb83a4c","x":360,"y":1181,"width":552,"height":314,"type":"text","text":"# apply\n> same used as map. But can transform a whole DataFrame by calling a custom method\n\n```python\ndef remean_points(row):\n    row.points = row.points - review_points_mean\n    return row\n\nreviews.apply(remean_points, axis='columns')\n```"},
 		{"type":"text","text":"# get value_count\n> to get value in count.\n\n```python\nreview.value_counts()\n#output\n\"\"\"\nRoger Voss           25514\nMichael Schachner    15134\n                     ...  \nFiona Adams             27\nChristina Pickard        6\nName: taster_name, Length: 19, dtype: int64\n\"\"\"\n```","id":"1cf5413efbaabe20","x":-292,"y":680,"width":520,"height":389},
-		{"id":"dec973f04d668542","x":-307,"y":1640,"width":550,"height":490,"type":"text","text":"# group\n> Grouping make us do some specific to the specialized data. The group's topic can be the index of the dataframe.\n\n```python\nreviews.groupby('points').points.count()\n#output\n\"\"\"\npoints\n80     397\n81     692\n      ... \n99      33\n100     19\nName: points, Length: 21, dtype: int64\n\"\"\"\n```"}
+		{"id":"dec973f04d668542","x":-307,"y":1640,"width":550,"height":490,"type":"text","text":"# group\n> Grouping make us do some specific to the specialized data. The group's topic can be the index of the dataframe.\n\n```python\nreviews.groupby('points').points.count()\n#output\n\"\"\"\npoints\n80     397\n81     692\n      ... \n99      33\n100     19\nName: points, Length: 21, dtype: int64\n\"\"\"\n```"},
+		{"id":"b6ab48e8aae8d141","x":380,"y":1846,"width":600,"height":210,"type":"text","text":"# agg\n> help you runs many functions on dataframe simultaneously.\n\n```python\nreviews.groupby(['country']).price.agg([len, min, max])\n#outp\n\"\"\"\n```"}
 	],
 	"edges":[
 		{"id":"c749034a81fc877c","fromNode":"e9140c5044f1cc96","fromSide":"bottom","toNode":"a80eebedfd591de2","toSide":"top"},
@@ -14,6 +15,7 @@
 		{"id":"568d56722eed708b","fromNode":"4a12412a13023d60","fromSide":"bottom","toNode":"1cf5413efbaabe20","toSide":"top"},
 		{"id":"78caf946c4a5961b","fromNode":"1cf5413efbaabe20","fromSide":"bottom","toNode":"dd7659bd843a0ad8","toSide":"top"},
 		{"id":"55092d93a7aa6f7b","fromNode":"dd7659bd843a0ad8","fromSide":"right","toNode":"79ddc0a13eb83a4c","toSide":"left"},
-		{"id":"cf6e7369fb6b40eb","fromNode":"dd7659bd843a0ad8","fromSide":"bottom","toNode":"dec973f04d668542","toSide":"top"}
+		{"id":"cf6e7369fb6b40eb","fromNode":"dd7659bd843a0ad8","fromSide":"bottom","toNode":"dec973f04d668542","toSide":"top"},
+		{"id":"9b6e1507dc4ae747","fromNode":"dec973f04d668542","fromSide":"right","toNode":"b6ab48e8aae8d141","toSide":"left"}
 	]
 }
