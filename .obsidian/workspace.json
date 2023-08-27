@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "💡Journal/2023-08-07.md",
+                "file": "💡Journal/2023-08-28.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "💡Journal/2023-08-07.md",
+                "file": "💡Journal/2023-08-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "💡Journal/2023-08-07.md",
+                "file": "💡Journal/2023-08-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "💡Journal/2023-08-07.md"
+                "file": "💡Journal/2023-08-28.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +159,9 @@
   },
   "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "💡Journal/2023-08-07.md",
+    "💡Journal/2023-08-28.md",
+    "conflict-files-obsidian-git.md",
     "🌎Maps/Python.canvas",
     "📱Media Collected/Pasted image 20230816161724.png",
     "💡Journal/2023-08-16.md",
