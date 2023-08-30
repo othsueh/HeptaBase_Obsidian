@@ -16,7 +16,7 @@
                 "file": "🌎Maps/Python.canvas",
                 "viewState": {
                   "x": 1167.6469858943788,
-                  "y": 407.4776103717614,
+                  "y": 2768.13061839266,
                   "zoom": -1.5
                 }
               }
@@ -72,8 +72,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "a620f084a5a46883",
@@ -154,8 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5,
-    "collapsed": true
+    "width": 439.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +167,11 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "7eefe94303516fa7",
+  "active": "e6dfbe2f8f379d3e",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "🌎Maps/Python.canvas",
+    "💡Journal/2023-08-28.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/古典音樂.canvas",
     "🌎Maps/Multi Calculus.canvas",
@@ -215,7 +214,6 @@
     "🥏Permanent Note/Discrete Mathmatics.md",
     "💡Journal/2023-05-20.md",
     "🥏Permanent Note/技術分析.md",
-    "🥏Permanent Note/Question About the World.md",
     "Permanent Note",
     "📱Media Collected",
     "💡Journal",
