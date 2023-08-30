@@ -9,8 +9,8 @@
 		{"type":"text","text":"# group\n> Grouping make us do some specific to the specialized data. The group's topic can be the index of the dataframe.\n\n```python\nreviews.groupby('points').points.count()\n#output\n\"\"\"\npoints\n80     397\n81     692\n      ... \n99      33\n100     19\nName: points, Length: 21, dtype: int64\n\"\"\"\n```","id":"dec973f04d668542","x":-307,"y":1640,"width":550,"height":490},
 		{"type":"text","text":"# agg\n> help you runs many functions on dataframe simultaneously.\n\n```python\nreviews.groupby(['country']).price.agg([len, min, max])\n#output\n```\n\n||len|min|max|\n|---|---|---|---|\n|country||||\n|Argentina|3800|4.0|230.0|\n|Armenia|2|14.0|15.0|\n|...|...|...|...|\n|Ukraine|14|6.0|13.0|\n|Uruguay|109|10.0|130.0|","id":"b6ab48e8aae8d141","x":360,"y":1640,"width":585,"height":507},
 		{"type":"text","text":"# sort\n> sort the dataframe with specific topic.\n\n## sort_values method\n```python\n\ncountries_reviewed.sort_values(by='len', ascending=False)\n#output\n```\n|country|province|len|\n|---|---|---|\n|392|US|California|36247|\n|415|US|Washington|8639|\n|...|...|...|...|\n|63|Chile|Coelemu|1|\n|149|Greece|Beotia|1|\n\n## sort_index method\n```python\ncountries_reviewed.sort_index()\n#output\n```\n|country|province|len|\n|---|---|---|\n|0|Argentina|Mendoza Province|3264|\n|1|Argentina|Other|536|\n|...|...|...|...|\n|423|Uruguay|San Jose|3|\n|424|Uruguay|Uruguay|24|","id":"ca34367713eae9da","x":-361,"y":2200,"width":658,"height":921},
-		{"id":"6d674173ca814fd2","x":-1286,"y":-483,"width":126,"height":63,"type":"text","text":"# DSA"},
-		{"id":"2e6ebe862d3324b2","x":-1352,"y":-362,"width":250,"height":60,"type":"text","text":"# mapping"}
+		{"type":"text","text":"# DSA","id":"6d674173ca814fd2","x":-1286,"y":-483,"width":126,"height":63},
+		{"type":"text","text":"# Destructuring\n","id":"2e6ebe862d3324b2","x":-1348,"y":-320,"width":328,"height":79}
 	],
 	"edges":[
 		{"id":"c749034a81fc877c","fromNode":"e9140c5044f1cc96","fromSide":"bottom","toNode":"a80eebedfd591de2","toSide":"top"},
