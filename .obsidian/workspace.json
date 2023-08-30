@@ -13,11 +13,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "🌎Maps/Python.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "viewState": {
-                  "x": 1167.6469858943788,
-                  "y": 2768.13061839266,
-                  "zoom": -1.5
+                  "x": 1328.7810701072697,
+                  "y": 1542.0566783874685,
+                  "zoom": -1
                 }
               }
             }
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "spread opera",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +68,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -88,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🌎Maps/Python.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🌎Maps/Python.canvas",
+                "file": "🌎Maps/JS Learning.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +129,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🌎Maps/Python.canvas"
+                "file": "🌎Maps/JS Learning.canvas"
               }
             }
           },
@@ -153,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,10 +169,10 @@
       "markdown-table-editor:Open Markdown Table Editor": false
     }
   },
-  "active": "e6dfbe2f8f379d3e",
+  "active": "7eefe94303516fa7",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "🌎Maps/Python.canvas",
+    "conflict-files-obsidian-git.md",
     "💡Journal/2023-08-28.md",
     "🌎Maps/管理概論.canvas",
     "🌎Maps/古典音樂.canvas",
